@@ -39,6 +39,11 @@ The interesting part of this project is that there isn't just one way to do this
 
 None of this is meant to replace human judgment. The output of the topic modeling is a starting point — a way to surface patterns across dozens of hours of documentary footage that would be very hard to notice by reading alone. A researcher still needs to look at what the model finds, decide whether it makes sense, and dig into the actual transcript passages behind each topic.
 
+The visualizations below show the current results — each corresponds to a different chunking approach and can be explored interactively:
+
+- [Time-Window Approach](https://max-vonkahle.github.io/Gun-Violence-Documentary-Analysis/visualizations/Time_Window_Bertopic.html) — transcripts divided into fixed 60-second windows regardless of who is speaking
+- [Speaker-Turn Approach](https://max-vonkahle.github.io/Gun-Violence-Documentary-Analysis/visualizations/Turn_Script_Bertopic.html) — transcripts divided along speaker-turn boundaries
+
 ## Why this matters
 
 Gun violence documentaries are made by different filmmakers, with different focuses, often years apart. If common themes appear across many of them regardless of speaker, that says something about how our culture consistently frames this issue. If themes split sharply by *who* is speaking, that says something about whose perspectives get represented, and how — which is itself worth studying as a piece of media analysis, independent of the technical experiment.

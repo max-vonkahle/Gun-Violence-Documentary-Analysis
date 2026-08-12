@@ -1,0 +1,867 @@
+[00:21] NEWS_CLIP_01: 9-1-1, what is the altitude?
+[00:46] EYEWITNESS_COMMUNITY_VOICE_01: Y'all boys come here!
+[00:47] EYEWITNESS_COMMUNITY_VOICE_01: Come here!
+[00:48] EYEWITNESS_COMMUNITY_VOICE_01: Hey, y'all boys come here!
+[00:49] EYEWITNESS_COMMUNITY_VOICE_01: Come here!
+[00:50] EYEWITNESS_COMMUNITY_VOICE_01: Stay over here!
+[00:54] EYEWITNESS_COMMUNITY_VOICE_01: Okay, they're going as fast as they can.
+[01:00] EYEWITNESS_COMMUNITY_VOICE_01: We're on the ground!
+[01:03] EYEWITNESS_COMMUNITY_VOICE_01: Zone 1 Marion, 5 Marion.
+[01:16] EYEWITNESS_COMMUNITY_VOICE_01: Marion S.O.
+[01:17] EYEWITNESS_COMMUNITY_VOICE_01: 2.
+[01:17] EYEWITNESS_COMMUNITY_VOICE_01: Hold on.
+[01:19] EYEWITNESS_COMMUNITY_VOICE_01: Sheriff's Office, come outside with your hands up!
+[01:36] PROFESSIONAL_01: Is the Marion County Sheriff's Office, come outside with your hands up!
+[02:00] EYEWITNESS_COMMUNITY_VOICE_01: Monday, June 5th, 2023, 938 a.m. We're out at the incident location.
+[02:06] EYEWITNESS_COMMUNITY_VOICE_01: Just doing a canvas.
+[02:09] EYEWITNESS_COMMUNITY_VOICE_01: I better start a loop.
+[02:11] EYEWITNESS_COMMUNITY_VOICE_01: Okay.
+[02:13] COMMUNITY_VOICE_01: Sheriff's office.
+[02:18] NEWS_CLIP_01: Sheriff's office.
+[02:20] NEWS_CLIP_01: Hello, good morning.
+[02:21] NEWS_CLIP_01: I'm good.
+[02:22] NEWS_CLIP_01: I'm with the sheriff's office.
+[02:23] NEWS_CLIP_01: I'm the detective.
+[02:24] NEWS_CLIP_01: We're investigating the incident that happened on Friday night.
+[02:28] PROFESSIONAL_02: You mind if I sit?
+[02:28] PROFESSIONAL_02: Well, the chair's broken.
+[02:30] COMMUNITY_VOICE_02: Let me go get you a chair.
+[02:30] EYEWITNESS_COMMUNITY_VOICE_01: And how long have you been living here?
+[02:33] PROFESSIONAL_02: About three years.
+[02:36] PROFESSIONAL_02: Has she lived here the whole time or something different?
+[02:38] EYEWITNESS_COMMUNITY_VOICE_01: No, she moved in after we did.
+[02:40] EYEWITNESS_COMMUNITY_VOICE_01: Maybe two years she's been here.
+[02:41] EYEWITNESS_COMMUNITY_VOICE_01: If I'm not mistaken, I'm not sure.
+[02:43] PROFESSIONAL_02: No, no, no, that's fine.
+[02:44] PROFESSIONAL_02: So approximately two years.
+[02:46] COMMUNITY_VOICE_03: But from my understanding, everybody, all the kids, has problems with this lady.
+[02:53] PROFESSIONAL_02: And what grade are you in?
+[02:54] COMMUNITY_VOICE_03: Fifth grade.
+[02:55] PROFESSIONAL_02: Okay, so you just finished up fifth grade.
+[02:56] PROFESSIONAL_02: You're going to sixth?
+[02:57] PROFESSIONAL_02: Yeah.
+[02:58] PROFESSIONAL_02: I want to discuss the truth versus a lie, okay?
+[03:01] PROFESSIONAL_02: I'm going to give you a few examples here for a second, okay?
+[03:04] PROFESSIONAL_02: If I were to tell you that there was a little girl and she came in this room and she colored all the walls red with a crayon and then she came outside and told me she didn't do it, is that the truth or a lie?
+[03:13] EYEWITNESS_01: It's a lie.
+[03:14] PROFESSIONAL_02: Okay.
+[03:15] PROFESSIONAL_02: And if she colored them all red and then she went outside and said, I did that, Detective Pinder, would that be the truth?
+[03:20] EYEWITNESS_01: Yes, sir.
+[03:21] PROFESSIONAL_02: Okay.
+[03:22] PROFESSIONAL_02: When we talk today, can we only talk about true things?
+[03:25] EYEWITNESS_01: Yes, sir.
+[03:26] PROFESSIONAL_02: Have you ever seen this lady before?
+[03:28] EYEWITNESS_01: Multiple times, yeah.
+[03:30] PROFESSIONAL_02: Multiple times.
+[03:32] EYEWITNESS_01: She doesn't like people playing around over where she lives, like in that grass over there.
+[03:39] PROFESSIONAL_02: Uh-huh.
+[03:40] EYEWITNESS_01: Because she thinks that it's her property.
+[03:46] PROFESSIONAL_02: Okay.
+[03:48] PROFESSIONAL_02: Do you remember her saying anything else?
+[03:51] EYEWITNESS_01: That I'm going to report this to the police.
+[03:54] PROFESSIONAL_02: Okay.
+[03:54] EYEWITNESS_01: Us playing around.
+[03:55] PROFESSIONAL_02: Okay.
+[04:05] NEWS_CLIP_01: Dome, we're 97.
+[04:09] UNKNOWN_01: Some progress.
+[04:34] COMMUNITY_VOICE_02: What's your call for?
+[04:43] COMMUNITY_VOICE_02: I called because the lady across the street on the phone hit me with a sign.
+[04:48] COMMUNITY_VOICE_02: Her children were walking their dog on the property, clearly says no trespassing.
+[04:53] COMMUNITY_VOICE_02: And they're always walking the dog.
+[04:54] COMMUNITY_VOICE_02: The dog's always taking a walk.
+[04:55] COMMUNITY_VOICE_02: And just poop on the sidewalk.
+[04:57] COMMUNITY_VOICE_02: There was all kinds of stuff.
+[04:58] COMMUNITY_VOICE_02: I said, can you please keep the dog over there?
+[05:00] COMMUNITY_VOICE_02: I was going to take a picture of her dog.
+[05:01] COMMUNITY_VOICE_02: And he said, you're taking a picture of my children.
+[05:03] COMMUNITY_VOICE_02: I'm like, no.
+[05:04] COMMUNITY_VOICE_02: And then she just got in my face.
+[05:06] COMMUNITY_VOICE_02: Hey, I'm sure put the sign in through that room.
+[05:09] COMMUNITY_VOICE_02: Hit me more.
+[05:11] COMMUNITY_VOICE_04: Your name?
+[05:11] COMMUNITY_VOICE_04: My name is Susan.
+[05:14] COMMUNITY_VOICE_02: Susan, that's the lab's name?
+[05:15] COMMUNITY_VOICE_02: O-O-R-I-N-C-Z.
+[05:20] COMMUNITY_VOICE_04: What was that sign again that you mentioned?
+[05:21] COMMUNITY_VOICE_04: Don't forget it.
+[05:27] COMMUNITY_VOICE_02: You can see she really threw it at me.
+[05:32] COMMUNITY_VOICE_02: She shouldn't have removed the sign either.
+[05:33] COMMUNITY_VOICE_02: It's the landlord's sign.
+[05:35] COMMUNITY_VOICE_02: I was actually going to buy this apartment after this.
+[05:37] COMMUNITY_VOICE_02: I'm not going to buy the quad.
+[05:45] COMMUNITY_VOICE_04: I see that smirk on your face.
+[05:47] COMMUNITY_VOICE_04: You say, you already know?
+[05:49] COMMUNITY_VOICE_03: Does she call the police?
+[05:50] COMMUNITY_VOICE_04: Yeah, because I see you're on the phone.
+[05:52] COMMUNITY_VOICE_03: Yes, because this is long ago.
+[05:55] COMMUNITY_VOICE_03: It's funny because I'm the one that never comes outside and says anything to her.
+[06:01] COMMUNITY_VOICE_03: But today, I just happen to feel like, first of all, before she moved there, this big open space right here, all the kids, they like to play kickball, football in the space she moves in.
+[06:13] COMMUNITY_VOICE_03: I don't want y'all calling over me.
+[06:16] COMMUNITY_VOICE_03: I told her, don't tell them.
+[06:17] COMMUNITY_VOICE_03: You can't tell them.
+[06:18] COMMUNITY_VOICE_03: Technically, if they're not in your personal, personal space, that they can't walk the dog or even throw their football over you.
+[06:26] COMMUNITY_VOICE_03: All the black people, all the sisters, okay, all right, whatever.
+[06:30] COMMUNITY_VOICE_03: That doesn't move me.
+[06:31] COMMUNITY_VOICE_03: I mean, she's basically like ramming the side of my face.
+[06:33] COMMUNITY_VOICE_03: So then when she wants to pick it back up, I pick the side up.
+[06:36] COMMUNITY_VOICE_03: And I threw the sign.
+[06:37] COMMUNITY_VOICE_03: I literally picked the sign up and I said, I threw the sign.
+[06:40] COMMUNITY_VOICE_03: I said, and I keep going by her sign too.
+[06:42] COMMUNITY_VOICE_03: It still doesn't mean anything.
+[06:44] COMMUNITY_VOICE_04: But she did say it was thrown her way.
+[06:46] COMMUNITY_VOICE_04: Yeah, I did.
+[06:47] COMMUNITY_VOICE_03: I did toss the sign.
+[06:48] COMMUNITY_VOICE_04: But it hit her.
+[06:49] COMMUNITY_VOICE_04: I didn't hit her with the sign.
+[06:51] COMMUNITY_VOICE_04: Not deliberately, yes.
+[06:52] COMMUNITY_VOICE_04: Do you have your information on it or do you want me to?
+[06:58] PROFESSIONAL_03: Ma'am, can I talk to you real quick?
+[07:00] PROFESSIONAL_03: Me?
+[07:00] PROFESSIONAL_03: Yes, ma'am.
+[07:02] PROFESSIONAL_03: Did you see anything?
+[07:04] PROFESSIONAL_03: No, sir, I didn't.
+[07:05] PROFESSIONAL_03: No, I just, I just came out.
+[07:06] EYEWITNESS_COMMUNITY_VOICE_02: Did your daughter tell you what she saw?
+[07:09] EYEWITNESS_COMMUNITY_VOICE_02: Um, well, um, she did tell me that they were arguing, um, and that I guess she had picked up a sign and like, just like, like when she picked up a sign and she like walked away and just like went behind her and, but it didn't hit the lady or anything.
+[07:24] EYEWITNESS_COMMUNITY_VOICE_02: Um, but that was it.
+[07:26] EYEWITNESS_COMMUNITY_VOICE_02: But I will say that that lady, like, I don't, I didn't see anything, but I will say that that lady is always messing with people's kids.
+[07:32] EYEWITNESS_COMMUNITY_VOICE_02: She's always... She's always trying to record the kids and always talking crap.
+[07:39] EYEWITNESS_COMMUNITY_VOICE_02: But I didn't see anything.
+[07:40] EYEWITNESS_COMMUNITY_VOICE_02: Okay.
+[07:42] COMMUNITY_VOICE_04: Alrighty.
+[07:45] COMMUNITY_VOICE_04: How's it going?
+[07:48] COMMUNITY_VOICE_04: Say it.
+[07:53] PROFESSIONAL_03: Another day.
+[07:56] COMMUNITY_VOICE_02: Hey, ma'am.
+[07:58] PROFESSIONAL_03: Did you see anything?
+[07:59] EYEWITNESS_COMMUNITY_VOICE_01: Yeah, she didn't touch that lady.
+[08:00] EYEWITNESS_COMMUNITY_VOICE_01: She just took the...
+[08:03] EYEWITNESS_COMMUNITY_VOICE_01: thing out the ground, and that was it.
+[08:04] EYEWITNESS_COMMUNITY_VOICE_01: What thing?
+[08:05] EYEWITNESS_COMMUNITY_VOICE_01: The thing, the no-toss-tossing thing.
+[08:07] EYEWITNESS_COMMUNITY_VOICE_01: She didn't touch it.
+[08:08] COMMUNITY_VOICE_02: No, she didn't throw it at her leg.
+[08:10] EYEWITNESS_COMMUNITY_VOICE_01: She did not throw the damn thing.
+[08:13] EYEWITNESS_COMMUNITY_VOICE_01: No, she didn't throw it.
+[08:14] EYEWITNESS_COMMUNITY_VOICE_01: No, she kind of tossed it.
+[08:16] EYEWITNESS_COMMUNITY_VOICE_01: Shut up.
+[08:16] EYEWITNESS_COMMUNITY_VOICE_01: He's not over here talking.
+[08:17] EYEWITNESS_COMMUNITY_VOICE_01: She just set it down, and the lady just happened to be there.
+[08:20] EYEWITNESS_COMMUNITY_VOICE_01: She didn't throw it at the lady.
+[08:21] EYEWITNESS_COMMUNITY_VOICE_01: She didn't touch the lady or nothing.
+[08:23] EYEWITNESS_COMMUNITY_VOICE_01: And all she did was tell the lady to stop yelling at her kids.
+[08:26] EYEWITNESS_COMMUNITY_VOICE_01: That lady yells at everybody's kids out here.
+[08:28] PROFESSIONAL_03: Okay.
+[08:28] PROFESSIONAL_03: Well, I mean, I wouldn't go over there anymore.
+[08:36] COMMUNITY_VOICE_04: She might not like it because I'm a black female.
+[08:41] COMMUNITY_VOICE_04: I don't own this.
+[08:42] COMMUNITY_VOICE_04: But my thing is the more she says it, of course the children are going to go because they know.
+[08:54] COMMUNITY_VOICE_03: That's fine.
+[08:55] COMMUNITY_VOICE_03: I mean, if it's hers, it's hers.
+[08:57] PROFESSIONAL_03: It doesn't matter if it's not hers.
+[08:58] PROFESSIONAL_03: She rents there, just like you rent here.
+[09:01] PROFESSIONAL_03: You wanted somebody to trespass from right here.
+[09:03] PROFESSIONAL_03: You called us and we saw them on the property.
+[09:05] PROFESSIONAL_03: They'd be trespassed.
+[09:06] PROFESSIONAL_03: And next time we came out, they'd go to jail.
+[09:08] PROFESSIONAL_03: Okay?
+[09:09] PROFESSIONAL_03: That's the way that works.
+[09:12] EYEWITNESS_COMMUNITY_VOICE_01: Alright.
+[09:13] PROFESSIONAL_03: I mean... You have the same right as she does.
+[09:15] PROFESSIONAL_03: So, I mean... She doesn't want them over there.
+[09:18] PROFESSIONAL_03: I don't have them over there.
+[09:20] PROFESSIONAL_03: The landlord put a sign there for a reason.
+[09:22] PROFESSIONAL_03: That's what it is.
+[09:24] PROFESSIONAL_03: Okay?
+[09:25] COMMUNITY_VOICE_02: Absolutely.
+[09:27] EYEWITNESS_COMMUNITY_VOICE_01: It's okay.
+[09:29] COMMUNITY_VOICE_04: No problem at all.
+[09:30] COMMUNITY_VOICE_04: I understand how you feel.
+[09:32] COMMUNITY_VOICE_04: Believe me.
+[09:33] COMMUNITY_VOICE_04: That's why I got a house.
+[09:34] COMMUNITY_VOICE_04: Yeah, this is our last year.
+[09:37] EYEWITNESS_COMMUNITY_VOICE_01: This is it.
+[09:40] COMMUNITY_VOICE_04: I'm going to write it up as a battery, just no arrests can be made at this time.
+[09:48] COMMUNITY_VOICE_04: Okay.
+[09:49] COMMUNITY_VOICE_04: The fact that I didn't actually get her throwing a sign at me.
+[09:52] PROFESSIONAL_03: And nobody actually saying that they saw it.
+[09:55] PROFESSIONAL_03: No independent witnesses that are credible.
+[09:58] PROFESSIONAL_03: How convenient.
+[10:02] PROFESSIONAL_03: All right.
+[10:02] PROFESSIONAL_03: Thank you so much.
+[10:03] PROFESSIONAL_03: Yes, ma'am.
+[10:12] COMMUNITY_VOICE_04: You need anything else?
+[10:13] COMMUNITY_VOICE_04: No, I'm just going to go on the walk.
+[10:15] COMMUNITY_VOICE_04: I'm sorry.
+[10:16] COMMUNITY_VOICE_03: I love her baby.
+[10:17] COMMUNITY_VOICE_03: Cash money.
+[10:34] NEWS_CLIP_01: Were you talking to people?
+[10:52] NEWS_CLIP_01: Have anybody heard or saw anything or know anything about the people involved or anything?
+[10:58] EYEWITNESS_COMMUNITY_VOICE_01: To be honest, sir, all I know is that ladies
+[11:02] EYEWITNESS_COMMUNITY_VOICE_01: The black lady, she was always with her kids.
+[11:06] EYEWITNESS_COMMUNITY_VOICE_01: She wasn't a threat or anything at all whatsoever.
+[11:10] EYEWITNESS_COMMUNITY_VOICE_01: She has a little infant, about two or three years old.
+[11:14] EYEWITNESS_COMMUNITY_VOICE_01: He's always in the house with him.
+[11:16] EYEWITNESS_COMMUNITY_VOICE_01: The other two little boys and the little girl, they're the ones that's always outside playing.
+[11:23] EYEWITNESS_COMMUNITY_VOICE_02: I've never heard anything negative about this lady or anything.
+[11:28] COMMUNITY_VOICE_05: Adjika, as a mom, she was like the mom.
+[11:32] COMMUNITY_VOICE_05: She was a manager for McDonald's.
+[11:36] COMMUNITY_VOICE_05: You know, Adjika would switch her schedule around.
+[11:39] COMMUNITY_VOICE_05: You know, I can't work this day, or I can't do this, I can't do that, just so she can be there for her kids.
+[11:45] COMMUNITY_VOICE_05: Someone who sacrificed for their children to have private school, football lessons, gymnastics, dance, everything.
+[11:54] UNKNOWN_02: She would tell me that there was this
+[11:57] UNKNOWN_02: White woman that lived across the street that was always, you know, antagonizing the kids and calling them names.
+[12:07] COMMUNITY_VOICE_02: Why are they on private property that they have no means?
+[12:09] COMMUNITY_VOICE_02: I mean, they don't rent here.
+[12:11] EYEWITNESS_COMMUNITY_VOICE_01: Well, if those people aren't complaining, I can't kick them off that property.
+[12:15] COMMUNITY_VOICE_02: Well, then I'll send a cease and desist letter to them.
+[12:17] COMMUNITY_VOICE_02: Okay.
+[12:19] COMMUNITY_VOICE_02: I don't know where to do it.
+[12:20] COMMUNITY_VOICE_02: There is, in the real estate laws, you should know this, that you have a right to peaceful, quiet enjoyment of your property.
+[12:29] COMMUNITY_VOICE_02: You know?
+[12:30] COMMUNITY_VOICE_02: That is in the law.
+[12:32] COMMUNITY_VOICE_04: Well, it's civil, so we don't really deal with that.
+[12:35] COMMUNITY_VOICE_02: I understand, but those kids should be over here.
+[12:38] COMMUNITY_VOICE_02: Okay.
+[12:40] COMMUNITY_VOICE_02: They shouldn't be screaming and, you know, running around either.
+[12:43] COMMUNITY_VOICE_02: I mean, the parents aren't attending them, obviously.
+[12:46] PROFESSIONAL_04: I understand it's a nuisance, but...
+[12:48] PROFESSIONAL_04: I'd rather kids be screaming because they're out here playing and have a good time than stealing cars and robbing people.
+[12:57] PROFESSIONAL_04: All right.
+[13:01] PROFESSIONAL_04: Well, you have a good night.
+[13:07] COMMUNITY_VOICE_06: You off?
+[13:08] COMMUNITY_VOICE_06: Yeah.
+[13:09] COMMUNITY_VOICE_06: I own that building next door, apartment three.
+[13:15] COMMUNITY_VOICE_01: Okay.
+[13:16] COMMUNITY_VOICE_06: I put up a sign, keep off the grass on my property line.
+[13:20] PROFESSIONAL_03: Oh, you put that up?
+[13:21] COMMUNITY_VOICE_06: Yeah, I told her, I said, I can't do any more than my property line.
+[13:26] COMMUNITY_VOICE_06: And that's for a small portion.
+[13:28] COMMUNITY_VOICE_06: The majority of the area belongs to the other one.
+[13:32] COMMUNITY_VOICE_06: Okay.
+[13:33] COMMUNITY_VOICE_06: That's where they play most things.
+[13:36] COMMUNITY_VOICE_02: Having problems with the neighbor's children, they come up to me and just scream like idiots.
+[13:42] COMMUNITY_VOICE_02: And I finally lost my nerve today.
+[13:45] COMMUNITY_VOICE_02: I just couldn't take it anymore.
+[13:46] COMMUNITY_VOICE_02: I called the kids retards.
+[13:47] COMMUNITY_VOICE_02: Then the mother comes screaming at me, don't call my children retards.
+[13:51] COMMUNITY_VOICE_02: I'm going to put you in a nursing home.
+[13:54] COMMUNITY_VOICE_02: Is there anything I can do with these people?
+[13:57] COMMUNITY_VOICE_02: Because they're getting ridiculous.
+[13:59] COMMUNITY_VOICE_02: I don't bug anybody.
+[14:01] COMMUNITY_VOICE_02: I'm a single woman.
+[14:01] COMMUNITY_VOICE_02: I work from home.
+[14:03] COMMUNITY_VOICE_02: I'm peaceful and quiet.
+[14:04] COMMUNITY_VOICE_02: I'm like the perfect neighbor.
+[14:06] COMMUNITY_VOICE_02: You've barely ever seen me.
+[14:08] PROFESSIONAL_05: Number three.
+[14:10] PROFESSIONAL_05: I think one or two is on that side.
+[14:34] PROFESSIONAL_05: Hello, Sheriff's Office.
+[14:37] PROFESSIONAL_05: What's going on this evening?
+[14:38] COMMUNITY_VOICE_02: Lots of children screaming in their full eds or running around.
+[14:41] COMMUNITY_VOICE_02: I had my truck parked throughout the pier so I didn't have to listen to the screaming and yelling.
+[14:46] COMMUNITY_VOICE_02: As soon as I moved in to check, the kids are coming up.
+[14:49] COMMUNITY_VOICE_02: I let guys stop.
+[14:50] COMMUNITY_VOICE_02: They know that that's supposed to be over here.
+[14:52] PROFESSIONAL_06: They've been told.
+[14:53] PROFESSIONAL_06: They've been told to shut up to my face.
+[14:56] PROFESSIONAL_06: I said, Andy, goodbye, Andy.
+[14:58] COMMUNITY_VOICE_02: Hello, Sheriff's Office.
+[14:59] COMMUNITY_VOICE_02: I'm Deputy Heckman.
+[15:00] COMMUNITY_VOICE_02: Were any of you guys ever here?
+[15:22] PROFESSIONAL_04: Messing with this lady?
+[15:23] PROFESSIONAL_04: No, no, no.
+[15:24] EYEWITNESS_COMMUNITY_VOICE_02: We were playing football.
+[15:27] EYEWITNESS_COMMUNITY_VOICE_02: Hold on.
+[15:27] EYEWITNESS_COMMUNITY_VOICE_02: Let me just say one thing real quick.
+[15:29] EYEWITNESS_COMMUNITY_VOICE_02: Okay.
+[15:31] EYEWITNESS_COMMUNITY_VOICE_02: Okay.
+[15:32] EYEWITNESS_COMMUNITY_VOICE_02: Because it's an open spot, all of that is not her property.
+[15:35] EYEWITNESS_COMMUNITY_VOICE_02: All of that is not her property.
+[15:36] EYEWITNESS_COMMUNITY_VOICE_02: So that man that does live right there, he says that all the kids can play because they like to play football over there.
+[15:42] COMMUNITY_VOICE_03: Sure, sure.
+[15:43] EYEWITNESS_COMMUNITY_VOICE_02: They're literally nowhere near her property.
+[15:46] EYEWITNESS_COMMUNITY_VOICE_02: Y'all can watch her camera.
+[15:48] EYEWITNESS_COMMUNITY_VOICE_02: They're right over there.
+[15:49] EYEWITNESS_COMMUNITY_VOICE_02: She will come outside, yell at them.
+[15:51] EYEWITNESS_COMMUNITY_VOICE_02: Like,
+[15:52] EYEWITNESS_COMMUNITY_VOICE_02: I have yelled at her before because these are children.
+[15:56] EYEWITNESS_COMMUNITY_VOICE_02: I mean, everyone down this whole block has yelled at this lady because of how she talks to kids.
+[16:01] EYEWITNESS_COMMUNITY_VOICE_02: And then when an adult says something, now she wants to call the police.
+[16:04] EYEWITNESS_COMMUNITY_VOICE_02: My kids are just trying to be kids.
+[16:05] EYEWITNESS_COMMUNITY_VOICE_02: I totally understand that.
+[16:06] EYEWITNESS_COMMUNITY_VOICE_02: Exactly.
+[16:06] EYEWITNESS_COMMUNITY_VOICE_02: I totally understand that.
+[16:07] PROFESSIONAL_04: Right.
+[16:09] PROFESSIONAL_04: What's going on, y'all?
+[16:11] PROFESSIONAL_04: This is the mom that went over there and spoke with her.
+[16:13] PROFESSIONAL_04: Okay.
+[16:13] PROFESSIONAL_05: Y'all on school break yet?
+[16:16] PROFESSIONAL_04: Yeah.
+[16:17] PROFESSIONAL_05: When did that start?
+[16:20] PROFESSIONAL_05: I know some people won't start until tomorrow.
+[16:24] PROFESSIONAL_04: I'm sorry, I want to step a little closer because I can barely hear you.
+[16:35] COMMUNITY_VOICE_03: I took my son a question, the one who faced that she was in.
+[16:39] COMMUNITY_VOICE_03: And I sent the other two kids inside.
+[16:41] COMMUNITY_VOICE_03: I said, that's it, y'all done playing, come inside.
+[16:43] COMMUNITY_VOICE_03: And we go in there and I knock on her door.
+[16:45] COMMUNITY_VOICE_03: And immediately...
+[16:48] COMMUNITY_VOICE_03: get the hell off my property.
+[16:50] COMMUNITY_VOICE_03: You are trespassing.
+[16:51] COMMUNITY_VOICE_03: Get the hell off my property.
+[16:53] COMMUNITY_VOICE_03: So I just said, okay, I'm here with my son and I just want to ask you what happened because I'm not out here and
+[17:02] COMMUNITY_VOICE_03: There have been times where kids are going to be kids, and she was saying something, and they may say something back, okay, Karen, or something like that.
+[17:09] COMMUNITY_VOICE_03: Right, sure.
+[17:10] COMMUNITY_VOICE_03: I've always instructed my kids.
+[17:12] COMMUNITY_VOICE_03: She's still an adult at the end of the day.
+[17:14] COMMUNITY_VOICE_03: You don't argue with her.
+[17:15] COMMUNITY_VOICE_03: You come and you tell me, and you let me take it up with her.
+[17:18] PROFESSIONAL_05: Whose mom are you?
+[17:19] PROFESSIONAL_05: Anything?
+[17:21] EYEWITNESS_COMMUNITY_VOICE_02: They're on mic.
+[17:21] PROFESSIONAL_05: I'm saying nothing.
+[17:24] EYEWITNESS_COMMUNITY_VOICE_02: My kids aren't really here, but they are always outside with them.
+[17:27] PROFESSIONAL_05: All right, so let me just talk to you guys real quick, okay?
+[17:30] PROFESSIONAL_05: What kind of names...
+[17:31] PROFESSIONAL_05: Is she calling you?
+[17:35] EYEWITNESS_COMMUNITY_VOICE_01: Retards, the B word.
+[17:36] COMMUNITY_VOICE_03: The B word.
+[17:37] PROFESSIONAL_05: The P word.
+[17:39] COMMUNITY_VOICE_03: She pulls up, she drives that truck.
+[17:41] COMMUNITY_VOICE_03: Right.
+[17:42] COMMUNITY_VOICE_03: So she'll park it there.
+[17:43] PROFESSIONAL_04: Sure.
+[17:43] COMMUNITY_VOICE_03: And then she'll set her alarm off on the inside.
+[17:45] PROFESSIONAL_04: Yeah, that's what she said, that she'll park her truck up here.
+[17:48] PROFESSIONAL_04: So then she'll come out.
+[17:48] PROFESSIONAL_04: They don't come over.
+[17:49] COMMUNITY_VOICE_03: Guys are getting in my truck, they're touching my truck.
+[17:51] COMMUNITY_VOICE_03: So the last time she did it, I told all the kids.
+[17:54] COMMUNITY_VOICE_03: I said, I was out here with my dog.
+[17:56] COMMUNITY_VOICE_03: And I happened to see her pull there.
+[17:57] COMMUNITY_VOICE_03: And they'll tell me, Mom, she's setting the alarm on.
+[17:59] COMMUNITY_VOICE_03: We're not doing anything to her truck.
+[18:00] COMMUNITY_VOICE_03: So this particular day, I told them, I said, everybody come over here and let's just see.
+[18:05] COMMUNITY_VOICE_03: And sure enough, just randomly, like every six minutes, the alarm would go off and nobody's even over there.
+[18:12] COMMUNITY_VOICE_03: So I'm like, go back and play.
+[18:13] COMMUNITY_VOICE_03: Then she'll come outside.
+[18:14] COMMUNITY_VOICE_03: Oh, you guys are wearing my truck.
+[18:17] COMMUNITY_VOICE_03: This is private property, lady.
+[18:19] COMMUNITY_VOICE_03: They weren't even over there and were setting off the alarm.
+[18:21] COMMUNITY_VOICE_03: Like, why don't you want kids to be kids?
+[18:23] COMMUNITY_VOICE_03: They're not terrorizing everyone else.
+[18:26] COMMUNITY_VOICE_03: They're not ringing your doorbell and running.
+[18:28] PROFESSIONAL_04: Uh-huh.
+[18:28] PROFESSIONAL_04: They're playing football, right?
+[18:29] PROFESSIONAL_04: Yeah.
+[18:30] PROFESSIONAL_04: They're not even messing with you.
+[18:31] PROFESSIONAL_04: They're playing hide and seek.
+[18:32] PROFESSIONAL_04: Like, seriously.
+[18:33] PROFESSIONAL_05: Probably do.
+[18:34] PROFESSIONAL_05: Yeah.
+[18:35] PROFESSIONAL_04: That's good.
+[18:36] PROFESSIONAL_04: Let me let my partner know.
+[18:37] PROFESSIONAL_05: Do you know what a devil's advocate is?
+[18:41] PROFESSIONAL_05: That means I play both sides, right?
+[18:42] EYEWITNESS_COMMUNITY_VOICE_01: Oh, yeah, yeah.
+[18:43] PROFESSIONAL_05: Yep.
+[18:43] PROFESSIONAL_05: So I got to think of both aspects of every situation.
+[18:46] EYEWITNESS_COMMUNITY_VOICE_01: Yeah.
+[18:46] PROFESSIONAL_05: So I was a kid once.
+[18:48] PROFESSIONAL_05: Everyone was a kid once.
+[18:49] PROFESSIONAL_05: We're all loud as kids.
+[18:50] PROFESSIONAL_05: We like to yell and scream and fight.
+[18:53] PROFESSIONAL_05: So I get it.
+[18:54] PROFESSIONAL_05: But when it's close to someone's house...
+[18:56] PROFESSIONAL_05: Sure, it gets a little annoying sometimes, I won't lie, okay?
+[18:59] PROFESSIONAL_05: But if you guys have permission to be over there, then, you know, I can't really get onto you guys too much.
+[19:04] PROFESSIONAL_05: But, if someone's going on her property, which is just her porch, it's not okay.
+[19:08] PROFESSIONAL_05: I'm not saying you did, she's claiming you did.
+[19:11] PROFESSIONAL_05: I wasn't here to see it, so I can't, I can't go one way or the other, alright?
+[19:15] EYEWITNESS_COMMUNITY_VOICE_01: She did have, like, fungus on her porch.
+[19:17] PROFESSIONAL_05: Yeah, okay.
+[19:19] PROFESSIONAL_05: So, and I want you guys to run around, hoot and holler all you can, because...
+[19:25] PROFESSIONAL_05: I'd rather see you guys outside playing than on them TikToks, alright?
+[19:29] COMMUNITY_VOICE_07: Right?
+[19:30] PROFESSIONAL_05: If she starts screaming at you guys, I want you to go tell an adult, okay?
+[19:33] PROFESSIONAL_05: I don't want you to antagonize her, okay?
+[19:35] PROFESSIONAL_05: Because what happens is when you guys antagonize her, she can make you guys look bad.
+[19:41] PROFESSIONAL_05: And you guys are just out here playing, right?
+[19:43] EYEWITNESS_COMMUNITY_VOICE_01: Yeah.
+[19:44] EYEWITNESS_COMMUNITY_VOICE_01: Okay.
+[19:44] PROFESSIONAL_05: Do you guys understand everything?
+[19:46] PROFESSIONAL_05: You kind of get where I'm coming from with that?
+[19:48] PROFESSIONAL_05: Yes.
+[19:48] PROFESSIONAL_05: I want to make you guys look like the good guys, okay?
+[19:51] PROFESSIONAL_05: Alrighty.
+[19:52] PROFESSIONAL_04: Thanks.
+[19:53] PROFESSIONAL_05: You're very welcome.
+[19:57] PROFESSIONAL_04: Mom said that they were over here playing football.
+[20:01] PROFESSIONAL_04: The old man, I guess, lives over here.
+[20:03] PROFESSIONAL_05: They said he comes out and plays football.
+[20:05] PROFESSIONAL_04: Yeah, he has no problem with the kids playing.
+[20:06] PROFESSIONAL_04: She's the only problem.
+[20:07] PROFESSIONAL_05: They were saying they'll be outside playing.
+[20:10] PROFESSIONAL_05: I was like, I get it.
+[20:11] PROFESSIONAL_05: You guys are laughing.
+[20:12] PROFESSIONAL_05: They're like, yeah, sometimes we can't.
+[20:14] PROFESSIONAL_05: And they're like, even sometimes when we're not, we'll just be sitting there and she'll scream at us.
+[20:19] PROFESSIONAL_04: That's what Mom said.
+[20:20] PROFESSIONAL_04: Nobody's even over there.
+[20:21] PROFESSIONAL_04: Once the kids are just hanging out over there in the open field, she'll just set the car alarm off.
+[20:26] PROFESSIONAL_05: So she's just being... Actually, there are some puppets for New Year's and bringing back to them.
+[20:31] PROFESSIONAL_04: Right.
+[20:33] PROFESSIONAL_05: Y'all have a good evening.
+[20:35] PROFESSIONAL_05: Thank you.
+[20:40] PROFESSIONAL_04: Yeah.
+[20:43] PROFESSIONAL_04: It's an open field for them to go play.
+[20:45] COMMUNITY_VOICE_02: It's not an open field.
+[20:46] COMMUNITY_VOICE_02: It's two parcels that one belongs to him, one belongs to the neighbor.
+[20:50] COMMUNITY_VOICE_02: It's not an open one.
+[20:51] PROFESSIONAL_04: Okay, so it doesn't even belong to you.
+[20:54] PROFESSIONAL_04: I understand.
+[20:55] PROFESSIONAL_04: Okay, so we've instructed the kids to not bother you.
+[20:58] PROFESSIONAL_04: Okay.
+[20:59] PROFESSIONAL_04: Or if you come out and you say something to them, they're supposed to go get their parents.
+[21:03] COMMUNITY_VOICE_02: And what about her threat that she's going to come and drag my ass and beat me?
+[21:08] PROFESSIONAL_04: Well, that's not what she said according to her.
+[21:11] COMMUNITY_VOICE_02: Oh, no.
+[21:12] COMMUNITY_VOICE_02: Honest to God, she said that.
+[21:13] COMMUNITY_VOICE_02: Okay, well, at the end of the day, she said she said.
+[21:16] PROFESSIONAL_04: And on top of what the kids said, the kids said that you had came out and
+[21:20] PROFESSIONAL_04: You were coming at them in an aggressive manner, and they thought that you were going to hurt him.
+[21:23] EYEWITNESS_COMMUNITY_VOICE_01: Oh, yeah, I'm sure.
+[21:27] PROFESSIONAL_04: I have to believe you, but I also have to believe them.
+[21:29] PROFESSIONAL_04: So, like I said, it's all going to be documented.
+[21:32] PROFESSIONAL_04: If you'd like a copy of the report, you can call the sheriff's office and get a documentation of it.
+[21:37] COMMUNITY_VOICE_02: All right, yeah, no, I would never, ever.
+[21:40] PROFESSIONAL_04: Yes, ma'am.
+[21:40] PROFESSIONAL_04: Unbelievable.
+[21:43] PROFESSIONAL_04: Like I said, if there's any future problems, just give us a call.
+[21:46] PROFESSIONAL_04: We've instructed them to do the same.
+[21:48] PROFESSIONAL_04: Okay.
+[21:48] PROFESSIONAL_04: Okay, thank you.
+[21:58] PROFESSIONAL_01: Is there issues with this person?
+[21:59] EYEWITNESS_COMMUNITY_VOICE_01: If you check history and dispatch from her phone number, this is nonstop.
+[22:06] COMMUNITY_VOICE_08: Then she got an air bar and she would open her door and stand there scared the hell out of me.
+[22:12] COMMUNITY_VOICE_08: Yeah.
+[22:14] PROFESSIONAL_05: She would drive her pickup and just go like in the field.
+[22:18] COMMUNITY_VOICE_09: And I knew she died.
+[22:20] COMMUNITY_VOICE_09: Her engines go hard.
+[22:22] EYEWITNESS_COMMUNITY_VOICE_01: I swear I thought one of them was here.
+[22:25] EYEWITNESS_COMMUNITY_VOICE_01: I swear.
+[22:26] COMMUNITY_VOICE_03: And she just kept on flying out the neighborhood.
+[22:28] NEWS_CLIP_01: Mm-hmm.
+[22:58] COMMUNITY_VOICE_10: He pulls in, and there's a lady in there, ramming, like, just ramming the gate back and forth with her truck.
+[23:04] COMMUNITY_VOICE_10: I don't know, she obviously must have got locked in, but I don't know what she was doing back there to begin with.
+[23:10] COMMUNITY_VOICE_10: Because this gate's always locked, and it's fine.
+[23:12] COMMUNITY_VOICE_10: You know, one other time, a guy got locked in here, and he called me, and he got let out.
+[23:18] COMMUNITY_VOICE_10: You know?
+[23:18] COMMUNITY_VOICE_10: Alright.
+[23:19] COMMUNITY_VOICE_10: It's that simple.
+[23:20] COMMUNITY_VOICE_10: This isn't open to the public.
+[23:21] COMMUNITY_VOICE_10: You have to register, and... Alright.
+[23:24] COMMUNITY_VOICE_10: Well, give me one second.
+[23:34] COMMUNITY_VOICE_05: Nissan, truck, gray.
+[23:36] COMMUNITY_VOICE_05: 10-54.
+[23:36] COMMUNITY_VOICE_05: She looks right down the street.
+[23:40] EYEWITNESS_COMMUNITY_VOICE_01: They were going at high-risk speed.
+[23:41] COMMUNITY_VOICE_10: No further than 23.
+[24:16] COMMUNITY_VOICE_09: One minute!
+[24:35] COMMUNITY_VOICE_01: Jeez.
+[24:39] COMMUNITY_VOICE_01: Sheriff's office!
+[24:43] COMMUNITY_VOICE_02: What do you want?
+[24:44] PROFESSIONAL_06: Are you Miss Susan?
+[24:45] COMMUNITY_VOICE_02: Yes, I am.
+[24:46] PROFESSIONAL_06: Can you step out here for a second?
+[24:48] COMMUNITY_VOICE_02: I was in bed.
+[24:49] PROFESSIONAL_06: Okay.
+[24:56] PROFESSIONAL_06: Hello.
+[24:57] PROFESSIONAL_06: Good night, Gail.
+[24:58] PROFESSIONAL_06: Okay.
+[24:59] PROFESSIONAL_06: I just have a couple questions for you.
+[25:00] PROFESSIONAL_06: My name is Deputy Podoff with the American Sheriff's Office.
+[25:02] PROFESSIONAL_06: Okay.
+[25:04] PROFESSIONAL_06: Where were you at today?
+[25:06] COMMUNITY_VOICE_02: Um...
+[25:07] PROFESSIONAL_06: here you were here yeah is that your pickup truck out there yes it is okay i just have to read you something before i ask anything else okay okay did you let anybody use your pickup truck today no no and you by your knowledge your pickup truck was here the entire day i went out earlier today because i had a flat okay okay you mind just stepping out here just for a second
+[25:34] PROFESSIONAL_06: Okay.
+[25:34] PROFESSIONAL_06: So I have to read you this because I have to ask you very direct questions.
+[25:37] PROFESSIONAL_06: Okay.
+[25:38] PROFESSIONAL_06: You have the right to remain silent.
+[25:39] PROFESSIONAL_06: Anything you say can be used against you in the court of law.
+[25:41] PROFESSIONAL_06: You have the right to talk to a lawyer and have him present with you while you're being questioned.
+[25:44] PROFESSIONAL_06: If you cannot afford to hire a lawyer, one... No, no, no, no, no, no, no.
+[25:50] COMMUNITY_VOICE_02: Let me just get something on.
+[25:53] PROFESSIONAL_06: You understand each of these rights as I've explained them to you.
+[25:55] COMMUNITY_VOICE_02: Yes.
+[25:56] PROFESSIONAL_06: Having these rights in mind, do you wish to talk to me now?
+[25:58] PROFESSIONAL_06: No.
+[25:58] PROFESSIONAL_06: What?
+[25:59] PROFESSIONAL_06: No.
+[26:00] PROFESSIONAL_06: No?
+[26:03] PROFESSIONAL_06: Okay.
+[26:03] PROFESSIONAL_06: Okay.
+[26:05] PROFESSIONAL_06: So, since you don't want to talk to me, what I'll have to do is I'll go and find the truck driver that saw you there and do a photo lineup, and then when he identifies you, the person's going to want to press charges, so I'll come back here and have to...
+[26:20] PROFESSIONAL_06: I've already asked you.
+[26:21] PROFESSIONAL_06: You told me you didn't want to talk to me.
+[26:22] PROFESSIONAL_06: Anything else you say, I wouldn't be able to use at all.
+[26:25] PROFESSIONAL_06: So I'm not going to go forward with this.
+[26:28] PROFESSIONAL_06: If you don't want to talk to me, that's fine.
+[26:29] PROFESSIONAL_06: That's your choice.
+[26:30] COMMUNITY_VOICE_02: I didn't realize what it was.
+[26:31] COMMUNITY_VOICE_02: I'm sorry.
+[26:33] PROFESSIONAL_06: You realized what it was because you pretty much started saying it beforehand, and now you've said that you don't.
+[26:40] PROFESSIONAL_06: I'm not going to do that.
+[26:41] COMMUNITY_VOICE_02: Okay.
+[26:41] COMMUNITY_VOICE_02: He's taking medication.
+[26:42] COMMUNITY_VOICE_02: That's why I didn't want to talk.
+[26:45] COMMUNITY_VOICE_02: I'm sorry.
+[26:45] COMMUNITY_VOICE_02: I can't.
+[26:46] COMMUNITY_VOICE_02: I'm sorry.
+[26:46] COMMUNITY_VOICE_02: I previously won't.
+[26:53] COMMUNITY_VOICE_02: And so I panicked.
+[26:54] COMMUNITY_VOICE_02: I mean, I really panicked.
+[26:56] COMMUNITY_VOICE_02: And I thought I would be in trouble.
+[26:58] COMMUNITY_VOICE_02: Like, I thought someone was going to harm me.
+[27:00] PROFESSIONAL_06: Okay.
+[27:00] PROFESSIONAL_06: So here's the issue that we're going to have, all right?
+[27:04] PROFESSIONAL_06: He wants somebody to pay for his gate because you severely damaged his gate.
+[27:07] COMMUNITY_VOICE_02: I mean, I'm okay.
+[27:10] COMMUNITY_VOICE_02: I just...
+[27:11] PROFESSIONAL_06: Okay.
+[27:12] PROFESSIONAL_06: Well, I'll go down there and talk to him, okay?
+[27:13] PROFESSIONAL_06: I get you.
+[27:14] EYEWITNESS_COMMUNITY_VOICE_01: Okay.
+[27:29] COMMUNITY_VOICE_08: Susan, she would come out and scream and the language around these little kids.
+[27:38] COMMUNITY_VOICE_08: That Susan would use?
+[27:39] COMMUNITY_VOICE_08: Yeah.
+[27:42] PROFESSIONAL_02: Describe to me what she was saying.
+[27:44] EYEWITNESS_01: The F word, the B word.
+[27:47] PROFESSIONAL_02: B word and the F word.
+[27:50] COMMUNITY_VOICE_05: She called them slaves.
+[27:51] COMMUNITY_VOICE_05: She told them that the field that they weren't on where it wasn't the Underground Railroad.
+[27:56] COMMUNITY_VOICE_03: calling the little kids niggers and all this and all that.
+[28:08] COMMUNITY_VOICE_01: You guys chasing a dog around here?
+[28:10] COMMUNITY_VOICE_09: Chasing a dog?
+[28:11] COMMUNITY_VOICE_09: What color is it?
+[28:12] COMMUNITY_VOICE_01: I don't know.
+[28:13] COMMUNITY_VOICE_01: What color is it?
+[28:17] COMMUNITY_VOICE_01: You guys chasing a dog or trying to put a dog into a car or something?
+[28:20] EYEWITNESS_COMMUNITY_VOICE_01: No, they're carrying a car.
+[28:23] COMMUNITY_VOICE_09: The camera calls.
+[28:24] COMMUNITY_VOICE_09: Yeah, she's saying.
+[28:25] COMMUNITY_VOICE_09: I don't know why she keeps trying to.
+[28:29] COMMUNITY_VOICE_09: The kids are just playing around here, right?
+[28:31] COMMUNITY_VOICE_09: She came out and started talking.
+[28:33] COMMUNITY_VOICE_09: And she flicked me off.
+[28:35] COMMUNITY_VOICE_09: She flicked me off because this is public space.
+[28:37] COMMUNITY_VOICE_09: I've dealt with this before.
+[28:39] COMMUNITY_VOICE_09: Let me go talk to this guy.
+[28:40] COMMUNITY_VOICE_01: How you doing, sir?
+[28:41] EYEWITNESS_COMMUNITY_VOICE_01: Oh, I know.
+[28:42] NEWS_CLIP_01: You know what I'm saying?
+[28:52] COMMUNITY_VOICE_07: The kids always play in the dog room.
+[28:53] COMMUNITY_VOICE_07: They always play over there, man.
+[28:55] COMMUNITY_VOICE_07: This man over here said they can play in the grass.
+[28:57] EYEWITNESS_COMMUNITY_VOICE_01: She's, I don't know, she's schizophrenic, bipolar, I don't know.
+[29:01] COMMUNITY_VOICE_01: Are these rentals or do you buy them?
+[29:02] EYEWITNESS_COMMUNITY_VOICE_01: Rentals.
+[29:03] COMMUNITY_VOICE_01: These are rentals?
+[29:03] COMMUNITY_VOICE_01: Yeah, these are rentals.
+[29:04] COMMUNITY_VOICE_01: So you don't need... You can buy some of them.
+[29:06] COMMUNITY_VOICE_01: Okay.
+[29:06] COMMUNITY_VOICE_01: I mean, I think she owns hers.
+[29:07] COMMUNITY_VOICE_01: But it doesn't even come with property, does it?
+[29:09] COMMUNITY_VOICE_01: It's just a house.
+[29:09] COMMUNITY_VOICE_01: I don't think so.
+[29:10] COMMUNITY_VOICE_01: No, because it's a duplex.
+[29:11] COMMUNITY_VOICE_01: It wouldn't.
+[29:11] EYEWITNESS_COMMUNITY_VOICE_01: So I don't... She does it all the time.
+[29:13] COMMUNITY_VOICE_01: Oh, I know.
+[29:14] COMMUNITY_VOICE_01: I've been here.
+[29:15] COMMUNITY_VOICE_01: I've been here when they were playing tag and they were trespassing.
+[29:17] COMMUNITY_VOICE_01: So... She do it all the time.
+[29:19] COMMUNITY_VOICE_01: I'm going to talk to her.
+[29:23] EYEWITNESS_COMMUNITY_VOICE_01: she had um she asked oh yeah because she every time i go i walk past she thinks we're trying to steal her truck or buy her truck we're not even we're 11. okay yeah do you even know how to drive
+[29:59] COMMUNITY_VOICE_01: Hello, how are you?
+[30:00] COMMUNITY_VOICE_01: Good, is it Susan?
+[30:01] COMMUNITY_VOICE_02: Yes.
+[30:01] COMMUNITY_VOICE_01: Okay, what's going on?
+[30:03] COMMUNITY_VOICE_02: Uh, a kid from across the street and his little buddies, they're over here every second on the side and stuff.
+[30:08] COMMUNITY_VOICE_02: He brings out a puppy, he wants to put his puppy in my truck.
+[30:12] COMMUNITY_VOICE_02: I didn't go for that.
+[30:14] COMMUNITY_VOICE_01: In the bed of your truck?
+[30:15] COMMUNITY_VOICE_01: Yeah.
+[30:15] COMMUNITY_VOICE_01: Who?
+[30:16] COMMUNITY_VOICE_02: Uh, this little child, who posed for me because he thought he was being so bloody cute.
+[30:24] COMMUNITY_VOICE_02: That little child.
+[30:27] COMMUNITY_VOICE_01: He was the one that put the dog in?
+[30:28] COMMUNITY_VOICE_02: He was trying to.
+[30:29] COMMUNITY_VOICE_02: What kind of dog was it?
+[30:30] COMMUNITY_VOICE_02: Just a little small dog.
+[30:32] COMMUNITY_VOICE_02: Okay.
+[30:33] COMMUNITY_VOICE_09: Kids do this every day.
+[30:34] COMMUNITY_VOICE_09: Kids do this every day.
+[30:35] COMMUNITY_VOICE_09: She called the police every day.
+[30:37] COMMUNITY_VOICE_01: Well, you're acting like a bunch of kids.
+[30:38] COMMUNITY_VOICE_09: Yeah.
+[30:38] COMMUNITY_VOICE_09: Because we are kids.
+[30:40] COMMUNITY_VOICE_01: I know.
+[30:41] COMMUNITY_VOICE_09: Dolls.
+[30:43] COMMUNITY_VOICE_01: That's why we don't worry about it.
+[30:45] EYEWITNESS_COMMUNITY_VOICE_01: If I was out there every day.
+[30:46] COMMUNITY_VOICE_02: His mother has literally attacked me, picked up the sign, and thrown it at me.
+[30:51] EYEWITNESS_COMMUNITY_VOICE_01: I literally don't do anything over here.
+[30:53] EYEWITNESS_COMMUNITY_VOICE_01: Quiet.
+[30:54] COMMUNITY_VOICE_02: You know, I expect my neighbors to be respectful.
+[30:56] COMMUNITY_VOICE_01: Mm-hmm.
+[30:57] COMMUNITY_VOICE_02: Okay, thanks.
+[30:58] COMMUNITY_VOICE_01: I apologize if this happened at all.
+[30:59] COMMUNITY_VOICE_01: Yeah.
+[31:00] PROFESSIONAL_05: Did she not come to the door?
+[31:03] COMMUNITY_VOICE_01: She did.
+[31:03] COMMUNITY_VOICE_01: She did?
+[31:04] COMMUNITY_VOICE_01: Thanks, doctor.
+[31:04] COMMUNITY_VOICE_01: Okay.
+[31:05] COMMUNITY_VOICE_01: We got a point of her that there doesn't need to be a call for service every time a kid's playing in the road or in the yard.
+[31:11] COMMUNITY_VOICE_01: Well, apparently they've been stomping it.
+[31:13] COMMUNITY_VOICE_01: I mean, that one looks like it's been stomped out, too.
+[31:15] COMMUNITY_VOICE_01: Okay.
+[31:16] COMMUNITY_VOICE_01: Apparently they've been stomping out our signs and, like, running past our windows and screaming and, like, ding-dong ditching her and knocking on our door.
+[31:23] COMMUNITY_VOICE_01: There does come a point where you kind of have to accept that you live with a bunch of kids.
+[31:27] COMMUNITY_VOICE_01: She's also the only one that ever calls.
+[31:34] EYEWITNESS_COMMUNITY_VOICE_01: Yeah.
+[31:45] COMMUNITY_VOICE_09: We're trying to do it this way, but this bossy one, you need to take her to jail.
+[31:49] COMMUNITY_VOICE_01: Why are you taking her to jail?
+[31:50] COMMUNITY_VOICE_09: She's bossy.
+[31:53] COMMUNITY_VOICE_01: Could you guys just do me a favor and just keep an eye on your kids so they don't go over there?
+[31:59] COMMUNITY_VOICE_01: I think we'd all... We all have a bunch of calls coming out of here over and over about nothing.
+[32:04] COMMUNITY_VOICE_01: We all kind of know what the deal is.
+[32:06] EYEWITNESS_COMMUNITY_VOICE_01: It was like twice a week.
+[32:12] COMMUNITY_VOICE_01: And you know what?
+[32:13] COMMUNITY_VOICE_01: When I was growing up, I was doing all the same stuff that these kids were doing.
+[32:18] COMMUNITY_VOICE_01: I was probably...
+[32:20] COMMUNITY_VOICE_01: allegedly, maybe, I don't know.
+[32:23] COMMUNITY_VOICE_01: I was probably bothering one of my older neighbors that hated kids.
+[32:26] COMMUNITY_VOICE_01: You know?
+[32:28] PROFESSIONAL_06: You know?
+[32:29] PROFESSIONAL_06: I'm not saying it's right.
+[32:30] COMMUNITY_VOICE_01: Back in our day, though, if you were doing that, they could just come out and threaten you.
+[32:33] PROFESSIONAL_06: Yeah, maybe, yeah.
+[32:34] COMMUNITY_VOICE_01: Come out with the belt, you know what I'm saying?
+[32:37] COMMUNITY_VOICE_01: Yeah, but then you know what?
+[32:38] COMMUNITY_VOICE_01: You ran like hell.
+[32:39] COMMUNITY_VOICE_01: I come from the era where your parents were so cool with them, you got your ass whooped there, and then you got one when you got home.
+[32:46] EYEWITNESS_COMMUNITY_VOICE_01: You know what I'm saying?
+[32:48] EYEWITNESS_COMMUNITY_VOICE_01: I get it.
+[32:49] EYEWITNESS_COMMUNITY_VOICE_01: I understand it.
+[32:50] EYEWITNESS_COMMUNITY_VOICE_01: It's like,
+[32:50] EYEWITNESS_COMMUNITY_VOICE_01: I agree.
+[32:51] EYEWITNESS_COMMUNITY_VOICE_01: It's like the kids.
+[32:53] COMMUNITY_VOICE_01: That's why we don't, we don't somehow act at all crazy about it.
+[32:57] EYEWITNESS_COMMUNITY_VOICE_01: You know, we all, all the parents are cool.
+[33:01] EYEWITNESS_COMMUNITY_VOICE_01: I look after them just like I look after my own.
+[33:04] COMMUNITY_VOICE_01: Do you know what that kid in the red shirt's name is?
+[33:07] COMMUNITY_VOICE_01: Which one?
+[33:08] COMMUNITY_VOICE_01: The one right there.
+[33:09] EYEWITNESS_COMMUNITY_VOICE_01: The short one?
+[33:10] EYEWITNESS_COMMUNITY_VOICE_01: Yeah.
+[33:11] EYEWITNESS_COMMUNITY_VOICE_01: Nope.
+[33:12] EYEWITNESS_COMMUNITY_VOICE_01: What's your, he got a, Alfred, what's your brother's name?
+[33:17] EYEWITNESS_COMMUNITY_VOICE_01: My big brother?
+[33:17] EYEWITNESS_COMMUNITY_VOICE_01: Yeah.
+[33:20] EYEWITNESS_COMMUNITY_VOICE_01: Does he have a little puppy?
+[33:27] COMMUNITY_VOICE_01: She's saying he was trying to put the dog in the back of the truck.
+[33:31] EYEWITNESS_COMMUNITY_VOICE_01: Do you think he could even lift that dog?
+[33:39] EYEWITNESS_COMMUNITY_VOICE_01: The poodle is bigger than him.
+[33:41] EYEWITNESS_COMMUNITY_VOICE_01: Okay.
+[33:41] EYEWITNESS_COMMUNITY_VOICE_01: Literally.
+[33:42] EYEWITNESS_COMMUNITY_VOICE_01: Like, that dog is, that dog stands this tall.
+[33:44] EYEWITNESS_COMMUNITY_VOICE_01: Oh.
+[33:45] EYEWITNESS_COMMUNITY_VOICE_01: Like, this wide around.
+[33:46] EYEWITNESS_COMMUNITY_VOICE_01: Yeah, he can't keep that dog.
+[33:48] EYEWITNESS_COMMUNITY_VOICE_01: He can try.
+[33:48] EYEWITNESS_COMMUNITY_VOICE_01: Okay.
+[33:48] COMMUNITY_VOICE_01: Okay.
+[33:49] COMMUNITY_VOICE_01: Well, y'all need anything from us?
+[33:51] COMMUNITY_VOICE_01: Are we good?
+[33:52] COMMUNITY_VOICE_01: Okay.
+[33:52] EYEWITNESS_COMMUNITY_VOICE_01: Y'all take it easy.
+[33:53] COMMUNITY_VOICE_01: All right.
+[33:53] COMMUNITY_VOICE_01: See you guys.
+[33:55] COMMUNITY_VOICE_01: All right.
+[33:56] COMMUNITY_VOICE_01: Y'all have fun.
+[34:18] COMMUNITY_VOICE_08: The neighbors and I were all talking, they're like, well, why didn't she move?
+[34:20] COMMUNITY_VOICE_08: I said, when I moved in here, she told me she was moving out.
+[34:26] EYEWITNESS_COMMUNITY_VOICE_01: She kept saying she was moving in March, in February.
+[34:29] EYEWITNESS_COMMUNITY_VOICE_01: And I was just wondering why she ain't never got out of here yet.
+[34:38] COMMUNITY_VOICE_02: They just keep, they're trespassing, trespassing.
+[34:42] COMMUNITY_VOICE_02: Golden officer at last night, everybody shows up.
+[34:44] COMMUNITY_VOICE_02: I guess the mother of the children
+[34:47] COMMUNITY_VOICE_02: made me have interceded.
+[34:49] COMMUNITY_VOICE_02: She was out there waiting.
+[34:52] COMMUNITY_VOICE_02: I mean, I just have the burnt sign that they threw.
+[34:55] COMMUNITY_VOICE_02: And I'm like, all right, you're sending me a message.
+[34:57] COMMUNITY_VOICE_02: Thank you so much.
+[35:01] EYEWITNESS_COMMUNITY_VOICE_01: Do you want to see them go to jail or do some sort of recourse for it?
+[35:04] COMMUNITY_VOICE_09: Yeah, absolutely.
+[35:05] EYEWITNESS_COMMUNITY_VOICE_01: I'd like to be honest with you, right, so they know what exactly they're having done for them.
+[35:12] EYEWITNESS_COMMUNITY_VOICE_01: This is basically just going to be an official case document because the
+[35:17] EYEWITNESS_COMMUNITY_VOICE_01: You don't have video proof of the arson and the criminal mischief, so it will just be a police document more or less.
+[35:30] EYEWITNESS_01: Another day happened that my friend told me that the lady over there showed the kids that she had a gun.
+[35:44] EYEWITNESS_01: We were just playing over there, and then she was waving her gun, and Isaac and all of them were like, run!
+[35:48] EYEWITNESS_01: And we were hiding behind this car right here.
+[35:51] COMMUNITY_VOICE_07: And every time the basketball would go up there, I would be on my P's and Q's, like, because I ain't trying to get shot just for going up on her driveway type shit.
+[36:00] EYEWITNESS_01: Maybe, like, two days before that.
+[36:03] PROFESSIONAL_02: About two days before she showed this gun?
+[36:06] EYEWITNESS_01: Yes.
+[36:09] PROFESSIONAL_02: What were you doing that day during the daytime hours when the sun was out on Friday?
+[36:13] EYEWITNESS_01: Well...
+[36:14] EYEWITNESS_01: Me and my dad and my friends weren't playing the game.
+[36:18] EYEWITNESS_01: She was taking pictures of us playing.
+[36:21] EYEWITNESS_COMMUNITY_VOICE_01: I know, let's go!
+[36:37] COMMUNITY_VOICE_07: My little brother, he came and got me and he said the old, no offense, but he said the old white lady outside is acting crazy.
+[36:45] COMMUNITY_VOICE_07: So I'm like, oh, damn.
+[36:46] COMMUNITY_VOICE_07: I'm like, let me come see what that's about.
+[37:00] EYEWITNESS_01: So I was outside playing basketball, and I just see a pair of roller skates flying at Izzy.
+[37:07] EYEWITNESS_01: So me and then Izzy came over here.
+[37:09] EYEWITNESS_01: He said the woman had a tablet.
+[37:11] EYEWITNESS_01: I guess the woman took it.
+[37:13] EYEWITNESS_01: And he came over there and said she threw roller skates at him.
+[37:17] EYEWITNESS_01: So me and Isaac went over there, and then she came out with the umbrella and started swinging it and called us a jack, A-S-S. Next thing I heard him say was, Izzy, go get mom.
+[37:42] NEWS_CLIP_01: 9-1-1, what is the address of the emergency?
+[37:44] COMMUNITY_VOICE_02: Is he out there right now?
+[37:45] COMMUNITY_VOICE_02: Were there any weapons involved?
+[38:08] COMMUNITY_VOICE_02: I don't like the kids threatening me that they're going to beat me up, that they're going to get someone else to kill me.
+[38:19] COMMUNITY_VOICE_02: This is just ridiculous.
+[38:21] COMMUNITY_VOICE_02: They just keep dazzling me and dazzling me.
+[38:23] COMMUNITY_VOICE_02: I'm just sick of these children.
+[38:26] COMMUNITY_VOICE_02: Now that they're home from school, it's like, you know, craziness.
+[38:32] NEWS_CLIP_01: All right, do you want you to avoid that person and then keep your doors and windows locked?
+[38:36] NEWS_CLIP_01: An officer will be dispatched as soon as possible.
+[38:39] NEWS_CLIP_01: Do you want the officer to contact you?
+[38:41] COMMUNITY_VOICE_02: Please, yes.
+[38:43] COMMUNITY_VOICE_02: All right.
+[38:44] COMMUNITY_VOICE_02: Because what's going to happen is his mom's going to go out and wait for the officer and run and say, oh my God, I was certain it was her kid, which just isn't true.
+[38:52] NEWS_CLIP_01: All right, and then I'm going to go ahead and let you go, but please call us back if anything changes or if you get any further information or if they do leave, okay?
+[39:00] EYEWITNESS_01: Okay, thanks.
+[39:04] EYEWITNESS_01: Izzy's mom came outside, and then she started all mad.
+[39:09] EYEWITNESS_01: She started walking to the lady's house, and then she started banging on her slide-open door and then her regular door.
+[39:22] PROFESSIONAL_03: And I'm not like somebody throwing their body against the door trying to open it, just pounding on it.
+[39:30] PROFESSIONAL_03: Like I said, let me in.
+[39:32] EYEWITNESS_COMMUNITY_VOICE_01: I hear knocking, like, and then she didn't answer, and then I hear knocking again, but this time louder, like, and as the thudding was going on, a woman was screaming, like, at the top of her lungs.
+[39:50] EYEWITNESS_01: In a, like, mad voice, she said, why did you take my son's tablet?
+[39:54] COMMUNITY_VOICE_07: She said, come outside, bitch, or something like that.
+[39:57] COMMUNITY_VOICE_07: I know you hear me outside, bitch.
+[39:59] COMMUNITY_VOICE_07: Something like that.
+[40:00] PROFESSIONAL_02: Where was the lady at?
+[40:01] PROFESSIONAL_02: The woman with the blonde hair.
+[40:03] PROFESSIONAL_02: Where did she go?
+[40:04] EYEWITNESS_01: She was inside her house.
+[40:06] PROFESSIONAL_02: Did you hear the blonde woman say anything at all?
+[40:10] EYEWITNESS_01: No.
+[40:11] PROFESSIONAL_02: Was this 1, 2, 3, 1, 2, 3?
+[40:13] PROFESSIONAL_02: Was this over a long period of time or a short period of time?
+[40:15] COMMUNITY_VOICE_07: It was just those literally two knocks.
+[40:17] COMMUNITY_VOICE_07: That's all she got was two knocks.
+[40:19] EYEWITNESS_COMMUNITY_VOICE_01: And then, bang!
+[40:30] EYEWITNESS_01: I'm so close!
+[40:36] EYEWITNESS_COMMUNITY_VOICE_01: Can I get a job, please?
+[40:50] EYEWITNESS_COMMUNITY_VOICE_01: Not my car!
+[40:53] EYEWITNESS_COMMUNITY_VOICE_01: Oh, shit!
+[40:54] EYEWITNESS_COMMUNITY_VOICE_01: Oh, shit!
+[40:55] EYEWITNESS_COMMUNITY_VOICE_01: It's so fun!
+[40:58] PROFESSIONAL_04: 911, what is the address of the emergency?
+[41:00] EYEWITNESS_COMMUNITY_VOICE_01: I think somebody just got shot.
+[41:03] EYEWITNESS_COMMUNITY_VOICE_01: I heard one shot, and everybody's screaming, call the police, call the police.
+[41:06] EYEWITNESS_COMMUNITY_VOICE_01: And I think somebody got shot.
+[41:08] EYEWITNESS_COMMUNITY_VOICE_01: Hey, that boy stay over here.
+[41:10] COMMUNITY_VOICE_09: Hey, somebody call 911, here we go.
+[41:13] COMMUNITY_VOICE_08: My neighbor has been screaming at the kids outside.
+[41:18] COMMUNITY_VOICE_08: And all of a sudden, I heard what to me sounded like a gunshot.
+[41:22] EYEWITNESS_COMMUNITY_VOICE_01: It's the old lady that always calls the cops over here.
+[41:25] NEWS_CLIP_01: All right, and it looks like we're receiving multiple calls in reference to this also.
+[41:31] EYEWITNESS_COMMUNITY_VOICE_01: 911, what is the answer?
+[41:32] EYEWITNESS_COMMUNITY_VOICE_01: My buddy got shot.
+[41:33] EYEWITNESS_COMMUNITY_VOICE_01: His mom got shot.
+[41:34] EYEWITNESS_COMMUNITY_VOICE_01: Hey, is your mom laying in the grass?
+[41:36] EYEWITNESS_COMMUNITY_VOICE_01: Yes!
+[41:50] EYEWITNESS_COMMUNITY_VOICE_01: 9-1-1, what's the address of the emergency?
+[41:51] EYEWITNESS_COMMUNITY_VOICE_01: Okay, what is your name?
+[41:54] EYEWITNESS_COMMUNITY_VOICE_01: Okay, what's going on?
+[41:55] EYEWITNESS_COMMUNITY_VOICE_01: Take a deep breath for me.
+[41:57] EYEWITNESS_COMMUNITY_VOICE_01: Calm down.
+[42:15] EYEWITNESS_COMMUNITY_VOICE_01: I don't know what to do.
+[42:17] EYEWITNESS_COMMUNITY_VOICE_01: I grabbed my gun and I shot at the door.
+[42:23] EYEWITNESS_01: Did you know her?
+[42:26] EYEWITNESS_COMMUNITY_VOICE_01: Yes, she has.
+[42:27] COMMUNITY_VOICE_02: She's come up to me several times because of her children.
+[42:30] COMMUNITY_VOICE_02: Her children keep trespassing all the time.
+[42:32] EYEWITNESS_COMMUNITY_VOICE_01: They're bothering me and bothering me and I won't fucking stop.
+[42:36] EYEWITNESS_COMMUNITY_VOICE_01: Do you see the male subjects or do you just see the female?
+[42:41] COMMUNITY_VOICE_02: See, her boys were here earlier.
+[42:42] COMMUNITY_VOICE_02: They keep leaving their cars all around the house.
+[42:45] COMMUNITY_VOICE_02: And then I told them to take the crap away, get the fuck out of here.
+[42:49] EYEWITNESS_COMMUNITY_VOICE_01: Right there!
+[42:51] EYEWITNESS_COMMUNITY_VOICE_01: Hey, wake up!
+[42:51] EYEWITNESS_COMMUNITY_VOICE_01: Hey, wake up!
+[42:56] EYEWITNESS_COMMUNITY_VOICE_01: Wake up!
+[42:57] EYEWITNESS_COMMUNITY_VOICE_01: Wake up!
+[42:59] EYEWITNESS_COMMUNITY_VOICE_01: Wake up!
+[43:00] EYEWITNESS_COMMUNITY_VOICE_01: Wake up!
+[43:01] EYEWITNESS_COMMUNITY_VOICE_01: Come on!
+[43:02] EYEWITNESS_COMMUNITY_VOICE_01: Come on!
+[43:02] EYEWITNESS_COMMUNITY_VOICE_01: Come on!
+[43:03] EYEWITNESS_COMMUNITY_VOICE_01: Oh, shit!
+[43:03] EYEWITNESS_COMMUNITY_VOICE_01: Please!
+[43:03] EYEWITNESS_COMMUNITY_VOICE_01: Hey, wake up!
+[43:10] EYEWITNESS_COMMUNITY_VOICE_01: What's going on?
+[43:11] PROFESSIONAL_04: Right here!
+[43:11] EYEWITNESS_COMMUNITY_VOICE_01: Right here!
+[43:12] COMMUNITY_VOICE_09: Right here!
+[43:13] EYEWITNESS_COMMUNITY_VOICE_01: Right here!
+[43:15] EYEWITNESS_COMMUNITY_VOICE_01: Right here!
+[43:16] COMMUNITY_VOICE_09: Right here!
+[43:21] EYEWITNESS_COMMUNITY_VOICE_01: Right here!
+[43:23] COMMUNITY_VOICE_01: Right here!
+[43:23] COMMUNITY_VOICE_01: Right here!
+[43:24] COMMUNITY_VOICE_01: Right here!
+[43:40] EYEWITNESS_COMMUNITY_VOICE_01: I have one down.
+[43:41] EYEWITNESS_COMMUNITY_VOICE_02: I have one elderly female barricaded in the house with a signal zero.
+[43:48] EYEWITNESS_COMMUNITY_VOICE_01: I'm in front.
+[44:07] PROFESSIONAL_01: Sheriff's Office, come outside with your hands up!
+[44:11] PROFESSIONAL_01: Is the Marion County Sheriff's Office, come outside with your hands up!
+[44:21] PROFESSIONAL_01: Show me your hands!
+[44:22] PROFESSIONAL_01: Show me your hands!
+[44:23] PROFESSIONAL_01: Turn around!
+[44:24] PROFESSIONAL_01: Turn around!
+[44:25] PROFESSIONAL_01: Where's your gun at?
+[44:29] PROFESSIONAL_01: I don't know what's going on.
+[44:29] PROFESSIONAL_01: You're going to be detained for now.
+[44:30] COMMUNITY_VOICE_02: Is there anybody else in the house?
+[44:35] COMMUNITY_VOICE_02: No.
+[44:35] PROFESSIONAL_01: Nope.
+[44:35] PROFESSIONAL_01: No, not right now.
+[44:37] PROFESSIONAL_01: You're not under arrest.
+[44:38] PROFESSIONAL_01: You're being detained.
+[44:41] PROFESSIONAL_01: Come over here.
+[44:42] EYEWITNESS_COMMUNITY_VOICE_01: 64th and Marion.
+[44:42] EYEWITNESS_COMMUNITY_VOICE_01: Females detained.
+[44:43] EYEWITNESS_COMMUNITY_VOICE_01: Newton Maddox.
+[44:43] EYEWITNESS_COMMUNITY_VOICE_01: The suspect's been detained.
+[44:57] PROFESSIONAL_01: hey med bag get my med bag start giving first aid they weren't even over here she needs medical aid over there it should be in the big black thing
+[45:26] PROFESSIONAL_01: If y'all were here when it happened, just stand right here so I know who was out here when it happened.
+[45:31] PROFESSIONAL_01: All right, bud.
+[45:33] PROFESSIONAL_01: Give me a minute.
+[45:34] PROFESSIONAL_01: Just hang out by my car, okay?
+[45:40] PROFESSIONAL_01: Where is she shot at?
+[45:41] PROFESSIONAL_01: Right here.
+[45:42] PROFESSIONAL_01: Right here.
+[45:42] PROFESSIONAL_01: Chest.
+[45:43] EYEWITNESS_COMMUNITY_VOICE_01: Right side of chest.
+[45:44] EYEWITNESS_COMMUNITY_VOICE_01: We haven't cleared it, but we are at 554 on A1.
+[45:49] COMMUNITY_VOICE_04: I'll see you in a minute.
+[45:57] PROFESSIONAL_01: So you got a gunshot wound to her right shoulder area?
+[46:03] PROFESSIONAL_01: You ready?
+[46:04] PROFESSIONAL_01: Marion County Sheriff's Office, if you're inside, make it known now!

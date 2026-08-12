@@ -1,0 +1,801 @@
+[00:30] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I was a witness to a homicide.
+[00:36] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I have waited four years patiently for a just verdict.
+[00:41] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: It does not appear to be forthcoming.
+[01:12] NEWS_CLIP_01: Tango 19.
+[01:13] NEWS_CLIP_01: Box 7, we're requesting for launching.
+[01:15] NEWS_CLIP_01: We have shots fired, shots fired.
+[01:17] NEWS_CLIP_01: 10-4, copy.
+[01:18] NEWS_CLIP_01: Delta 66.
+[01:20] NEWS_CLIP_02: Can you call into Farmington Fire Station and have them open up one of their bay doors for me?
+[01:24] NEWS_CLIP_02: 10-4.
+[01:26] NEWS_CLIP_02: Report, you can go ahead.
+[01:31] NEWS_CLIP_02: Yeah, I've got eyes on the back of this truck.
+[01:32] NEWS_CLIP_02: Let me know if you need more info.
+[01:44] NEWS_CLIP_01: Fox 1, Davis.
+[01:45] NEWS_CLIP_01: Go ahead.
+[01:48] NEWS_CLIP_01: Did you need negotiators also?
+[01:50] NEWS_CLIP_01: I believe they're en route.
+[01:51] NEWS_CLIP_01: Just needed to confirm.
+[01:54] NEWS_CLIP_01: Affirmative.
+[01:57] NEWS_CLIP_01: 10-4.
+[01:57] NEWS_CLIP_01: Test 10-14, female's father's at the PD.
+[02:03] NEWS_CLIP_02: Hey, test 10-14, can you be here on the stage where we're at on 100 East State?
+[02:12] NEWS_CLIP_02: 701.
+[02:14] NEWS_CLIP_02: Got a Farmington police car blocking Main Street and First North.
+[02:17] NEWS_CLIP_02: I need them to move that so the ambulance can get through, please.
+[02:23] NEWS_CLIP_02: 10-1.
+[02:27] NEWS_CLIP_03: Initiate.
+[02:55] NEWS_CLIP_02: He is down.
+[02:55] NEWS_CLIP_02: Shot fired.
+[02:56] NEWS_CLIP_02: He is down.
+[02:57] NEWS_CLIP_02: Support from Mascot will move in.
+[02:59] NEWS_CLIP_02: Stand by.
+[03:00] NEWS_CLIP_02: We're going to secure him.
+[03:34] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: My job was pretty, I don't know how to say this, confidential.
+[03:41] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: When there's a major problem behind the scenes, or underground, or hidden from the rest of the world, I usually know about it because I'm the person that's hired to come in and troubleshoot it, solve it, resolve it, locate the source of the problem, and correct it.
+[03:59] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Most of my work, I would say 80% of my work at least,
+[04:16] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Toilet vapor, wipes, feminine products, anything that gets flushed in the toilet comes into this system and gets pumped away.
+[04:25] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: People take all this for granted, but this is what happens when you crap.
+[04:30] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The fun begins.
+[04:40] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I'm about a foot deep.
+[04:43] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: What I'm doing here is making it so I can extract the pump.
+[04:56] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: There we go.
+[04:58] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Okay.
+[05:00] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Something got in there and wallowed out a groove, so the bearings are completely gone in that.
+[05:06] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: So that's our problem.
+[05:11] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I like this job.
+[05:12] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: It's a lot less stressful than being a county sheriff or a county commissioner or a politician.
+[05:19] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Actually, it's a step up from being a politician.
+[05:21] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Standing in the sewage is a step up.
+[05:35] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I was the youngest sheriff to be elected in the history of the state of Utah.
+[05:38] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I was 29 years old when I was elected.
+[05:43] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I actually had to learn what a sheriff did after I was elected.
+[05:48] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: But by the time I took office in January of 75, I had read everything I could get my hands on that pertained to the office and the duty and the constitutional responsibility of the sheriff of the county.
+[06:03] FAMILY_FRIEND_01: When he first filed to run for sheriff, I was devastated because I thought, oh my gosh, we don't have money.
+[06:12] FAMILY_FRIEND_01: You'll never win.
+[06:14] FAMILY_FRIEND_01: And he won that one.
+[06:16] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This picture over here is when I was in the Marine Corps, an outstanding graduate.
+[06:20] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This is a police officer with Bountiful City.
+[06:23] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This is when I served as Davis County Commissioner in the mid-'80s.
+[06:28] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: My campaign picture when I ran for the United States Congress in 1990, 1992, and 1994.
+[06:31] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And I lost all three times to Congressman Jim Hansen.
+[06:43] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This is my hangar area.
+[06:46] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I built a lot of things in here.
+[06:48] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I designed an aircraft.
+[06:50] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: It took me 18 years of thinking about the perfect aircraft.
+[06:56] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I haven't worked on it a day in over four years.
+[07:00] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I abandoned the plane for a more pressing project.
+[07:03] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: It was the investigation of the homicide death of my son-in-law.
+[07:12] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I had to
+[07:13] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: find a place that nobody was aware of and operate in pretty much secrecy.
+[07:18] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This was sealed off and I could just move one of these out of the way and make a little path to come back into my project.
+[07:31] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I started on this wall.
+[07:33] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: These are actual photographs of the SWAT team officers who participated.
+[07:40] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This wall represents the sequential development of the investigation as we learned new information about the case.
+[07:49] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This has been a very difficult thing to do because of how close my relationship was to Brian.
+[08:03] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: He was like a son.
+[08:08] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The tragedy changed all of our lives.
+[08:21] INTERVIEWEE_01: Hey, you saw Jake in the fire truck?
+[08:22] INTERVIEWEE_01: That was my new job, one of them.
+[08:25] INTERVIEWEE_01: And the battery died on the camera, otherwise it would have been longer.
+[08:28] NEWS_CLIP_04: Sorry.
+[08:30] INTERVIEWEE_01: And Jake was in some of my gear, huh?
+[08:34] NEWS_CLIP_02: Yeah.
+[08:34] INTERVIEWEE_01: Go ahead, talk into the camera over there.
+[08:36] NEWS_CLIP_02: Yeah.
+[08:37] INTERVIEWEE_01: What else do you want to say before we send it?
+[08:38] NEWS_CLIP_02: I don't know.
+[08:41] INTERVIEWEE_01: Huh?
+[08:41] INTERVIEWEE_01: Did I have fun?
+[08:45] INTERVIEWEE_01: No.
+[08:45] INTERVIEWEE_01: Have fun.
+[08:46] INTERVIEWEE_01: We'll see you later, and we'll send you another one.
+[08:49] INTERVIEWEE_01: Yeah.
+[08:56] BEREAVED_01: Bye-bye.
+[08:57] BEREAVED_01: Bye.
+[08:57] BEREAVED_01: 99% of the time, Brian was a kind, loving, patient person.
+[09:06] BEREAVED_01: He was stubborn.
+[09:07] BEREAVED_01: He was a take-me-as-I-am person.
+[09:10] NEWS_CLIP_02: My ass is so big.
+[09:15] FAMILY_FRIEND_EYEWITNESS_01: He overall was a very good husband and just, I think, an excellent father.
+[09:25] FAMILY_FRIEND_EYEWITNESS_01: But Brian did have a tendency that when something was going wrong, rather than opening up and talking about it, he would keep it within himself and let it build up until, you know, it would come out in the wrong way.
+[09:45] BEREAVED_01: I've never seen Brian the way he was the morning of September 22nd.
+[09:49] FAMILY_FRIEND_EYEWITNESS_01: Liz had gone to a church camp in Denver, Colorado.
+[09:55] BEREAVED_01: supported me in that and bought the ticket.
+[09:58] BEREAVED_01: But, you know, it gets closer to the day for me to leave and it's time for me to go and he just gets more sad and more, you know, I don't know, you know, dogs get separation anxiety and they tear up the furniture.
+[10:21] BEREAVED_01: I came home and he
+[10:25] BEREAVED_01: was being extra quiet.
+[10:29] BEREAVED_01: You know, I mean, he just had the look.
+[10:35] BEREAVED_01: We just fought.
+[10:38] BEREAVED_01: He brought up things from 10 years ago.
+[10:41] BEREAVED_01: I mean, we fought about everything.
+[10:44] FAMILY_FRIEND_EYEWITNESS_01: I've gone through it a thousand times in my mind.
+[10:47] FAMILY_FRIEND_EYEWITNESS_01: In the beginning, it was a typical Monday morning.
+[10:51] FAMILY_FRIEND_EYEWITNESS_01: My office is only two blocks away from Brian's home right here in Farmington.
+[10:56] FAMILY_FRIEND_EYEWITNESS_01: And as usual, one of the first things that I do is that I call Brian.
+[11:02] BEREAVED_01: When Brian picked up the phone, he was talking to his dad, I screamed for Jerry to help me.
+[11:10] BEREAVED_01: That made Brian very angry.
+[11:13] BEREAVED_01: I did not know how powerless I was until I...
+[11:21] BEREAVED_01: ran into a truly angry husband.
+[11:23] NEWS_CLIP_05: 911 emergency.
+[11:26] NEWS_CLIP_02: Yeah, I just beat and raped my wife.
+[11:29] NEWS_CLIP_02: Come get me.
+[11:30] NEWS_CLIP_05: You what?
+[11:32] BEREAVED_01: Hello?
+[11:33] BEREAVED_01: When he said it, I don't know what his motivation was, other than maybe shock value.
+[11:41] BEREAVED_01: He didn't rape me.
+[11:42] BEREAVED_01: He did hurt me.
+[11:43] BEREAVED_01: He did assault me.
+[11:45] FAMILY_FRIEND_01: He had a very clear moral code himself.
+[11:49] FAMILY_FRIEND_01: You know, you just don't hurt other people, anybody.
+[11:55] FAMILY_FRIEND_01: And so he would have been angry at himself probably for that, frustrated.
+[12:02] FAMILY_FRIEND_01: And where do you go from here?
+[12:05] FAMILY_FRIEND_EYEWITNESS_01: I walked up to the door and I could tell the atmosphere was pretty heavy.
+[12:11] FAMILY_FRIEND_EYEWITNESS_01: You know, I could tell something was wrong.
+[12:19] NEWS_CLIP_05: Hello?
+[12:20] NEWS_CLIP_05: Hi.
+[12:20] NEWS_CLIP_05: This is the 911 operator.
+[12:22] NEWS_CLIP_05: What's going on over there?
+[12:24] NEWS_CLIP_05: Eric, it's OK. His dad's here now.
+[12:26] NEWS_CLIP_05: It's what?
+[12:27] NEWS_CLIP_05: It's fine.
+[12:27] NEWS_CLIP_05: His dad's here now.
+[12:29] NEWS_CLIP_05: It's fine.
+[12:29] NEWS_CLIP_05: No.
+[12:29] NEWS_CLIP_05: What's going on over there?
+[12:32] NEWS_CLIP_05: I have to send somebody.
+[12:33] NEWS_CLIP_05: What's going on over there?
+[12:35] NEWS_CLIP_05: Is this Liz?
+[12:35] NEWS_CLIP_05: I don't need you to send into it.
+[12:37] NEWS_CLIP_05: I don't want to talk to anybody.
+[12:38] NEWS_CLIP_01: 10-75, 125 East, 100 North, 125 East, 100 North.
+[12:46] FAMILY_FRIEND_EYEWITNESS_01: Brian climbed into his truck, he rolled the window up in the car, and he turned the music on.
+[12:52] FAMILY_FRIEND_EYEWITNESS_01: He turned it up quite loud.
+[12:55] FAMILY_FRIEND_EYEWITNESS_01: And he just didn't want to communicate or talk.
+[13:01] FAMILY_FRIEND_EYEWITNESS_01: Within probably four or five minutes, there were two police officers that pulled up in their patrol cars.
+[13:11] FAMILY_FRIEND_EYEWITNESS_01: He had two handguns.
+[13:13] FAMILY_FRIEND_EYEWITNESS_01: He rolled down the passenger side window
+[13:16] FAMILY_FRIEND_EYEWITNESS_01: He took one of the pistols and he did fire around into the plywood next to the truck.
+[13:24] FAMILY_FRIEND_EYEWITNESS_01: It was just his way of saying that I do have weapons and they are loaded.
+[13:30] FAMILY_FRIEND_EYEWITNESS_01: And I knew at that point that we have kind of a serious situation.
+[13:34] NEWS_CLIP_01: When I ran
+[13:46] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The first time for public office in 1974, I walked from door to door.
+[13:54] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Liz was on my back in a backpack and helped me campaign.
+[13:59] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And a lot of people voted for me.
+[14:01] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They didn't know me.
+[14:02] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They didn't know much about me.
+[14:03] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: But they voted for the guy with the little girl on his back in a backpack.
+[14:09] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Liz is my oldest daughter, and I've always been really protective of her.
+[14:15] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Immediately after the event of the 22nd of September, 2008, I was worried about Liz's safety.
+[14:22] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I was very angry at Brian.
+[14:25] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: When I realized that he had assaulted Liz, I was angry and I was upset and I was for a long time.
+[14:33] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And I fully expected that Brian would have been convicted and gone to jail.
+[14:38] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I have no problems with that because that's justice.
+[14:43] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Um,
+[14:46] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I do feel that he did not deserve to die.
+[14:51] BEREAVED_01: There would have been and should have been legal consequences.
+[15:00] NEWS_CLIP_06: Since this week's SWAT standoff in Farmington ended with the death of a man, a lot of people have been asking questions about how police standoffs should be handled.
+[15:08] NEWS_CLIP_07: Some are supportive of the police actions.
+[15:11] NEWS_CLIP_07: Others wonder whether Brian Wood really had to die.
+[15:14] NEWS_CLIP_08: Dr. Mark Zalig is a forensic psychologist and spent 25 years as a Salt Lake City police officer.
+[15:20] NEWS_CLIP_08: He says more than 80% of standoff situations end safely.
+[15:24] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: By and large, the methodology and the system that police departments are using now are fairly sound.
+[15:32] NEWS_CLIP_09: Police use tear gas, stun grenades, pepper balls, possibly even a taser, before Wood is eventually shot by a Davis County Sheriff's deputy.
+[15:53] NEWS_CLIP_10: Six days of rioting in the Negro section of Los Angeles left behind scenes reminiscent of war-torn cities.
+[16:01] ADVOCATE_REFORM_PROFESSIONAL_01: The origin of the SWAT team, you can trace back to 1965 with the Watts riots.
+[16:07] ADVOCATE_REFORM_PROFESSIONAL_01: These were unlike any riots the country had ever seen before.
+[16:09] ADVOCATE_REFORM_PROFESSIONAL_01: They were much more militant.
+[16:11] ADVOCATE_REFORM_PROFESSIONAL_01: They weren't confined to one part of the city.
+[16:14] ADVOCATE_REFORM_PROFESSIONAL_01: Daryl Gates was an inspector at LAPD and was in charge of LAPD's response to the Watts riots.
+[16:21] ADVOCATE_REFORM_PROFESSIONAL_01: And Gates was troubled by the way his department responded to the riots.
+[16:24] ADVOCATE_REFORM_PROFESSIONAL_01: And so his idea was that LAPD needed an equally militaristic response to that.
+[16:30] ADVOCATE_REFORM_PROFESSIONAL_01: And he comes up with this idea of assembling this very elite team of police officers who are highly trained, very specialized, who could respond quickly and overwhelmingly to these kinds of emergency situations.
+[16:41] ADVOCATE_REFORM_PROFESSIONAL_01: And the idea was to use violence to diffuse an already violent scenario.
+[16:48] ADVOCATE_REFORM_PROFESSIONAL_01: The first raid comes in 1969 against the Black Panther holdout.
+[16:51] NEWS_CLIP_11: The intermittent warfare between the Black Panthers and police erupted today in Los Angeles.
+[16:57] ADVOCATE_REFORM_PROFESSIONAL_01: The next high-profile raid comes a few years later against the Symbionese Liberation Army.
+[17:02] NEWS_CLIP_12: Five suspected members of the Symbionese Liberation Army are dead.
+[17:06] ADVOCATE_REFORM_PROFESSIONAL_01: The whole country was kind of watching this as the big tabloid crime stories at the time.
+[17:10] ADVOCATE_REFORM_PROFESSIONAL_01: This whole thing was nationally televised, and that raid really kind of propels SWAT into the mass culture.
+[17:22] ADVOCATE_REFORM_PROFESSIONAL_01: You get a SWAT TV show, SWAT board games and lunch boxes, and the SWAT team really becomes a part of domestic law enforcement.
+[17:33] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Across the country, things in the early 70s were changing.
+[17:37] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Things were happening that were much more violent.
+[17:41] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I went to Los Angeles and studied right where it originated.
+[17:45] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And it just seemed to be the proper thing to do at the time.
+[17:52] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I started the SWAT team in Davis County in 1975.
+[17:56] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The intent was noble.
+[17:58] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The intent was to have the capability, the weaponry, the training, the ability to neutralize or defuse violent situations.
+[18:12] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: As I stood there and watched and witnessed what went down on the 22nd of September, I knew how they should be conducting their operations.
+[18:21] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I knew
+[18:22] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: procedure, the protocol, tactical approaches that would be effective.
+[18:32] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I was disappointed.
+[18:36] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: But at the same time, I consistently comforted my family members.
+[18:43] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I explained to Jerry they're professional.
+[18:46] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They know what they're doing.
+[18:48] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: We have to trust them.
+[18:49] FAMILY_FRIEND_01: All of us really trusted law enforcement.
+[18:52] FAMILY_FRIEND_01: No one had the inclination that it would end the way it did.
+[19:05] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I went over it and over it in my head because it didn't make sense the way it went down.
+[19:17] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I have been an investigator for 45 years.
+[19:22] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: When I initially started out as a police officer, I spent a lot of time on patrol investigating traffic accidents.
+[19:30] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I took a real interest in reconstructing crime scenes.
+[19:37] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I worked on some fairly high-profile cases as a police officer.
+[19:42] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: We actually broke the Ted Bundy case at Viewmont High School with the homicide death of Debbie Kent.
+[19:51] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: After I left law enforcement, I was called upon a number of times to assist lawyers, law firms, insurance companies in reconstructing accidents.
+[20:01] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I've investigated drug cases, robberies, homicides, accidental deaths, suicides.
+[20:07] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I've investigated at least 125 major felony cases.
+[20:14] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Over a period of time, through the Records Access Management Act and under Freedom of Information Act, we were able to obtain evidence that the police had in their possession.
+[20:25] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: We received 1,100 pages of documents.
+[20:29] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Of those 1,100 pages, there were that many pages, there's over 300 pages that are redacted.
+[20:37] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They cut out what they didn't want us to see,
+[20:51] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I've kind of reconstructed a lot of things here.
+[20:53] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: We placed this exactly the way it was because we have it photographed.
+[20:58] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I took custody of this scene at 7 o'clock on the 23rd, which was 20 hours, 22 hours after Brian was killed.
+[21:12] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I was astonished.
+[21:15] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I was able to direct an investigation right from the beginning
+[21:20] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: and get fresh evidence before it was tainted.
+[21:23] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: That's unheard of.
+[21:27] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The police did not do a thorough investigation.
+[21:30] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I recovered 14 rounds.
+[21:33] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I recovered seven 37-millimeter gas rounds that the police discarded.
+[21:38] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I recovered black impact rounds, blue rubber foam rounds.
+[21:43] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Numerous pieces of evidence were left by the police.
+[21:48] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: There was a total of 111 rounds fired by the police, counting the tasers, the explosive devices, flash bang grenades, pepper ball rounds, two lethal rounds.
+[22:00] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And we traced 94 of the 111 from point of firing all the way through everything they touched until they were recovered.
+[22:09] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And either the police have them in evidence or we have them in evidence.
+[22:16] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: After two years and seven months, the family was able to get a copy of the video that was actually taken by the police.
+[22:26] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I bought a computer, and those two pole camera videos, I was able to put on the computer, download them, and began looking at them very, very carefully.
+[22:38] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: As I learned more and began to piece together the puzzle, I spent more and more time doing this.
+[22:46] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I'd come in from work every evening and work till midnight.
+[22:49] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Sometimes I'd work all night.
+[22:52] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: But it became an obsession, and the more I learned, the more it drew me into trying to find the truth.
+[23:01] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Immediately following the altercation in the house, Brian went out the back door, came around the house, and came and got in his truck.
+[23:13] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: His father followed him out and stopped by the mirror and is standing right here by the door.
+[23:21] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Jerry is threatened by the police.
+[23:23] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They threatened to arrest him for interfering, for obstructing justice, felony charges if he didn't move away from the truck.
+[23:30] FAMILY_FRIEND_EYEWITNESS_01: After a certain length of time, I finally decided I have to trust them.
+[23:36] FAMILY_FRIEND_EYEWITNESS_01: I've got to trust them.
+[23:38] FAMILY_FRIEND_EYEWITNESS_01: I've got to walk away from this, and they're going to resolve this situation, and we'll move forward.
+[23:44] BEREAVED_01: The police officer that was in here with us took Jacob and myself, and we had to go out through the backyard, through the neighbor's fence.
+[23:54] BEREAVED_01: My aunt took me to the doctor, and then I came home from the doctor, and I went to sleep.
+[23:59] BEREAVED_01: They gave me some drugs and I slept most of the afternoon and I had no idea.
+[24:07] BEREAVED_01: Nobody told me anything.
+[24:11] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Meanwhile, officers have moved into the house.
+[24:14] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They don't have a warrant and the house is unoccupied, but the Farmington officer unlocks the front door and lets the SWAT team officers in the house.
+[24:22] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They cut the screens on the kitchen window.
+[24:25] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They kick out the screens in the living room window.
+[24:29] FAMILY_FRIEND_EYEWITNESS_01: There were officers everywhere.
+[24:31] FAMILY_FRIEND_EYEWITNESS_01: They were on the other side of the fence.
+[24:33] FAMILY_FRIEND_EYEWITNESS_01: They were inside the house.
+[24:35] FAMILY_FRIEND_EYEWITNESS_01: They were on the roof of houses and the fire department across the street.
+[24:39] FAMILY_FRIEND_EYEWITNESS_01: They've got 80 police officers.
+[24:41] FAMILY_FRIEND_EYEWITNESS_01: They've got highway patrolmen.
+[24:43] FAMILY_FRIEND_EYEWITNESS_01: They've got bountiful police.
+[24:45] FAMILY_FRIEND_EYEWITNESS_01: They've got Davis County Sheriff's Department.
+[24:47] FAMILY_FRIEND_EYEWITNESS_01: They've got the Farmington City, Kaysville.
+[24:49] FAMILY_FRIEND_EYEWITNESS_01: They got the Salt Lake SWAT team.
+[24:52] FAMILY_FRIEND_EYEWITNESS_01: It's just unbelievable.
+[24:53] FAMILY_FRIEND_EYEWITNESS_01: They've got a helicopter in the air.
+[24:56] FAMILY_FRIEND_EYEWITNESS_01: And during this time,
+[24:58] FAMILY_FRIEND_EYEWITNESS_01: Now Brian is not in any way pointing the gun at any persons except himself.
+[25:09] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The first assault begins after three or four hours.
+[25:13] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: As Brian is convinced it's useless, he agrees to surrender and actually opens the door, starts to step out of the vehicle.
+[25:22] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And at that point, the command center tells the officers here,
+[25:28] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: No, do not let him out the driver's side.
+[25:31] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Take him out the passenger side.
+[25:32] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They don't tell him anything.
+[25:34] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They just open fire with a 40 millimeter impact round that's fired from the living room window.
+[25:41] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And it hits the window right here and blows out his window.
+[25:45] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And first thing he does is, you know, he flips the bird and they open fire from the kitchen window.
+[25:53] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They blow out the back windows and struck him in the side of the neck.
+[25:59] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And so Brian goes down.
+[26:02] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Instead of surrendering and getting out, he is now injured and incapacitated in the vehicle.
+[26:09] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: It takes them over an hour for it to allow him to recover enough to follow instructions.
+[26:18] BEREAVED_01: I mean, a chunk of the headrest was torn off.
+[26:23] BEREAVED_01: And these are the non-lethal weapons.
+[26:31] FAMILY_FRIEND_EYEWITNESS_01: I was told that the Davis County District Attorney relayed the message to him that he had committed five felonies and that he would be spending the next 20 years in prison.
+[26:46] FAMILY_FRIEND_EYEWITNESS_01: To try to calm the situation down by telling him he had already committed five felonies and that he was going to spend the next 20 years in prison, it didn't seem to me to be a very tactful decision.
+[27:00] FAMILY_FRIEND_EYEWITNESS_01: position.
+[27:03] FAMILY_FRIEND_EYEWITNESS_01: I kept telling them, let me talk to Brian.
+[27:05] FAMILY_FRIEND_EYEWITNESS_01: I know I can calm this situation down.
+[27:08] FAMILY_FRIEND_EYEWITNESS_01: They said, absolutely not.
+[27:10] FAMILY_FRIEND_EYEWITNESS_01: They were in control and they were going to handle the situation.
+[27:15] FAMILY_FRIEND_EYEWITNESS_01: All of a sudden, you see this mentality of aggression that is just overwhelming.
+[27:21] FAMILY_FRIEND_EYEWITNESS_01: And once this machine started going in that direction, there didn't seem to be any way to reverse it, change its direction, or slow it down.
+[27:33] FAMILY_FRIEND_EYEWITNESS_01: It seemed to go into more of a military operation at that time.
+[27:38] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The SWAT team decide to force him out of the vehicle.
+[27:41] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They run all the way up to the tree
+[27:44] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: within four feet of the window and toss a flashbang that blows up right by the mirror and shoot three rounds of gas into the backseat area.
+[27:53] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Brian then gets out of the vehicle and from 3.30 in the afternoon, he stands right here with a phone to his ear and a gun to his head
+[28:17] FAMILY_FRIEND_EYEWITNESS_01: Why?
+[28:17] FAMILY_FRIEND_EYEWITNESS_01: Why did this happen?
+[28:19] FAMILY_FRIEND_EYEWITNESS_01: Who's making these decisions?
+[28:47] PROFESSIONAL_01: These are our command vehicle.
+[28:49] PROFESSIONAL_01: We have a bomb vehicle.
+[28:50] PROFESSIONAL_01: And you have a bomb containment device over here in the corner.
+[28:56] PROFESSIONAL_01: About the closest thing we have to being the militarization of our police force is this Humvee that we picked off of our military surplus.
+[29:07] PROFESSIONAL_01: When people fall and break their leg or anything, we use this vehicle to be able to get
+[29:13] PROFESSIONAL_01: way back into the woods and be able to load them up onto a stoke stretcher and get back out of there where normal trucks just can't get to.
+[29:23] INTERVIEWEE_02: Do you have the Bearcat in there?
+[29:25] PROFESSIONAL_01: We do have the Bearcat.
+[29:26] PROFESSIONAL_01: He's out on training right now with it.
+[29:29] ADVOCATE_REFORM_PROFESSIONAL_01: Seems to be a popular vehicle.
+[29:30] PROFESSIONAL_01: Yeah.
+[29:31] PROFESSIONAL_01: Last time I was here, it was a... Yeah, it gets utilized.
+[29:41] PROFESSIONAL_01: It's designed to carry...
+[29:43] PROFESSIONAL_01: multiple officers.
+[29:45] NEWS_CLIP_13: Armored military vehicles are all over Utah.
+[29:47] NEWS_CLIP_13: The steel Bearcat is at the Davis County Sheriff's Department but used around the region.
+[29:51] NEWS_CLIP_13: Sheriff Todd Richardson says that vehicles like these are used to protect officers, not to intimidate.
+[29:58] PROFESSIONAL_01: You have kind of this perception out there that it's the militarization of law enforcement.
+[30:05] PROFESSIONAL_01: It's really me as a sheriff asking a deputy
+[30:09] PROFESSIONAL_01: to go into a situation where there's a high probability somebody will get shot.
+[30:15] PROFESSIONAL_01: And me as a sheriff preparing that individual with all the tools that I can give him to keep him safe to go handle that situation.
+[30:24] PROFESSIONAL_01: And that's, if you want to call that militarization, then that's what it is.
+[30:33] PROFESSIONAL_02: the premise that the cops are becoming more like the military.
+[30:37] PROFESSIONAL_02: It is false.
+[30:39] PROFESSIONAL_02: In fact, it is a altered reality.
+[30:44] PROFESSIONAL_02: The opposite is true.
+[30:45] PROFESSIONAL_02: The military has learned from the police and it is very evident in places like Iraq and Afghanistan, where they've had to go into these communities and be part of the community and still function.
+[30:56] PROFESSIONAL_02: The reality is SWAT teams save lives, demonstrably.
+[31:02] PROFESSIONAL_02: Many of our weapons systems are saving lives.
+[31:04] PROFESSIONAL_02: The taser, great tool, vilified in many places around the country as an unnecessary use of force and overly dangerous.
+[31:12] PROFESSIONAL_02: I personally have seen it save the lives of youth and others because it's allowed us to not use deadly force.
+[31:19] PROFESSIONAL_02: So our tactics, I think, have improved and improved the safety of our community.
+[31:27] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Since my family became victims, I've watched more intently than ever
+[31:32] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: the other people like us who have suffered as victims, who have to deal with the loss of a loved one, a family member in this case.
+[31:46] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And I find we're not alone.
+[31:49] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: There are hundreds and hundreds of people across the country.
+[31:52] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: It's happening several times every day.
+[31:54] NEWS_CLIP_02: We were with you seven, we were with you seven.
+[32:02] NEWS_CLIP_02: Whiskey 7.
+[32:04] NEWS_CLIP_02: Whiskey 7, we're at 3268 Jackson.
+[32:08] NEWS_CLIP_02: We got shot fired.
+[32:09] NEWS_CLIP_02: We got officer hit.
+[32:11] NEWS_CLIP_02: I need medical.
+[32:11] NEWS_CLIP_02: I need additional units.
+[32:18] NEWS_CLIP_14: On January 4, 2012, at 8.40 p.m., officers from the Weber Morgan Narcotic Strike Force were attempting to serve a search warrant at 3268 Jackson Avenue in Ogden.
+[32:29] NEWS_CLIP_14: During the service of the warrant, six police officers as well as one suspect were shot and were taken to local hospitals.
+[32:38] NEWS_CLIP_14: The Ogden City Police Department regretfully announces that Agent Jared Frankham succumbed to injuries sustained as a result of this incident.
+[32:46] NEWS_CLIP_14: Agent Frankham has served the citizens of Ogden with honor for seven years.
+[32:51] NEWS_CLIP_14: He is survived by his wife and two young children.
+[32:56] NEWS_CLIP_14: The suspect remains at a local hospital under guard with non-life threatening injuries.
+[33:01] NEWS_CLIP_14: The suspect's name is Matthew David Stewart.
+[33:10] BEREAVED_ADVOCATE_REFORM_01: This was a picture he took when he was up at Waterfall Canyon.
+[33:15] BEREAVED_ADVOCATE_REFORM_01: He liked to climb.
+[33:17] BEREAVED_ADVOCATE_REFORM_01: He loved the outdoors and he loved hiking.
+[33:21] BEREAVED_ADVOCATE_REFORM_01: He used to go up with his little sister.
+[33:23] BEREAVED_ADVOCATE_REFORM_01: I don't believe that for one minute Matthew knew that it was the police that was breaking into his home.
+[33:33] BEREAVED_ADVOCATE_REFORM_01: They hid their vehicles across the street by the church.
+[33:36] BEREAVED_ADVOCATE_REFORM_01: They snuck over in single file, being very quiet to not alert neighbors for fear that they would possibly call the resident and warn them.
+[33:47] BEREAVED_ADVOCATE_REFORM_01: They had long hair.
+[33:49] BEREAVED_ADVOCATE_REFORM_01: Some of them, they had beards.
+[33:51] BEREAVED_ADVOCATE_REFORM_01: They worked undercover.
+[33:53] BEREAVED_ADVOCATE_REFORM_01: They wore black clothing, Levi's.
+[33:56] BEREAVED_ADVOCATE_REFORM_01: You know, they weren't in police uniforms.
+[33:58] BEREAVED_ADVOCATE_REFORM_01: There were no police cars with the lights in front of the house to let somebody know that, hey, you know, we have a search warrant.
+[34:07] BEREAVED_ADVOCATE_REFORM_01: I think his training kicked in.
+[34:10] FAMILY_FRIEND_02: Matthew was a communications specialist in the military.
+[34:14] FAMILY_FRIEND_02: He was also airborne.
+[34:15] FAMILY_FRIEND_02: It kind of took me a while to actually even meet Matthew because he was very withdrawn.
+[34:21] FAMILY_FRIEND_02: My relationship with Matthew specifically started growing when he lost his job at the IRS and we got him a job with us at Walmart.
+[34:31] FAMILY_FRIEND_02: Matthew and I worked the graveyard shift together.
+[34:34] FAMILY_FRIEND_02: So we would go into work at 10 p.m. and we would get off work at 7 a.m. Had they waited one more hour, Matthew would have been out on the driveway waiting for us to pick him up for work.
+[34:44] FAMILY_FRIEND_02: None of this had to happen.
+[34:49] NEWS_CLIP_15: We must wage what I have called total war against public enemy number one in the United States, the problem of dangerous drugs.
+[34:58] ADVOCATE_REFORM_PROFESSIONAL_01: In 1970 and 1971, we have Nixon declaring war on drugs.
+[35:02] ADVOCATE_REFORM_PROFESSIONAL_01: Nixon comes up with this idea of the no-knock raid.
+[35:05] ADVOCATE_REFORM_PROFESSIONAL_01: Federal narcotics officers across the entire country, they use it gladly and often.
+[35:10] ADVOCATE_REFORM_PROFESSIONAL_01: They start conducting these mass raids, sometimes without warrants, terrorizing people, giving them out houses.
+[35:16] ADVOCATE_REFORM_PROFESSIONAL_01: SWAT teams are spreading across the country, but they're still being used only in these emergency-type situations.
+[35:22] ADVOCATE_REFORM_PROFESSIONAL_01: It really isn't until the Reagan administration that the two trends converge.
+[35:25] ADVOCATE_REFORM_PROFESSIONAL_01: We can defeat this enemy.
+[35:27] ADVOCATE_REFORM_PROFESSIONAL_01: Reagan had taken Nixon's drug war metaphor and made it very literal.
+[35:31] NEWS_CLIP_04: 37 federal agencies are working together in a vigorous national effort.
+[35:36] NEWS_CLIP_04: And by next year, our spending for drug law enforcement will have more than tripled from its 1981 levels.
+[35:42] ADVOCATE_REFORM_PROFESSIONAL_01: You start to see SWAT teams used primarily to serve search warrants on people suspected of drug crimes.
+[35:49] NEWS_CLIP_03: Police!
+[35:49] NEWS_CLIP_03: Police!
+[35:49] NEWS_CLIP_03: Search warrant!
+[35:50] NEWS_CLIP_03: Police!
+[35:50] NEWS_CLIP_03: Police!
+[35:51] NEWS_CLIP_03: Search warrant!
+[35:55] NEWS_CLIP_03: Search warrant!
+[35:55] NEWS_CLIP_03: Search warrant!
+[35:56] NEWS_CLIP_03: Don't move!
+[35:56] NEWS_CLIP_03: Don't move!
+[35:59] NEWS_CLIP_03: Don't move!
+[36:03] ADVOCATE_REFORM_PROFESSIONAL_02: The war on drugs federally has produced a lot of money that's then trickled down to communities.
+[36:09] ADVOCATE_REFORM_PROFESSIONAL_02: You see this heavy degree of new tools and weapons and things being given to police officers, but the outcome of that is that you change from the blue-shirted police officer to the battle-hardened, battle-gear-laden police officer who looks more like a military officer ready to fight against an enemy.
+[36:29] NEWS_CLIP_02: I'll be a police search warrant.
+[36:30] NEWS_CLIP_02: Don't move, don't move.
+[36:31] ADVOCATE_REFORM_PROFESSIONAL_03: the use of paramilitary policing tactics is not new.
+[36:37] ADVOCATE_REFORM_PROFESSIONAL_03: And in fact, in some communities, in particular poor communities of color, it's been going on for decades.
+[36:52] ADVOCATE_REFORM_PROFESSIONAL_04: Particularly for people who are disproportionately affected by these policies, there's an increased tension that's going to build up.
+[36:59] ADVOCATE_REFORM_PROFESSIONAL_04: A lot of times that can only hit its climax and result in extra violence that otherwise wouldn't be there.
+[37:09] ADVOCATE_REFORM_PROFESSIONAL_04: Introducing aggressive tactics and militarized tactics and weapons into an already volatile situation has a tendency to increase that cycle where the community becomes more tense and tends to react more violently.
+[37:21] ADVOCATE_REFORM_PROFESSIONAL_04: So the police react more violently against them and it's a self-perpetuating circle.
+[37:26] ADVOCATE_REFORM_PROFESSIONAL_03: In the 1990s, Congress created a program that's administered by the Defense Department that we refer to as the 1033 program.
+[37:33] ADVOCATE_REFORM_PROFESSIONAL_03: And this is a program that authorizes the U.S. military to give away to police departments military equipment, essentially free of charge, to the local police departments.
+[37:47] ADVOCATE_REFORM_PROFESSIONAL_03: And that program has a built-in requirement that a police department that receives equipment from the U.S. military has to use it within one year.
+[37:56] ADVOCATE_REFORM_PROFESSIONAL_04: Police officers are receiving military vehicles and uniforms and weapons and equipment, and they're being told they're fighting a war on drugs.
+[38:04] ADVOCATE_REFORM_PROFESSIONAL_04: They're being told they're fighting a war on terror.
+[38:07] ADVOCATE_REFORM_PROFESSIONAL_04: When you dress them up and you give them that mandate and you give them that mindset, it's not a surprise that they start acting in a militaristic way.
+[38:16] ADVOCATE_REFORM_PROFESSIONAL_03: If all you have is a hammer, everything looks like a nail.
+[38:19] ADVOCATE_REFORM_PROFESSIONAL_03: And it stands to reason that if the federal government is giving police departments an arsenal of military weaponry, they're going to use it.
+[38:26] ADVOCATE_REFORM_PROFESSIONAL_03: Tragically, there are so many incidents of the use of deadly force across the country.
+[38:34] ADVOCATE_REFORM_PROFESSIONAL_01: What we see is just this massive, massive increase in the use and number of SWAT teams.
+[38:38] ADVOCATE_REFORM_PROFESSIONAL_01: In the late 70s, there were a few hundred SWAT raids per year across the entire country.
+[38:43] ADVOCATE_REFORM_PROFESSIONAL_01: By the early 80s, we were up to about 3,000 per year.
+[38:46] ADVOCATE_REFORM_PROFESSIONAL_01: And by 2005, we were up to about 50,000 SWAT raids per year.
+[38:51] ADVOCATE_REFORM_PROFESSIONAL_01: So you're looking at about a 1500% increase since the early 80s and a 15,000% increase since the late 1970s.
+[38:59] ADVOCATE_REFORM_PROFESSIONAL_01: The vast, vast majority of that increase is not because we have had a massive increase in hostage takings or active shooter situations.
+[39:06] ADVOCATE_REFORM_PROFESSIONAL_01: In fact, violent crime is down quite a bit.
+[39:09] ADVOCATE_REFORM_PROFESSIONAL_01: It's because we started using these tactics as an investigative tool to serve search warrants, to collect evidence against people suspected of drug crimes.
+[39:18] ADVOCATE_REFORM_PROFESSIONAL_03: There are certainly cases in which it's not only appropriate but absolutely necessary for the police to use some form of paramilitary weapons and tactics, like hostage, barricade, and active shooter scenarios.
+[39:29] ADVOCATE_REFORM_PROFESSIONAL_03: But there needs to be proportionality.
+[39:33] ADVOCATE_REFORM_PROFESSIONAL_01: We've really come a long way, and it's happened very gradually, which is why I think people haven't noticed and why I think there's never really been any sort of public debate or public discussion about this.
+[39:42] ADVOCATE_REFORM_PROFESSIONAL_01: Congress never said we're going to vote tomorrow on whether or not we should militarize police.
+[39:47] ADVOCATE_REFORM_PROFESSIONAL_01: It's been a
+[39:48] ADVOCATE_REFORM_PROFESSIONAL_01: an amalgamation of policies that have had this kind of gradual eroding effect on these principles that got us where we are today.
+[40:06] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I work a lot.
+[40:07] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: You know, I use every day doing everything I can to stay busy, to stay occupied because work is my, that's my medication.
+[40:16] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: That's my therapy.
+[40:17] FAMILY_FRIEND_01: I would term it obsessive.
+[40:19] FAMILY_FRIEND_01: And I think the obsession is more with trying to make wrong things right.
+[40:25] FAMILY_FRIEND_01: And obsession is probably a good word.
+[40:29] FAMILY_FRIEND_01: And I just recognize it as that.
+[40:31] FAMILY_FRIEND_01: And so I'm fine as long as he doesn't need me to be there with him.
+[40:39] FAMILY_FRIEND_01: But I think he has a very keen sense of being fair.
+[40:44] FAMILY_FRIEND_01: Everyone should abide by the law in the same way.
+[40:48] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The proudest act that I've ever committed as a police officer was in 1972.
+[40:55] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This central Utah city of 27,000 people is so honest that when a police officer breaks a traffic law, he makes sure that he gives himself a ticket.
+[41:06] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Or at least that is what policeman William Lawrence did after he parked his patrol car near an ice cream parlor and walked in to order a milkshake.
+[41:15] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: A woman told him he had illegally parked
+[41:18] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: We get citations for such violations, she said.
+[41:21] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: You're right, Mr. Lawrence replied and walked outside and wrote himself a parking ticket.
+[41:26] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: That kind of set a tone for my whole entire police career.
+[41:31] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I am obsessed with the idea of peace officer being a trusted friend, a qualified, trained peacemaker.
+[41:43] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And that's possible.
+[41:48] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I heard about the Matthew David Stewart case.
+[41:51] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I took an interest in it.
+[41:53] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Mike Stewart told me that the police had released the residence where all of us went down.
+[41:59] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: I asked him if we could be there when he made the first entry into the home.
+[42:04] BEREAVED_ADVOCATE_REFORM_01: Let me just grab the doors for you guys.
+[42:17] BEREAVED_ADVOCATE_REFORM_01: I can't imagine what it would have been like for my son and those six or seven officers that were in this house.
+[42:28] BEREAVED_ADVOCATE_REFORM_01: Can you imagine six people and 200 bullets or 150 bullets going off into this little place?
+[42:36] BEREAVED_ADVOCATE_REFORM_01: The shock of it all.
+[42:38] BEREAVED_ADVOCATE_REFORM_01: I cannot imagine how anybody even survived.
+[42:42] NEWS_CLIP_16: Dee, what kind of charges is this man facing now?
+[42:46] NEWS_CLIP_16: AT THIS POINT?
+[42:55] PROFESSIONAL_03: I'D LIKE TO COMMENT ON THAT, BUT UNTIL WE HAVE THE INVESTIGATION COMPLETE, YOU KNOW, I'M NOT GOING TO SAY EXACTLY WHAT HE'S FACING, BUT IT APPEARS RIGHT NOW, THE INFORMATION THAT WE HAVE, THAT WE HAVE AN AGGRAVATED MURDER AS WELL AS A NUMBER OF ATTEMPTED AGGRAVATED MURDERS.
+[43:24] PROFESSIONAL_EYEWITNESS_01: This medal here was a medal of valor, and this was a medal awarded by Royce City Police Department for the night of January 4th.
+[43:39] PROFESSIONAL_EYEWITNESS_01: This is a Purple Heart medal that was awarded by the Strike Force again for the night of January 4th, and then this was the Medal of Honor awarded again for the night of
+[43:54] PROFESSIONAL_EYEWITNESS_01: January 4th.
+[43:57] PROFESSIONAL_EYEWITNESS_01: I'm not proud of that fact that myself along with the other agents had to be in a position where somebody felt that we should receive these.
+[44:12] PROFESSIONAL_EYEWITNESS_01: I received information from a person that called in stating that there was a marijuana grow at the location.
+[44:23] PROFESSIONAL_EYEWITNESS_01: My initial response was to just go knock on the door.
+[44:27] PROFESSIONAL_EYEWITNESS_01: I actually attempted to make contact on the front door.
+[44:30] PROFESSIONAL_EYEWITNESS_01: Nobody answered.
+[44:31] PROFESSIONAL_EYEWITNESS_01: So we just came around to the south side here to knock on this door.
+[44:38] PROFESSIONAL_EYEWITNESS_01: And this is obviously what's left of the door after it was breached.
+[44:48] PROFESSIONAL_EYEWITNESS_01: But when it was closed and we had
+[44:51] PROFESSIONAL_EYEWITNESS_01: clear, unobstructed view down into the stairwell.
+[44:55] PROFESSIONAL_EYEWITNESS_01: But just looking down here, we saw a really, really bright light emitting from the bottom of that stairwell.
+[45:01] PROFESSIONAL_EYEWITNESS_01: Also, through this window here, we could again see multiple stacks of the water bottles, or excuse me, the water containers, two to two and a half gallon jugs, which we know through our training and experience, you have to have some type of water source
+[45:19] PROFESSIONAL_EYEWITNESS_01: to cultivate marijuana.
+[45:20] PROFESSIONAL_EYEWITNESS_01: We also, there was that vegetation stick which was fabricated and whittled for a device used to prop vegetation.
+[45:35] PROFESSIONAL_EYEWITNESS_01: Based upon that information, based upon the probable cause that we saw at the location, I was able to write up an affidavit and present it to a magistrate.
+[45:46] PROFESSIONAL_EYEWITNESS_01: It took probably about 10 minutes for the judge to read through the search warrant and decide right then and there if it's enough probable cause to obtain a search warrant or not.
+[46:00] PROFESSIONAL_EYEWITNESS_02: Guy was ready to leave, to go home.
+[46:02] PROFESSIONAL_EYEWITNESS_02: Agent Vanderwerf said, no, he's finishing up the warrant and he should have it approved here pretty soon if it gets approved.
+[46:12] PROFESSIONAL_EYEWITNESS_02: We parked in the church right across the street.
+[46:14] PROFESSIONAL_EYEWITNESS_02: We get out.
+[46:15] PROFESSIONAL_EYEWITNESS_02: We approach the house, walk up the driveway up to the side door right there.
+[46:20] PROFESSIONAL_EYEWITNESS_01: At that point, it was a knock and announce, so I just positioned myself up to the door and just started pounding on it repeatedly.
+[46:32] PROFESSIONAL_EYEWITNESS_01: It was long enough to allow a reasonable person in this house to hear this door and come answer it.
+[46:39] PROFESSIONAL_EYEWITNESS_02: Everyone looks at Agent Vanderwerf and says, we've given him enough time to open the door if anyone's in there.
+[46:47] PROFESSIONAL_EYEWITNESS_02: Agent Francom hits the door.
+[46:49] PROFESSIONAL_EYEWITNESS_02: The door just gets shattered.
+[46:56] PROFESSIONAL_EYEWITNESS_01: I let in, and I came directly down the stairs.
+[47:03] PROFESSIONAL_EYEWITNESS_02: Half the team that goes in goes straight downstairs.
+[47:06] PROFESSIONAL_EYEWITNESS_02: Half the team goes upstairs.
+[47:08] PROFESSIONAL_EYEWITNESS_02: I'm in the half that goes upstairs.
+[47:12] PROFESSIONAL_EYEWITNESS_02: Kitchen's very small.
+[47:13] PROFESSIONAL_EYEWITNESS_02: You can see that it's clear.
+[47:15] PROFESSIONAL_EYEWITNESS_02: So we continue north through the kitchen.
+[47:19] PROFESSIONAL_EYEWITNESS_02: I'm right behind Agent Grogan.
+[47:21] PROFESSIONAL_EYEWITNESS_02: Agent Grogan kind of posts up at the half wall.
+[47:23] PROFESSIONAL_EYEWITNESS_02: I have my hand on his back.
+[47:26] PROFESSIONAL_EYEWITNESS_02: I feel him move from my hand, so I turn to look to see where he went.
+[47:32] PROFESSIONAL_EYEWITNESS_02: I just see a gun come from around the corner, and I see a big flash.
+[47:40] PROFESSIONAL_EYEWITNESS_01: this door over here where the grow was at was breached and i specifically remember agent hansen tyler said there's your grow and for a second i thought oh wow that's that's great because that's what we anticipated that's what we came here to do and then it was right here that i heard the first wave of gunshots upstairs i remember looking at one of my agents
+[48:09] PROFESSIONAL_EYEWITNESS_01: We kind of locked eyes on each other, like, are we really hearing what we're hearing?
+[48:27] PROFESSIONAL_EYEWITNESS_02: I just let my knees buckle, trying to fall down as fast as I can.
+[48:31] PROFESSIONAL_EYEWITNESS_02: Boom, boom, I see two more flashes.
+[48:33] PROFESSIONAL_EYEWITNESS_02: As I'm falling to the ground, I can feel the bullets go right through my hair.
+[48:45] PROFESSIONAL_EYEWITNESS_02: I just pull the trigger as fast as I can.
+[48:46] PROFESSIONAL_EYEWITNESS_02: I don't count how many rounds I fired or anything.
+[48:48] PROFESSIONAL_EYEWITNESS_02: I'm watching my rounds hit the wall, and then the gun gets pulled back into the room, disappears.
+[48:57] PROFESSIONAL_EYEWITNESS_02: Grogan's laying down in front of me, and he has a hand over his face, and I said, are you okay?
+[49:01] PROFESSIONAL_EYEWITNESS_02: He moves his hand, and all I do is see this big hole in his face.
+[49:04] PROFESSIONAL_EYEWITNESS_02: And he just leans over, and just all this blood starts coming out of his mouth.
+[49:20] INTERVIEWEE_02: You said you felt like you needed to defend yourself.
+[49:23] INTERVIEWEE_02: What were you defending yourself from?
+[49:25] EYEWITNESS_01: Just a bunch of guys breaking in.
+[49:31] INTERVIEWEE_02: Did you have any idea who those guys were?
+[49:34] EYEWITNESS_01: No, I just heard them yelling and window breaking.
+[49:39] INTERVIEWEE_02: Tell me what you did with the gun.
+[49:41] INTERVIEWEE_02: How did you defend yourself?
+[49:44] EYEWITNESS_01: I pointed it around the corner to keep them back.
+[49:48] EYEWITNESS_01: That's when they unloaded.
+[49:49] EYEWITNESS_01: Okay.
+[49:51] EYEWITNESS_01: I saw dust and wood fragments flying everywhere.
+[49:54] EYEWITNESS_01: I hadn't pulled the trigger.
+[49:58] EYEWITNESS_01: That's when I felt like they were definitely there to kill me.
+[50:05] INTERVIEWEE_02: Did you pull the trigger on your weapon?
+[50:08] EYEWITNESS_01: After they unloaded theirs on me.
+[50:10] INTERVIEWEE_02: After they unloaded.
+[50:15] EYEWITNESS_01: Then I tried to shoot down the hallway to keep him back.
+[50:21] EYEWITNESS_01: But I wasn't so focused on that because I was already hit.
+[50:25] EYEWITNESS_01: Where were you hit?
+[50:27] INTERVIEWEE_02: In the arm right here.
+[50:30] INTERVIEWEE_02: Do you know now who the people coming in your house were?
+[50:34] INTERVIEWEE_02: Not specifically.
+[50:35] INTERVIEWEE_02: Who were they?
+[50:38] EYEWITNESS_01: We've got a lot of branches out there.
+[50:40] INTERVIEWEE_02: Branches of what?
+[50:41] INTERVIEWEE_02: Branches of the government.
+[50:44] INTERVIEWEE_02: Were you walking back and forth in your kitchen while you were shooting at the officers?
+[51:02] INTERVIEWEE_02: Matthew.
+[51:02] EYEWITNESS_01: I think this is the point I'm gonna need to go over.
+[51:15] PROFESSIONAL_EYEWITNESS_01: Agent Francom, he had been laying suppressive fire down so the other agents could clear out of there.
+[51:22] PROFESSIONAL_EYEWITNESS_01: Agent Francom indicated that he was out.
+[51:26] PROFESSIONAL_EYEWITNESS_01: Matthew Stewart took advantage of that.
+[51:29] PROFESSIONAL_EYEWITNESS_01: He came down the hall and began shooting just Hail Mary through the walls.
+[51:37] PROFESSIONAL_EYEWITNESS_02: We had blood all over.
+[51:38] PROFESSIONAL_EYEWITNESS_02: I can hear in the background just at the house, just shots being fired, boom.
+[51:45] PROFESSIONAL_EYEWITNESS_02: Boom.
+[51:46] PROFESSIONAL_EYEWITNESS_02: That's all I'm hearing.
+[51:47] PROFESSIONAL_EYEWITNESS_02: Boom.
+[51:59] PROFESSIONAL_EYEWITNESS_02: I kind of run over to the door.
+[52:00] PROFESSIONAL_EYEWITNESS_02: I see Sergeant Hutchinson's laying on his back with Agent Francom laying on top of him.
+[52:07] PROFESSIONAL_EYEWITNESS_02: And I just grab Francom, and he just says, I'm hit bad.
+[52:10] PROFESSIONAL_EYEWITNESS_02: I need help.
+[52:12] PROFESSIONAL_EYEWITNESS_02: You know, you need to get me to a hospital quick or something.
+[52:15] PROFESSIONAL_EYEWITNESS_02: Something to that effect.
+[52:16] PROFESSIONAL_EYEWITNESS_02: And I set him down, and he just, like, he just dies.
+[52:27] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Where, if they entered the doorway?
+[52:30] BEREAVED_ADVOCATE_REFORM_01: Well, they come through the side door.
+[52:33] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Some went down and some went up.
+[52:36] BEREAVED_ADVOCATE_REFORM_01: I think it was three went down, three went up.
+[52:39] BEREAVED_ADVOCATE_REFORM_01: So you come into this hallway.
+[52:41] BEREAVED_ADVOCATE_REFORM_01: I don't know.
+[52:45] BEREAVED_ADVOCATE_REFORM_01: This was the bathroom.
+[52:46] BEREAVED_ADVOCATE_REFORM_01: The door's missing.
+[52:48] BEREAVED_ADVOCATE_REFORM_01: This is a hallway closet that has little holes going every which way.
+[52:54] BEREAVED_ADVOCATE_REFORM_01: But Matthew was in this room.
+[53:00] BEREAVED_ADVOCATE_REFORM_01: He probably would have been in this position right here because when he heard them come in, you know, he was trying to see who it was.
+[53:08] BEREAVED_ADVOCATE_REFORM_01: That's when they had said that an arm had come around the corner from this direction.
+[53:13] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Well, now, this is an exit here.
+[53:16] BEREAVED_ADVOCATE_REFORM_01: Yeah, that's what I'm saying.
+[53:17] BEREAVED_ADVOCATE_REFORM_01: You got two bullets going in here.
+[53:19] BEREAVED_ADVOCATE_REFORM_01: You got an officer there standing there.
+[53:20] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: So they're firing through the wall.
+[53:22] BEREAVED_ADVOCATE_REFORM_01: Somebody is.
+[53:23] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: At what they think he's right here in the hallway.
+[53:29] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: So this one was fired from here.
+[53:33] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: That is a weird angle.
+[53:37] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Yeah.
+[53:38] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: You see straight through them?
+[53:40] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This is going into the bathroom.
+[53:43] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Look where there's an officer in this bathroom that supposedly gets hit.
+[53:50] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Two bullets are fired that come straight from the kitchen into this bathroom.
+[53:56] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: If there's an officer in here when those bullets are fired, it's likely that he was shot right here by friendly fire.
+[54:12] BEREAVED_ADVOCATE_REFORM_01: There's better ways to serve warrants than using violence and tumultuous entry because that's exactly what happened here.
+[54:18] BEREAVED_ADVOCATE_REFORM_01: And, you know, nobody saw anybody and a whole lot of shooting went on.
+[54:24] BEREAVED_ADVOCATE_REFORM_01: And people got, you know, one person killed, five wounded, some seriously.
+[54:32] BEREAVED_ADVOCATE_REFORM_01: My son's seriously wounded.
+[54:34] BEREAVED_ADVOCATE_REFORM_01: You know what they can't answer the question?
+[54:38] BEREAVED_ADVOCATE_REFORM_01: What were they protecting us from?
+[54:41] ADVOCATE_REFORM_PROFESSIONAL_01: Militarization is not just SWAT teams.
+[54:43] ADVOCATE_REFORM_PROFESSIONAL_01: It's also the mindset.
+[54:44] ADVOCATE_REFORM_PROFESSIONAL_01: It's this idea that it's perfectly appropriate to storm somebody's house at night for plants.
+[54:50] ADVOCATE_REFORM_PROFESSIONAL_01: And there wasn't even any evidence that he was dealing.
+[54:52] ADVOCATE_REFORM_PROFESSIONAL_01: I mean, this was all his own personal use stuff.
+[54:54] INTERVIEWEE_03: Five pounds of marijuana in the freezer and 15 or 16 plants, that's a lot of marijuana.
+[55:02] INTERVIEWEE_03: I don't know what his plan ultimately was, but there was no evidence that we had of him selling it to anyone from that house or on the street.
+[55:11] FAMILY_FRIEND_02: Why is it that people have made the decision, and especially lawmakers, when did a bus become more important than people's lives?
+[55:20] ADVOCATE_REFORM_PROFESSIONAL_01: The police are creating these circumstances.
+[55:22] ADVOCATE_REFORM_PROFESSIONAL_01: They're creating the volatility.
+[55:24] ADVOCATE_REFORM_PROFESSIONAL_01: They're creating the violence.
+[55:25] ADVOCATE_REFORM_PROFESSIONAL_01: They're creating the very thin margin for error.
+[55:28] ADVOCATE_REFORM_PROFESSIONAL_01: Is it appropriate that 100 to 150 times a day in this country we send cops, armed like soldiers, barreling into people's homes, usually at night, to enforce consensual, nonviolent crimes?
+[55:39] ADVOCATE_REFORM_PROFESSIONAL_01: Like, is that an appropriate government action?
+[55:41] ADVOCATE_REFORM_PROFESSIONAL_01: Is that an appropriate use of force?
+[55:48] EYEWITNESS_01: Pillow screen, eh?
+[56:02] NEWS_CLIP_02: Police!
+[56:03] NEWS_CLIP_02: Search warrant!
+[56:04] NEWS_CLIP_02: Police!
+[56:05] NEWS_CLIP_02: Search warrant!
+[56:06] NEWS_CLIP_02: Search warrant!
+[56:07] NEWS_CLIP_02: Get on the ground!
+[56:08] NEWS_CLIP_03: Get on the ground!
+[56:10] NEWS_CLIP_02: Put him in this house!
+[56:16] ADVOCATE_REFORM_PROFESSIONAL_02: In that clip, you can see him in the dark of night shouting, police search warrant, announcing right as they then invade the home.
+[56:25] ADVOCATE_REFORM_PROFESSIONAL_02: They enter the home, turn immediately to the left, where you can see there's a lit hallway, and you see an individual brandishing something.
+[56:32] ADVOCATE_REFORM_PROFESSIONAL_02: And you can't immediately detect what it is, but you can see that he's holding something up.
+[56:36] ADVOCATE_REFORM_PROFESSIONAL_02: And yet within just milliseconds, you see an officer fire three rounds into the chest of Blair, who then immediately drops.
+[56:44] ADVOCATE_REFORM_PROFESSIONAL_02: Get on the ground!
+[56:47] NEWS_CLIP_03: Get on the ground!
+[56:50] ADVOCATE_REFORM_PROFESSIONAL_02: There was a golf club that he was holding up, thinking he was being invaded.
+[56:54] ADVOCATE_REFORM_PROFESSIONAL_02: That officer who shot Blair, he put three rounds and later said that he suspected it might have been a sword.
+[57:00] ADVOCATE_REFORM_PROFESSIONAL_02: He saw that it was a shiny object, and he was justified later by the prosecutor and his use of force.
+[57:06] NEWS_CLIP_02: He's not conscious, doesn't appear to be breathing.
+[57:11] ADVOCATE_REFORM_PROFESSIONAL_01: When the police make a mistake in one of these cases and shoot someone who isn't really a threat, they're always forgiven because it's the volatility of the situation.
+[57:20] ADVOCATE_REFORM_PROFESSIONAL_01: A reasonable person in the officer's position could have,
+[57:23] ADVOCATE_REFORM_PROFESSIONAL_01: you know, made the same mistake, the people on the receiving end of these raids aren't given that consideration, right?
+[57:29] ADVOCATE_REFORM_PROFESSIONAL_01: You're woken up in the middle of the night to armed men in your house breaking into your house, and you're supposed to wake up and immediately conclude that the armed men in your home are police officers and not, you know, armed criminals there to kill you.
+[57:43] ADVOCATE_REFORM_PROFESSIONAL_01: And if you make a mistake and, you know, reach for a gun, reach for anything to defend yourself, you're done.
+[57:50] ADVOCATE_REFORM_PROFESSIONAL_01: I mean, you're probably going to die.
+[57:53] ADVOCATE_REFORM_PROFESSIONAL_01: And if you do manage to get some shots off and do manage to survive the next four or five seconds, you're probably going to go to jail for the rest of your life.
+[58:00] PROFESSIONAL_01: What you need to look at when we're doing these evaluations is would a reasonable and prudent police officer take the threat that he's receiving and react to it the way that he did?
+[58:12] PROFESSIONAL_01: He has to make a decision in a matter of seconds.
+[58:16] PROFESSIONAL_01: And that decision that he makes will hang with him and be evaluated by multiple people for years to come.
+[58:23] PROFESSIONAL_01: And as such, I can only see from the outside looking in that his evaluation was that he was going to receive a threat of serious bodily injury to himself or somebody else, and he neutralized that threat.
+[58:39] PROFESSIONAL_02: You will find situations where officers are justified in taking the life of someone that is unarmed.
+[58:50] PROFESSIONAL_02: The reality is, is that the circumstances oftentimes are so dynamic that whether they are armed or not is not the question.
+[58:58] PROFESSIONAL_02: The question is, is what is the perception of the officer at the time?
+[59:01] PROFESSIONAL_02: The average shooting, there's just no opportunity, nor do we want to train officers to take that extra 15 seconds, five seconds, whatever that timeframe is to make these kinds of determination.
+[59:13] PROFESSIONAL_02: Because remember,
+[59:14] PROFESSIONAL_02: in their mind, the whole reason they're using deadly force is you're about to kill me or someone else.
+[59:18] ADVOCATE_REFORM_PROFESSIONAL_01: There's not enough time.
+[59:20] ADVOCATE_REFORM_PROFESSIONAL_01: If you have a raid where an innocent, unarmed person gets killed, and the conclusion is that A, none of the officers involved in the raid violated any department policy, and B, none of the policies themselves need to be changed, the only conclusion you can draw from that is that it's perfectly acceptable for unarmed, innocent people to be killed during drug raids.
+[59:40] ADVOCATE_REFORM_PROFESSIONAL_01: I mean, that's the only conclusion you can come to.
+[59:43] ADVOCATE_REFORM_PROFESSIONAL_01: And that's
+[59:43] ADVOCATE_REFORM_PROFESSIONAL_01: you know, on his face an absurd conclusion and should tell you that something in that process, one of those steps is wrong.
+[60:00] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This is a project, Woods Cross High School greenhouse project.
+[60:05] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They've been trying for two years to get a greenhouse that would actually grow plants without dying from lack of water.
+[60:13] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: What we're going to do is show you that with the pressure that we have and the volume that you have, you can completely cover the table with plenty of volume, plenty of water.
+[60:23] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: All it takes is a little bit of knowledge of physics and using what you got and doing the best that you can with what little you got to work with.
+[60:39] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: It's very rewarding to me
+[60:42] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: to do the job as thoroughly as it can possibly be done, to learn every truth that can be learned.
+[60:59] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And go through here.
+[61:03] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Move it out, away from the wall.
+[61:06] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Right there.
+[61:07] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: See how it's lining up over there?
+[61:09] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The red represents the rounds that were fired by the police officers.
+[61:14] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And the yellow represents the rounds fired by the suspect.
+[61:18] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: We got a gun battle going on right here.
+[61:21] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And what we're doing is reconstructing who fired from where.
+[62:03] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: There's an entry.
+[62:05] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: There's a hole.
+[62:08] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Yeah, there's a bullet.
+[62:09] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: There's that bullet.
+[62:11] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This is a bullet that hit somebody.
+[62:13] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Preserve this.
+[62:14] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: We will mark it.
+[62:16] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: How about that?
+[62:18] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They spent a year and 10 months in here and at least
+[62:23] FAMILY_FRIEND_02: And they missed it.
+[62:32] ADVOCATE_REFORM_PROFESSIONAL_02: The question is, are the laws valid?
+[62:34] ADVOCATE_REFORM_PROFESSIONAL_02: Are they legitimate that create these circumstances with the Todd Blairs and the Matthew David Stuarts and others who are then put in the position of conflict with police officers, where police officers, rightly or wrongly, feel threatened?
+[62:46] ADVOCATE_REFORM_PROFESSIONAL_02: The problem isn't so much the police officers themselves as it is the system and the laws themselves.
+[62:52] ADVOCATE_REFORM_PROFESSIONAL_02: that they're then enforcing.
+[62:53] ADVOCATE_REFORM_PROFESSIONAL_02: The issue is that we're criminalizing the simple possession and ingestion of drugs, and then we're authorizing mass quantities of violence to go in and punish people who do that.
+[63:15] BEREAVED_ADVOCATE_REFORM_02: Danielle had a very bright personality.
+[63:18] BEREAVED_ADVOCATE_REFORM_02: She was always so happy.
+[63:20] BEREAVED_ADVOCATE_REFORM_02: She made other people happy.
+[63:24] BEREAVED_ADVOCATE_REFORM_02: I lived in this little bubble.
+[63:26] BEREAVED_ADVOCATE_REFORM_02: I liked my little bubble.
+[63:28] BEREAVED_ADVOCATE_REFORM_02: I stayed in my little bubble that kept me safe.
+[63:33] BEREAVED_ADVOCATE_REFORM_02: But now my eyes are open and I see it now.
+[63:37] BEREAVED_ADVOCATE_REFORM_02: There's no way to close them again.
+[63:38] NEWS_CLIP_02: Police claim that their lives were in danger when they opened fire killing an unarmed woman.
+[63:44] NEWS_CLIP_17: Two detectives claim they watched Danielle Willard make a drug buy and then drive off.
+[63:49] NEWS_CLIP_17: They allegedly watched her pull over and take the drugs when they came up to her car.
+[63:55] BEREAVED_ADVOCATE_REFORM_02: Your heart's racing.
+[63:56] BEREAVED_ADVOCATE_REFORM_02: You're scared.
+[63:58] BEREAVED_ADVOCATE_REFORM_02: You see two people you don't know that have guns pulled out at you, and you don't know why.
+[64:05] BEREAVED_ADVOCATE_REFORM_02: You're going to just bolt.
+[64:07] NEWS_CLIP_18: Miss Willard put the vehicle in reverse and backed out of the parking stall.
+[64:11] NEWS_CLIP_18: As this was occurring, Detective Calley was struck by the vehicle, and both Detective Calley and Salmon fired their service weapons.
+[64:22] BEREAVED_ADVOCATE_REFORM_02: When I found out she was dead, I couldn't breathe.
+[64:26] BEREAVED_ADVOCATE_REFORM_02: I think about it right now, and in the pit of my stomach, those words keep coming back to me that Danielle's dead.
+[64:36] BEREAVED_ADVOCATE_REFORM_02: And as the words keep coming back to me, every time I hear it, it's still not real.
+[64:49] BEREAVED_ADVOCATE_REFORM_02: I go and I see her at the morgue.
+[64:53] BEREAVED_ADVOCATE_REFORM_02: It's my baby girl.
+[64:54] BEREAVED_ADVOCATE_REFORM_02: It's my baby girl.
+[65:10] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: You can see the wheels.
+[65:11] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Some faint marks are still here showing the angle of the front wheels.
+[65:16] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And you can see faintly the rear wheels of the Subaru, left rear, right rear.
+[65:23] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: So tracing that bullet through the holes in the windshield and out the hole in the rear window, it actually is pointed in the direction of the corner of the building.
+[65:34] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: So we're going to search an area that's 10 feet high and 10 feet low, 30 feet wide, and we should find that bullet somewhere.
+[65:45] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Melissa asked me to help them learn anything about the case.
+[65:50] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They knew nothing.
+[65:52] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: It was totally closed to any knowledge whatsoever.
+[65:56] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The police released nothing.
+[65:58] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The press knew nothing.
+[66:00] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Nobody knew anything about that case, and everybody was digging, trying to find out what they could about how and why this happened to her 21-year-old daughter.
+[66:12] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Now, let me have you back up a little bit, and let me show you what the evidence shows happened.
+[66:17] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This officer fired two shots.
+[66:20] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: from approximately this location right here.
+[66:24] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The medical examiner said they were fired from an intermediate distance.
+[66:28] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: That means that it's six or eight feet or longer.
+[66:32] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Intermediate.
+[66:32] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: It's not close enough to get powder.
+[66:35] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: There was no residue on her body.
+[66:37] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: It wasn't close to the window.
+[66:38] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: There's no evidence to show that it was close, which means he was a safe distance from the vehicle that's supposedly running him down.
+[66:46] ADVOCATE_REFORM_PROFESSIONAL_03: The militarization of policing is really cultural.
+[66:49] ADVOCATE_REFORM_PROFESSIONAL_03: And we saw a number of examples of training documents in which it really appeared that the police were being trained to think of themselves as soldiers and of the people that they're supposed to be serving as enemies.
+[67:02] BEREAVED_ADVOCATE_REFORM_02: I know something's wrong.
+[67:03] BEREAVED_ADVOCATE_REFORM_02: I knew it in my gut to begin with.
+[67:07] BEREAVED_ADVOCATE_REFORM_02: And I told everybody I will not stop until these officers are in prison.
+[67:16] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: even though it was clearly a homicide, her life was taken unnecessarily.
+[67:23] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Under Utah law, it will be very difficult to overcome the law which gives the police protection, its immunity.
+[67:33] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: If they acted under color of law, if they feared for their safety, this triggers governmental immunity protection.
+[67:42] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: We need more transparency.
+[67:44] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: We need more accountability.
+[67:46] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: But more important than anything is the national issue of equality under the law.
+[67:54] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: When certain people in our society can break the law with impunity and regular citizens are required to obey the law, there is a disparity there that has to be addressed.
+[68:30] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This is probably about the 20th time I've been to the Stewart residence.
+[68:35] FAMILY_FRIEND_EYEWITNESS_01: This is a list of all of the evidence collected so far on the case.
+[68:39] FAMILY_FRIEND_EYEWITNESS_01: These are all bullet or bullet fragments or shell casings.
+[68:45] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: We were able to recover 54 of the bullets that were fired.
+[68:49] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The police recovered 31.
+[68:50] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: So one, two, three, four, five.
+[68:54] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: We got them all.
+[68:56] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: By being able to determine deflection angles, penetrations, calibers of bullets, different weapons that were used, we were able to reconstruct this crime scene almost as if we were here videotaping it at the time.
+[69:12] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The police state, their position and their account was that
+[69:17] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The suspect stuck a gun around the corner, ambushed them, opened fire, and shot Officer Grogan in the face, and he fell in the floor in the bathroom.
+[69:27] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The physical evidence disproves all of that.
+[69:32] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The evidence shows that Stewart put his arm out at least that far.
+[69:39] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Officer Grogan actually had fired the first two rounds that were fired.
+[69:46] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The very first shot hit Matt in the arm.
+[69:49] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: From the angle of the wound, there is no way that Matthew David Stewart could have been pointing the gun at the officers when he was hit.
+[69:58] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: An officer fired two rounds from the kitchen.
+[70:00] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This was one of the two bullets.
+[70:04] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The other bullet traveled in this small space.
+[70:08] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The clearing between that wall and this wall and this wall
+[70:13] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Officer Grogan was in this position firing.
+[70:19] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The bullet entered here.
+[70:21] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: It went through his face.
+[70:24] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: It splattered blood on the door.
+[70:28] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: If we calculated it right, the bullet would have fallen all the way to right here.
+[70:32] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And I should be able to reach in here and pull out a slug.
+[70:36] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Perfect.
+[70:39] NEWS_CLIP_14: That look good?
+[70:41] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This is a 40 caliber bullet.
+[70:43] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Matt was firing a 9mm Beretta.
+[70:48] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: So the bullet doesn't match anything that Matt was firing.
+[70:52] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: But look how distorted it is.
+[70:54] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: That is the kind of distortion you get when you strike bone, when you strike a mass.
+[70:59] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: In all probability, this bullet has DNA evidence from Officer Grogan's face.
+[71:07] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This would prove positively that Officer Grogan was shot by friendly fire.
+[71:20] PROFESSIONAL_EYEWITNESS_01: Well, I guess as far as a possibility of friendly fire, you can never rule anything out.
+[71:26] PROFESSIONAL_EYEWITNESS_01: I mean, you always hear the term anything's possible, but you got to look at it as a probable.
+[71:31] PROFESSIONAL_EYEWITNESS_01: In this situation, where everybody was positioned and where people were taking aim and firing,
+[71:42] PROFESSIONAL_EYEWITNESS_01: I don't see where there was a possibility of a friendly fire.
+[71:46] PROFESSIONAL_EYEWITNESS_02: With it being such a chaotic scene and people were shooting and people were doing this, it's a surprise that no one did get shot accidentally by another officer.
+[71:58] PROFESSIONAL_EYEWITNESS_02: That is a surprise.
+[71:59] PROFESSIONAL_EYEWITNESS_02: And I think that just goes to speak volumes for the training we have.
+[72:04] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Now, Matt Stewart fires down the hallway.
+[72:09] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Bam, bam.
+[72:11] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: They have fired 30 rounds at him and hit him once.
+[72:15] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: He fires two rounds.
+[72:20] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: He hears them and hears them going out into the carport area.
+[72:23] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: He moves forward.
+[72:26] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This is dangerous because he's now for the first time exposing himself.
+[72:30] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: At this point, he fires a clearing round up through the ceiling.
+[72:36] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: This is a typical military tactical maneuver.
+[72:40] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: He's got him on the run.
+[72:41] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: He's now on the aggressive.
+[72:43] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Stuart is moving down the hall, and Francom is here.
+[72:46] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Stuart fires two shots from here.
+[72:49] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Francom is in this position.
+[72:51] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: The bullets travel through his arms, hands area, strikes his chest.
+[73:07] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Frankham is trying to get up and get out, and they're helping him and dragging him.
+[73:11] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: And at this point, Stewart, the suspect, moves forward.
+[73:18] BEREAVED_ADVOCATE_REFORM_PROFESSIONAL_01: Stewart continues to fire.
+[73:23] NEWS_CLIP_14: But this is the place...

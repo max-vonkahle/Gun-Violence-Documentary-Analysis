@@ -1,0 +1,1472 @@
+[00:23] NEWS_CLIP_01: There has been a shooting...
+[00:24] NEWS_CLIP_01: Once again a mass shooting
+[00:25] NEWS_CLIP_01: 26 people,  including twenty children,  were killed...
+[00:28] NEWS_CLIP_01: the deadliest mass shooting in American history...
+[00:31] NEWS_CLIP_01: If you're just joining us two young men
+[00:32] NEWS_CLIP_01: apparently dressed in long black trench coats
+[00:35] NEWS_CLIP_01: opened fire at a high school just outside of Denver
+[00:38] NEWS_CLIP_01: in Littleton, Colorado…
+[00:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: When it comes to violence,  it's almost like there are two Americas.
+[00:43] BEREAVED_01: It was horrific --  I can't even put it into words.
+[00:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: There's the America that recoils in horror
+[00:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: whenever a brutal mass shooting erupts onto our television screen
+[00:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: shocked by the level of destruction and suffering that just a few
+[00:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: individuals are capable of visiting upon so many innocent people.
+[00:57] NEWS_CLIP_01: Police say that the gunman opened fire in a theater during a showing
+[01:01] NEWS_CLIP_01: of that latest Batman movie,  "The Dark Knight Rises."
+[01:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And then there's the America that can't seem to get enough of violence
+[01:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: as a form of entertainment and ritual,  a seemingly endless appetite
+[01:11] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: for ever-intensifying spectacles of all-out brutality and carnage.
+[01:16] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The question is what sort of relationship,  if any
+[01:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: these two Americas have to one another.
+[01:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And if we're serious about answering that question
+[01:22] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: we need to stop chasing symptoms,  and take a good look at a truth
+[01:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that's been hiding in plain sight all along:
+[01:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that when we talk about violence in America
+[01:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: whether it's real or imaginary
+[01:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: we're almost always talking about violent masculinity.
+[01:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I'm Jackson Katz,  and for more than 25 years
+[01:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I've been studying the causes of violence,  with a special focus on how
+[02:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: cultural ideas about manhood contribute to interpersonal
+[02:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and relationship violence
+[02:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and also shape U.S. political culture.
+[02:07] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In addition to researching,  writing and lecturing
+[02:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: about manhood and violence
+[02:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I've worked on both a personal and an institutional level to engage men
+[02:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: directly in the effort to prevent men's violence against women and children.
+[02:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: My colleagues and I work closely with men from across the racial, ethnic,
+[02:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and socioeconomic spectrum,  in the sports culture,  in the U.S. military
+[02:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and in schools,  colleges, and a variety of other settings.
+[02:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And as I've done this work,  I've been consistently impressed by
+[02:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the thoughtful and sometimes courageous ways men are willing to
+[02:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: confront the issue of men's violence -- when they actually have a supportive
+[02:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: environment and a chance to talk about it.
+[02:37] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The reason I work with and focus on men is simple:
+[02:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: because for the most part,  violence is a men's issue.
+[02:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Whether we're talking about the horrifying,  high-profile
+[02:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: mass shootings we've seen over recent decades
+[02:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the far greater rates of murder and gun violence we see on a day-to-day basis
+[02:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that barely register in the national news
+[02:53] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: or the epidemic of sexual and domestic violence
+[02:56] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the vast majority of this violence is committed by men
+[02:58] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: young men,  and boys.
+[03:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The statistics tell the story:
+[03:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: 86% of armed robberies are committed by men.
+[03:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: 77% of aggravated assaults are committed by men.
+[03:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: 87% of stalkers are men.
+[03:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: 86% of domestic violence incidents resulting in physical injury
+[03:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: are perpetrated by men.
+[03:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: 99% of rapes are committed by men.
+[03:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Men commit approximately 90% of murder.
+[03:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And over the past 30 years,  61 of the last 62 mass shootings
+[03:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: have been committed by men.
+[03:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But while these numbers are striking,  they rarely if ever come into play
+[03:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in mainstream discussions about violence.
+[03:33] INTERVIEWEE_01: After every event like this,  the questions always are the same
+[03:36] INTERVIEWEE_01: What causes this kind of a shooting?
+[03:37] INTERVIEWEE_01: How can this happen? How can they be stopped?
+[03:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Look at media coverage of mass shootings.
+[03:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: During hours and hours of exhaustive reporting
+[03:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: commentators seem to go out of their way to find gender-neutral ways
+[03:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to talk about this violence.
+[03:48] INTERVIEWEE_02: ...The shooters in Aurora,  the shooters in Newtown ...
+[03:51] INTERVIEWEE_02: The Connecticut shooter
+[03:52] INTERVIEWEE_02: The Aurora shooter …
+[03:53] INTERVIEWEE_02: The alleged shooter …
+[03:53] INTERVIEWEE_02: Teen-aged psychopaths …
+[03:55] INTERVIEWEE_02: Mass murderers …
+[03:56] INTERVIEWEE_02: The suspect …
+[03:56] INTERVIEWEE_02: That kid …
+[03:57] INTERVIEWEE_02: This punk …
+[03:58] INTERVIEWEE_02: This murderer...
+[03:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The male perpetrators become "shooters" or "murderers"
+[04:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: or "assailants" or "killers"
+[04:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: or "suspects" or "psychopaths,"  and any number of other genderless beings.
+[04:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Dateline reporter] It's kids killing kids in the heart of America.
+[04:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Violence committed by boys becomes kids killing kids" and "youth violence."
+[04:14] NEWS_CLIP_01: Here is a revealing and,  frankly,  horrifying picture of youth violence in America.
+[04:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It doesn't seem to matter that girls are kids and youths too
+[04:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: but only commit a fraction of these kinds of crimes.
+[04:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The issue gets framed as a kid's issue and a problem with youth in general.
+[04:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And this baseline failure to acknowledge gender has a big effect
+[04:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: when the discussion turns to other supposed causes of violence.
+[04:32] INTERVIEWEE_02: Violence in the entertainment culture ...
+[04:34] INTERVIEWEE_02: Bloody games,  gory movies,
+[04:36] INTERVIEWEE_02: Call of Duty or Halo ...
+[04:38] INTERVIEWEE_02: Mental health issues,  the faith issues ...
+[04:40] INTERVIEWEE_02: Autism or Asperger Syndrome ...
+[04:42] INTERVIEWEE_02: You're blaming the gun ...
+[04:43] INTERVIEWEE_02: Their mom and their dad ...
+[04:44] INTERVIEWEE_02: Substance abuse ...
+[04:45] INTERVIEWEE_02: Mental health,  violent games, violent movies …
+[04:47] INTERVIEWEE_02: I want to blame the real culprit: Suicide pills! Mass murder pills!
+[04:53] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Over and over again,  we hear experts trying to explain violence in America
+[04:56] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: by speculating about everything from guns and drugs and video games
+[04:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to dysfunctional families,  and even lead paint.
+[05:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But we hear very little -- if anything -- about why it is that girls and women
+[05:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: also live in a culture saturated with guns and media violence
+[05:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: also suffer from mental illness,  also come from dysfunctional families
+[05:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and have substance abuse problems,  also live in houses with lead paint,
+[05:16] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: yet don't commit anywhere near the amount of violence
+[05:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: boys and men do.
+[05:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: An article in the New York Times a while back provides a classic
+[05:22] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and typical example of how this kind of de-gendering works.
+[05:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It was this long piece that sifted through every possible theory
+[05:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: trying to make sense of the wave of school shootings
+[05:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and in one parenthesis it said,  "All these shootings were done by boys."
+[05:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: So you have a whole article trying to pull together all the different factors
+[05:37] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that might shed light on these shootings
+[05:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and the one that's maybe the most important ends up in parentheses.
+[05:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In other cases,  the perpetrators disappear altogether.
+[05:45] NEWS_CLIP_01: Violence against women...
+[05:46] NEWS_CLIP_01: Violence against women...
+[05:47] NEWS_CLIP_01: Violence against women...
+[05:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: You see this a lot in the mainstream discussion
+[05:50] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: about so-called "violence against women."
+[05:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We call it "violence against women" as though nobody's
+[05:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: actually committing the violence,  like it's something bad that just happens
+[05:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to women -- like the weather. They're just experiencing it.
+[06:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The fact that men are responsible for
+[06:02] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: somewhere around 98% of this violence simply evaporates.
+[06:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We hear about women being "harassed,  abused, assaulted, or raped."
+[06:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Men are nowhere to be found.
+[06:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And the result of all of this is that instead of seeing men's violence against women
+[06:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: as a men's issue, and taking a serious and sustained look at why it is
+[06:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that so many men are doing so much violence to women
+[06:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: we see it as a women's issue and focus most of our attention
+[06:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: on how to help victims and survivors after the fact.
+[06:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And this has been true across the board.
+[06:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: No matter what kind of violence is under scrutiny
+[06:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: there's been a systematic failure to focus on men,  as men ,
+[06:34] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: a failure all the more glaring given that mainstream media outlets
+[06:37] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: have no problem at all taking gender seriously when women
+[06:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: are the ones doing the violence.
+[06:41] NEWS_CLIP_02: Teen-aged girls involved in violent fights ...
+[06:44] NEWS_CLIP_02: A fight between two young girls breaks out on the playground ...
+[06:47] NEWS_CLIP_02: More and more teen-aged girls are getting involved in violent fights.
+[06:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: When girls and women act out violently,  their gender becomes the story.
+[06:56] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The same way race becomes the story with men of color.
+[06:58] NEWS_CLIP_03: ...The horrific murder rate in Chicago.
+[07:01] NEWS_CLIP_03: Does it have to do with guns? Or race?
+[07:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: When men of color rape women or shoot people or blow things up
+[07:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: race and culture move to the forefront of the story.
+[07:10] INTERVIEWEE_03: Is there a racial situation?
+[07:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Crowding out the fact that the vast majority of the perpetrators
+[07:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: under consideration,  no matter what color they are, are men.
+[07:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: All of this is partly a function of how dominant ideologies work linguistically
+[07:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to conceal the power of dominant groups.
+[07:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: For example,  when we hear the word "race" in the United States
+[07:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: we tend to immediately think of African Americans, Latinos, Asian Americans,
+[07:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Native Americans, Pacific Islanders, South Asians.
+[07:34] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: When we hear the term "sexual orientation," we tend to think of gay,
+[07:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: lesbian, bisexual, and transgendered people.
+[07:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And when we hear the term gender,  we tend to think of women.
+[07:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In each case, the dominant group --
+[07:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: white people, heterosexual people,
+[07:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: men -- don't get examined.
+[07:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: As if white people don't belong to some racial grouping.
+[07:50] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: As if heterosexual people don't have some sort of sexual orientation.
+[07:53] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: As if men don't have a gender.
+[07:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In other words, we always focus on the subordinated group
+[07:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and not on the dominant one, and that's one of the ways that the power
+[08:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of dominant groups isn't questioned -- by remaining invisible.
+[08:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And when it comes to masculinity, this invisibility
+[08:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: often runs across the political spectrum.
+[08:08] INTERVIEWEE_04: I'm here to open up an account.
+[08:10] INTERVIEWEE_05: Ok, what type of account would you like?
+[08:12] INTERVIEWEE_04: Um...I want the account where I can, uh, get the free gun.
+[08:16] INTERVIEWEE_05: okay.
+[08:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: So in Bowling for Columbine, which is widely considered ,
+[08:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: one of the definitive documentaries about gun violence in America
+[08:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: left-wing filmmaker Michael Moore explores multiple reasons
+[08:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: for America's continuing love affair with guns --
+[08:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: including white fears of black crime --
+[08:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: but somehow manages to avoid mentioning that the white people
+[08:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: he focuses on throughout are overwhelmingly men.
+[08:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And on those rare occasions when the subject of men does make its way
+[08:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: into mainstream discussions about violence
+[08:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the conversation is usually less about men's identity
+[08:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: than it is about their genes.
+[08:44] PROFESSIONAL_01: There are young men involved in these things.
+[08:46] PROFESSIONAL_01: There's a lot of testosterone there...
+[08:48] NEWS_CLIP_01: What is it about the testosterone of being a young man
+[08:52] NEWS_CLIP_01: that makes this come to this gun violence head, so often?
+[08:56] NEWS_CLIP_01: Why does it seem that these mass shooters are boys, and not girls?
+[09:01] PROFESSIONAL_02: Well, I think ... You know what, there's probably some gender difference there.
+[09:05] PROFESSIONAL_02: Maybe there's some insulation from, you know, things endocrine
+[09:09] PROFESSIONAL_02: whether it's the estrogen level or who knows what...
+[09:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: There's this common refrain that biology and evolutionary history are destiny:
+[09:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that men's violence is all about testosterone
+[09:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and our prehistoric role as hunter-warriors --
+[09:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We're just programmed to be violent...
+[09:21] INTERVIEWEE_06: Really, it goes back to hunter-gather days.
+[09:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: You hear another version of this in the common refrain "boys will be boys."
+[09:27] INTERVIEWEE_07: Let boys be boys. They want to play rough. Don't try and overmedicate them
+[09:30] INTERVIEWEE_07: and, you know,  turn them into girls. They're boys.
+[09:32] INTERVIEWEE_07: A six-year old boy goes like this and he's suspended.
+[09:36] INTERVIEWEE_07: And we end up having to talk about it because they are just unable
+[09:40] INTERVIEWEE_07: to let boys be boys.
+[09:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And it all amounts to pretty much the same thing:
+[09:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Men's violence is somehow inevitable.
+[09:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We should just all throw up our hands
+[09:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and let the criminal justice system sort it out.
+[09:49] PROFESSIONAL_03: One thing we can say for certain is that men are more violent than women.
+[09:53] PROFESSIONAL_03: This is a natural phenomenon. There's a close association
+[09:57] PROFESSIONAL_03: between hormonal balances and levels of violence. I think this is fairly clear.
+[10:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: No one would deny biological factors sometimes come into play with violence.
+[10:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The problem is when biological arguments lead people to conclude
+[10:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that men are just beasts, overcome by hormonal urges they can't control.
+[10:12] INTERVIEWEE_06: The area of the brain that's responsible for aggression is larger in general in men
+[10:18] INTERVIEWEE_06: and so men's natural tendency is towards being aggressive.
+[10:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The fact is that human behavior is a product of a complex set
+[10:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of biological and environmental factors.
+[10:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And it's the height of male bashing to suggest otherwise
+[10:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to imply that men are incapable of making moral and ethical decisions
+[10:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that boys are born hardwired to bully, rape, and murder.
+[10:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But perhaps the most damaging thing this kind of thinking does
+[10:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: is it blinds us to the fundamental role that cultural systems play in all of this.
+[10:44] PROFESSIONAL_04: This is a document signed by six of the major public health organizations
+[10:48] PROFESSIONAL_04: saying that the violence level in our entertainment we've attained today
+[10:53] PROFESSIONAL_04: is causing increased aggressive behavior among some children.
+[10:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: For decades, experts and government officials have been arguing
+[11:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that we need to take a closer look at the relationship
+[11:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: between violence in the culture and violence in the real world.
+[11:04] INTERVIEWEE_08: Does anyone disagree with that conclusion
+[11:07] INTERVIEWEE_08: that your violence in films propagates, ah,
+[11:10] INTERVIEWEE_08: violent conduct on behalf of the children?
+[11:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: This focus on the culture of violence in America took on new
+[11:16] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and bipartisan, urgency in the wake of Adam Lanza's cold-blooded murder
+[11:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of 20 children and six adults at Sandy Hook elementary school
+[11:22] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in Newtown, Connecticut in 2012.
+[11:24] PROFESSIONAL_05: In the days since the heartbreaking tragedy in Newtown Connecticut
+[11:27] PROFESSIONAL_05: I also tasked the Vice-President with leading an effort
+[11:30] PROFESSIONAL_05: to come up with a comprehensive set of serious proposals
+[11:33] PROFESSIONAL_05: to keep our children safe, including strengthening school safety,
+[11:37] PROFESSIONAL_05: improving mental health care, and addressing a culture
+[11:40] PROFESSIONAL_05: that too often glorifies guns and violence.
+[11:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But unfortunately, it quickly descended into a distracting, and false, debate
+[11:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: between defenders of the gun industry
+[11:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and defenders of the entertainment industry.
+[11:50] ADVOCATE_PROGUN_01: There exists in this country, sadly,
+[11:55] ADVOCATE_PROGUN_01: a callous, corrupt, and corrupting shadow industry
+[12:00] ADVOCATE_PROGUN_01: that sells and stows violence against its own people
+[12:07] ADVOCATE_PROGUN_01: through vicious, violent video games.
+[12:11] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: On one side, we've had the gun industry blaming movies and video games.
+[12:14] ADVOCATE_PROGUN_01: We have blood-soaked films out there like American Psycho,
+[12:21] ADVOCATE_PROGUN_01: Natural Born Killers,  that are aired like propaganda loops
+[12:25] ADVOCATE_PROGUN_01: on splatter days and every single day.
+[12:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: On the other side of the debate,  we've had the entertainment industry
+[12:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: blaming the NRA and guns.
+[12:33] ADVOCATE_REFORM_01: Can we not do a better job on controlling the weapons of violence
+[12:37] ADVOCATE_REFORM_01: that get into the wrong hands?
+[12:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: What both sides have failed to mention is how,  for years,
+[12:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: they've been mutually reinforcing parts of the same culture of violence
+[12:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and have profited handsomely from one another.
+[12:47] INTERVIEWEE_09: We are here at the 2012 international photo shoot
+[12:51] INTERVIEWEE_09: for Medal of Honor Warfighter. I'm here with Drake Clark from Magpul
+[12:55] INTERVIEWEE_09: a great partner. They brought CTRs. We got PMAGS,  we got EMAGS.
+[12:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It's a dirty little secret that the video game industry
+[13:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and the Hollywood film industry get paid by the firearms industry
+[13:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to feature popular gun brands in their games and movies.
+[13:07] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And that the American military uses "Call of Duty" and other video games
+[13:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in their recruitment and training.
+[13:14] INTERVIEWEE_10: Watch and learn...
+[13:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And the reason this matters so much is that,  while we've been debating whether
+[13:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: guns or movies and video games are more to blame for violence
+[13:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: we've missed how both of these industries have combined to glorify
+[13:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: not only violence,  but a particular brand of violent masculinity.
+[13:27] INTERVIEWEE_10: "Awesome!"
+[13:28] GUNSHOTS AND EXPLOSIONS: 
+[13:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The fact is that when we talk about a "culture of violence" in America
+[13:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: we're almost always talking about a culture of violent masculinity
+[13:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ...and when we talk about a culture of violent masculinity
+[13:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: we're talking about what the culture teaches boys
+[13:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: about what it means to be a man.
+[13:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We often talk about violence being a learned behavior
+[13:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: but it's more to the point to say that it's a taught behavior.
+[13:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And by shifting the focus from "learned" to "taught,"
+[13:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: we shift the onus of responsibility onto those of us who are teaching our sons
+[13:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: what it means to be a man.
+[13:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: William Pollack introduced the idea of a "boy code,"
+[13:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in which boys are taught from a very early age to act tough
+[14:02] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and not show their feelings.
+[14:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Michael Kimmel extended the reach of the boy code into late adolescence
+[14:07] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and young adulthood, where he describes a "guy code,"
+[14:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in which young men police each other into conformity with dictates about
+[14:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: manhood that come with an implicit and sometimes explicit warning:
+[14:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: don't slip up or you risk being unmasked
+[14:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and found out as someone who doesn't measure up.
+[14:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Eastwood's character, like so many fathers, father figures, coaches,
+[14:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that turns out to be the perfect breeding ground for violence.
+[14:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We can't show any emotion except anger.
+[14:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We can't think too much or seem too intellectual.
+[14:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We can't back down when someone disrespects us.
+[14:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We have to show we're tough enough to inflict physical pain and take it in turn.
+[14:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We're supposed to be sexually aggressive with women.
+[14:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And then we're taught that if we step out of this box
+[14:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: we risk being seen as soft, weak, feminine, or gay.
+[14:44] INTERVIEWEE_11: Where in the hell are you from anyway, Private?
+[14:46] INTERVIEWEE_12: Sir, Texas, Sir!
+[14:47] INTERVIEWEE_11: Holy dogshit, Texas!
+[14:49] INTERVIEWEE_11: Only steers and queers come from Texas,  Private Cowboy.
+[14:52] INTERVIEWEE_11: And you don't much look like a steer to me, so that kinda narrows it down.
+[14:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It may be an extreme case, but I don't think there's a guy out there
+[14:58] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who can't relate on a gut level to the excruciating scenes in the classic film,
+[14:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The result is that guys are put into a box
+[15:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: "Full Metal Jacket,"
+[15:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: driving basic human qualities out of the young recruits
+[15:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Faggots
+[15:07] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in order to turn them into men.
+[15:09] INTERVIEWEE_11: You're so ugly; you could be a modern art masterpiece.
+[15:11] INTERVIEWEE_11: What's your name,  Fatbody?
+[15:13] INTERVIEWEE_13: Sir, Leonard Lawrence, Sir!
+[15:14] INTERVIEWEE_11: Lawrence? Lawrence, what,of Arabia?
+[15:16] INTERVIEWEE_13: Sir,  no, Sir!
+[15:17] INTERVIEWEE_11: I don't like the name Lawrence.
+[15:18] INTERVIEWEE_11: Only faggots and sailors are called Lawrence.
+[15:21] INTERVIEWEE_11: From now on, you're Gomer Pyle.
+[15:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Anything short of full-scale emotional shutdown
+[15:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: becomes a source of humiliation and shame, and in response, young men
+[15:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: learn to adopt what I call the "tough guise,"  the front so many young men
+[15:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: put up to shield their vulnerabilities and avoid being ridiculed
+[15:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: as pussies, punks, fags, and an endless list
+[15:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of other sexist and homophobic put downs.
+[15:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Faggot
+[15:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Faggot
+[15:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Queer
+[15:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Fairy
+[15:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Sissy, bitch!
+[15:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: bitch...
+[15:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: bitch!
+[15:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: bitch
+[15:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: homo.
+[15:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: pussy.
+[15:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: pussy!
+[15:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: pussy
+[15:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: pussy
+[15:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: As sociologist CJ Pascoe details in her harrowing book, "Dude,  You're a Fag,"
+[15:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the day-to-day humiliation boys and young men are subject to on a daily basis
+[15:56] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in our schools borders on criminal:
+[15:58] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: their every move relentlessly and brutally scrutinized for anything with even a whiff
+[16:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of femininity or weakness by peers that take it upon themselves
+[16:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to serve as gender cops.
+[16:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Who you calling 'stupid'?
+[16:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: No, I said gym class was stupid.
+[16:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: "No I said gym class was…" Listen to this little faggot!
+[16:16] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But it doesn't just come from their peer groups.
+[16:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It comes from fathers, coaches, and older male role models as well,
+[16:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who take it upon themselves to school young men in what it takes to measure up
+[16:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to a patriarchal ideology that says being a man is about domination,  power,
+[16:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: aggression, and control.
+[16:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Hit me!
+[16:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: C'mon. Hit me. C'mon. C'mon Jack. Hit me.
+[16:34] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Hit me, hit me. C'mon. C'mon. Here it is. Here it is. C'mon, son.
+[16:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: C'mon. Son, Left...What are you doing?
+[16:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: This was captured brilliantly in the Clint Eastwood film "Gran Torino."
+[16:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Now you're just gonna learn how guys talk.
+[16:50] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: How you doin' Martin, you crazy Italian prick?
+[16:53] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Who's the Nip?
+[16:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Oh, he's a pussy kid from next door.
+[16:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I'm just trying to man him up a little bit.
+[17:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: See, kid? Now that's how guys talk to one another.
+[17:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: They do?
+[17:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Now go on out and come back in and talk to him like a man.
+[17:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Like a real man.
+[17:14] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and other men in boys' lives, assumes the role of the director,
+[17:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and proceeds to evaluate how well the young man performs his role.
+[17:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: What's up,  you old Italian prick?
+[17:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: What the hell are you doing? Have you lost your mind?
+[17:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: That's what you said! That's what you said men say!
+[17:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: You don't just come in and insult a man in his own shop.
+[17:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: What should I have said then?
+[17:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It ain't rocket science, for Christ 's sake.
+[17:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It doesn't matter how unnatural, complicated, or ridiculous the role is
+[17:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: boys are expected to learn their lines and master the "tough guise,"
+[17:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: or else risk being shamed as less than a man.
+[17:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Just turn around and go.
+[17:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: A pair of animated films show very clearly
+[17:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: how this process is passed down inter-generationally.
+[18:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It's a fish-eat-fish world. You either take or you get taken.
+[18:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In "Shark Tale,"  the father shark explains to his son
+[18:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that violence is the way of the world.
+[18:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Lenny, you see something, you kill it, you eat it, period.
+[18:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Thanks. That's what sharks do. That's a fine tradition.
+[18:16] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: What's the matter with you? Right here in front of me now, eat this!
+[18:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Oh, oh!
+[18:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: He then makes it clear to his son, who is a vegetarian
+[18:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that he has no choice but to conform to shark norms
+[18:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and become carnivorous and aggressive.
+[18:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Frankie, I want you to take Lenny out, show him the ropes.
+[18:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Aww, c'mon, Pops.
+[18:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Son, you're gonna learn how to be a shark, whether you like it or not.
+[18:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I'm gonna kill you,  dragon.
+[18:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I'm gonna cut out your heart and take it to my father.
+[18:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I'm a Viking. I'm a Viking!
+[18:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Similarly,  in "How to Train Your Dragon,"  the son of a Viking leader
+[18:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: runs into problems when he refuses to act violently.
+[18:56] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And the unwillingness of the boy to use violence causes a crisis
+[18:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in his relationship with his warrior father...
+[19:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I don't want to fight dragons.
+[19:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Oh come on, yes you do.
+[19:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ...Who can't even comprehend that his son might not want to follow
+[19:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in his violent footsteps.
+[19:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: You're not a Viking. You're not my son.
+[19:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Qualities like compassion, caring, empathy,  intellectual curiosity, fear,
+[19:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: vulnerability,  even love -- basic human qualities that boys have inside them
+[19:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: every bit as much as girls do, get methodically driven out of them
+[19:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: by a sexist and homophobic culture that labels these things "unmanly,"
+[19:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: "feminine,"  "womanly,"  and "gay,"...and teaches boys to avoid them at all costs.
+[19:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And, most importantly,  they're taught that real men turn to violence
+[19:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: not as a last resort, but as the go-to method of resolving disputes,
+[19:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and also as the primary means of winning respect
+[19:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and establishing masculine credibility.
+[20:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The American ideal of the real man owes a lot to the Hollywood western
+[20:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and the ultimate icon of white American masculinity, John Wayne.
+[20:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Young fella, if you're looking for trouble, I'll accommodate you.
+[20:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: While other men talked a lot, thought too much, equivocated and showed emotion
+[20:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: John Wayne made the world bend to his will with just a stare,
+[20:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: a few words, his fists, and his guns.
+[20:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I haven't lost my temper in forty years, but Pilgrim,
+[20:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: you caused a lot of trouble this morning that might have got somebody killed.
+[20:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And somebody ought to belt you in the mouth.
+[20:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But I won't. I won't. The hell I won't!
+[20:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: You won't get away with it, Cody.
+[20:50] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Cody, huh? You've got a good memory for names! Too good.
+[20:56] UNKNOWN_02: 
+[20:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And then there's the Hollywood gangster films with cinematic tough guys
+[20:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: like James Cagney and Humphrey Bogart.
+[21:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: One move out of you son and I'll fill your pants full of lead.
+[21:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Get over there.
+[21:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Men hardened by the world, who knew the power of a few clipped words
+[21:07] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and a few rounds of ammunition.
+[21:08] GUNSHOTS: 
+[21:12] INTERVIEWEE_14: Humphrey Bogart, James Cagney, they teach me to talk
+[21:19] INTERVIEWEE_14: I like those guys.
+[21:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And this equation between toughness, manhood, and violence
+[21:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: has continued and, in many ways, intensified over time.
+[21:26] INTERVIEWEE_14: Say hello to my little friend!
+[21:28] EXPLOSION: 
+[21:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: So in the wildly popular remake of the 1932 gangster film "Scarface
+[21:34] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: starring Al Pacino, it's all about the projection of toughness ,
+[21:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and the use of violence to achieve respect and success as a man.
+[21:40] INTERVIEWEE_14: This country, you gotta make the money first.
+[21:44] INTERVIEWEE_14: Then when you get the money, you get the power.
+[21:47] INTERVIEWEE_14: Then when you get the power, then you get the woman.
+[21:50] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Tony Montana's goal is to redeem his peasant childhood
+[21:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and his status as a Cuban exile by striking fear in others
+[21:56] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and becoming master of his own universe.
+[21:58] INTERVIEWEE_14: ...Get up!  Get up!
+[22:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And remorseless violence is the means to that end.
+[22:05] GUNSHOTS, SCREAMS: 
+[22:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The movie remains more popular today than ever, maintaining its cult status
+[22:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: with young men across generations and racial and ethnic lines.
+[22:22] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Some of our most cherished embodiments of tough guy masculinity
+[22:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: are a collection of rogue cops, vigilantes, and glorified psychopaths,
+[22:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who see a broken world of bureaucracy and inefficiency and unfairness
+[22:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: around them and decide to take matters into their own hands.
+[22:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I will look for you. I will find you, and I will kill you.
+[22:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And there's a whole range of other iconic representations of American manhood
+[22:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that regularly show up on popular lists of all-time greatest guy flicks
+[22:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: all of these films, to a number, linking being a man with using violence
+[22:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: or the threat of violence to command respect and achieve power.
+[22:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: There's Clint Eastwood as Dirty Harry dishing out justice
+[22:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: at the end of the barrel of a long gun.
+[22:59] INTERVIEWEE_15: You got to ask yourself a question. Do I feel lucky? Well, do you, punk?
+[23:07] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Sylvester Stallone as John Rambo, killing his way through Vietnam
+[23:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to do the job our feckless American government is incapable of doing
+[23:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: by bringing our POWs home.
+[23:15] UNKNOWN_01: 
+[23:19] UNKNOWN_01: Do you really think you have a chance against us, mister cowboy?
+[23:22] INTERVIEWEE_16: Yippee cayay, motherfucker!
+[23:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Bruce Willis as John McLane restoring order to a disordered world
+[23:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in the "Die Hard" movies.
+[23:32] INTERVIEWEE_17: Happy trails, Hans.
+[23:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The Dark Knight doing battle against the psychotic, terroristic ruthlessness
+[23:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of the Joker.
+[23:41] JOKER LAUGHING: 
+[23:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And Ryan Gosling as a kind of post-apocalyptic John Wayne
+[23:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: setting out to save the town and the damsel in distress
+[23:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: by visiting sociopathic rage and violence on anyone who gets in his way.
+[23:54] BONES BREAKING: 
+[23:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Running through all of this is the glorification of a kind of warrior
+[24:02] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: masculinity that blurs the line between being a man
+[24:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and using violence to prove you're a man.
+[24:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Some directors have made a career out of this kind of thing.
+[24:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Mel Gibson has made a string of movies
+[24:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that amount to pageants of tough-guy warrior masculinity
+[24:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: going so far as to turn Jesus Christ into the ultimate real man...
+[24:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ...Treating viewers to a two-hour torture-fest to drive the point home
+[24:34] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that Jesus was not just the prophet of peace and kindness
+[24:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: but tough enough to endure levels of pain that would put today's
+[24:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ultimate fighters to shame.
+[24:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And Quentin Tarantino's body of work can be read as a kind of tribute
+[24:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to this cinematic tradition of badass tough guys
+[24:50] UNKNOWN_02: 
+[24:53] UNKNOWN_02: from the stylized violence of Pulp Fiction
+[24:55] UNKNOWN_02: to his re-write of the American Western as a slave revenge tale.
+[24:59] GUNSHOTS: 
+[25:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ...And we see the same glorification of violence as a legitimate tool
+[25:11] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: for settling scores and expressing manhood even in kids' movies.
+[25:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Peter said get out of here!
+[25:16] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Peter's not king yet!
+[25:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Then, on a parallel track,  you have the endless slate of films
+[25:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that glamorize male sexual aggression.
+[25:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Stop being a pussy and nail her, ok?
+[25:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: How do you not see the point?
+[25:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: There's the point. There's the point.  Ok?
+[25:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: There's two more fucking points right there!
+[25:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: A longstanding cultural narrative that says being a man
+[25:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: is about sexual conquest.
+[25:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: So, did you bang her?
+[25:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Oh yeah, yeah. I banged her.
+[25:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: That's what a man does ok?
+[25:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The clear and deeply entrenched message to young men here
+[25:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: reinforced again and again over time
+[25:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: is that actually caring about girls and women is for pussies and fags.
+[25:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I need a little bit more time with Carly. There I said it. Ok?
+[25:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And I know you think that's lame
+[25:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: but can you please just give me one more day?
+[25:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: That's not lame, bro. That's gay.
+[25:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The actual living, breathing humanity of girls and women matters a lot less
+[26:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: than turning them into trophies to prove you're a real man
+[26:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and win the approval of your friends.
+[26:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Hollywood movies are one of the great teaching forces of our time.
+[26:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But it's not just movies.
+[26:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Look at violent video games, which provide guys with an immersive
+[26:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and interactive experience that allows them to master their environment
+[26:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and impose their will through violence
+[26:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: or the rise of 24-7 Internet pornography
+[26:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: a multibillion-dollar industry that sexualizes men's control
+[26:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and dominance over women.
+[26:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Look at popular men's sports that often seem to be less about
+[26:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: healthy competition than about proving toughness through physical force
+[26:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and violence, and dominating and humiliating the opposition.
+[26:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Look at the world of advertising, which sells products
+[26:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: by exploiting men's anxieties about not measuring up.
+[26:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And look at our political culture
+[26:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: where the game is all about establishing your manly credentials
+[26:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: by butching yourself up and methodically feminizing
+[26:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and taking apart the manhood of your opponents.
+[26:50] INTERVIEWEE_18: And to those critics who are so pessimistic about our economy
+[26:54] INTERVIEWEE_18: I say, don't be economic girly-men!
+[26:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: What most discussions about violence miss is how pervasive
+[27:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and interconnected this larger story about manhood is
+[27:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: how it creates a kind of all-pervasive cultural script
+[27:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that says physical toughness, force, and violence are legitimate ways
+[27:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: for men to achieve and maintain power and control
+[27:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: a script that men and boys are expected to adhere to
+[27:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: whether they want to or not.
+[27:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Good morning. This is Randy Peone on KREZ radio.
+[27:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The voice of the Coeur d'Alene Indian reservation ...
+[27:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In the groundbreaking film "Smoke Signals
+[27:34] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: one of the first features produced by Native Americans
+[27:37] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: there's this memorable scene where an older kid tries to teach a younger kid
+[27:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: how to be a real-life Hollywood Indian.
+[27:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Don't you even know how to be a real Indian?
+[27:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I guess not.
+[27:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I guess I'll have to teach you then.
+[27:50] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: First of all, quit grinning like an idiot.
+[27:53] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Indians ain't supposed to smile like that. Get stoic!
+[27:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: No! Like this...
+[28:11] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: You gotta look mean or people won't respect you.
+[28:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: White people will run all over you if you don't look mean.
+[28:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: You gotta look like a warrior.
+[28:22] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: You gotta look like you just came back from killing a buffalo.
+[28:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But our tribe never hunted buffalo. We were fisherman!
+[28:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: What!? You want to look like you just came back from catching a fish?
+[28:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: This ain't 'Dances With Salmon,' you know.
+[28:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Thomas, you gotta look like a warrior.
+[28:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: There, that's better.
+[28:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The scene is funny, but it also shows how the pressure to conform
+[28:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to ideals of violent masculinity cuts across racial, ethnic, and class lines.
+[28:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In fact, in a lot of ways the pressure to conform is more acute
+[28:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: among men whose power and identity are under threat in the real world
+[28:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: from things like racism and growing economic inequality.
+[29:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: As the sociologist Richard Majors has pointed out
+[29:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: African American and other men of color in urban areas
+[29:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: often adopt a hyper-masculine menacing persona he calls the "cool pose"
+[29:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to signal that they're still men
+[29:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: regardless of what else has been stripped from them.
+[29:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: This is also true with Latino men...
+[29:16] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Checkmate, boom-boom…
+[29:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ...who are disproportionately portrayed in Hollywood as gangbangers
+[29:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Mexican drug lords, and thugs in the barrio,
+[29:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: images that are crude stereotypes
+[29:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: but which nonetheless have become symbols of toughness
+[29:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to some poor and working class Latinos whose manhood
+[29:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: has been undermined by class exploitation and ethnic discrimination.
+[29:34] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And we see the same thing when it comes to Asian masculinity.
+[29:37] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I have a wonderful idea.
+[29:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Would you like to go to the dance with Sam?
+[29:43] GONG RINGING: 
+[29:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In American popular culture, Asian men have long been emasculated,
+[29:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: stereotyped as ineffectual, de-sexualized, and unmanly.
+[29:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: That a more better.
+[29:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I want my purse back!
+[30:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: What, your purse?
+[30:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: That's not a purse. It's a satchel!
+[30:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It's a purse. Ok?
+[30:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But since the early 1970s, running counter to this long line
+[30:14] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of neutered stereotypes is the tough-guy image of Bruce Lee
+[30:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and stars like Jackie Chan and Jet Li
+[30:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who re-masculinized the image of Asian and Asian-American men
+[30:22] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: with the highly stylized physicality and violence of the martial arts.
+[30:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But young Asian-American men don't just have to look to Bruce Lee for cues.
+[30:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Increasingly we've seen the phenomenon of Asian guys
+[30:34] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: adopting the tough-guy street styles of African-American and Latino men
+[30:37] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to establish their masculine credentials.
+[30:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Hey homie. I don't know what you had heard.
+[30:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But I ain't trying to act like no motherfucking black person
+[30:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: y'know what I'm sayin'? This is me. This is all OG.
+[30:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: This is all the original shit that you goin' get ever in your life.
+[30:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And this holds true for a lot of white guys as well.
+[30:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Yo, I'm just pausing while those two hos over there scratch it out
+[30:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: about who gets to knock the boots with me! You know what I'm saying?
+[30:58] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Many people have commented on the strange phenomenon
+[31:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of white suburban middle class kids "acting black."
+[31:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Damn, woman why you got be such a ragin' bitch?
+[31:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Oh please. Listen to you. Look, there's a mirror right there.
+[31:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Why don't you take a look, ok? You're white!
+[31:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Middle class white boys may not have a lot of experience
+[31:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: with the kind of real-world, inner-city conditions that gave rise
+[31:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to the cool pose, but the culture tells them if they take on this black
+[31:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: urban hard-guy pose, they'll somehow be more real, more of a man.
+[31:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: You happen to be white. I'm talking raised on Rippola Street white.
+[31:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Where your momma used to drag you down to Saint Kazmir's
+[31:34] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: just like all the other little piss pants on the block.
+[31:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: What makes this even more interesting is that a lot of the very guys
+[31:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: they see as models of authenticity are themselves projecting an image
+[31:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: they picked up from the culture.
+[31:45] UNKNOWN_02: 
+[31:48] UNKNOWN_02: 
+[31:49] UNKNOWN_02: 
+[31:56] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: As the writer Nathan McCall  has said
+[31:58] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: he and some of his African American male cohorts
+[32:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: got some of their ideas of manhood from The Godfather
+[32:02] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and other gangster films that featured tough, ruthless, white Italian gangsters.
+[32:07] INTERVIEWEE_19: Some day, and that day might never come
+[32:09] INTERVIEWEE_19: I'll call upon you to do a service for me.
+[32:14] INTERVIEWEE_19: But until that day, accept this justice as a gift on my daughter's wedding day.
+[32:21] INTERVIEWEE_19: One day and that day may never come
+[32:25] INTERVIEWEE_19: I'm gonna call you to do something for me.
+[32:29] INTERVIEWEE_19: But until then, take this justice as a gift. All right?
+[32:36] INTERVIEWEE_19: Thank you, Godfather.
+[32:37] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And you hear the same kind of thing about Scarface.
+[32:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It's one of the hottest movies ever made ...
+[32:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: This is the all-time greatest movie... .
+[32:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I've never seen nothing like that... .
+[32:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Nigger, that shit was the fuckin' bible... .
+[32:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I watched this movie sixty-three times... .
+[32:50] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: As a comic book lover, you loved Batman.
+[32:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: If you was out in the streets, you loved Scarface... .
+[32:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ... Say goodnight to the bad guy.
+[32:58] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: So we have this interesting phenomenon where we have white middle class males
+[33:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: emulating poor urban black males who, in turn, are getting part of their idea
+[33:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: about manhood from gangster films featuring white men
+[33:07] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who are playing Italian and Cuban-American gangsters.
+[33:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Now are we men, or are we men, man?
+[33:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The paradox is that the test of being real somehow comes down
+[33:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to how well you live up to a made-up script.
+[33:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I got Scarface, on repeat.
+[33:22] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Constant, y'all!
+[33:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And it's a script that's only become increasingly violent over time.
+[33:37] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I'm hot. I'm big.
+[33:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: All this began because it was time to push myself harder.
+[33:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Oh, there you go. Yeah!
+[33:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I gotta get a pump.
+[33:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: That's it. That's good.
+[33:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It hurts! I know it does.That's it. Get it!
+[33:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: There's no question that over the past few decades
+[33:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: there's been a ratcheting up of what it takes to be considered a real man.
+[33:58] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Look at our action heroes.
+[33:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In the 1950s, Superman was the equivalent of an ordinary guy
+[34:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: running around in tights and a cape.
+[34:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And today he's pumped up and ripped.
+[34:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Or look at Batman.
+[34:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The body of Adam West as Batman in the 1960s
+[34:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: is a far cry from the far more imposing Dark Knight of the 21st century.
+[34:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Pro wrestlers' bodies in the 1960s were more flabby.
+[34:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In the 21st century, they're way more sculpted, pumped up, and ripped.
+[34:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And look at toy action figures.
+[34:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: If you look at the Star Wars toy figurines that kids played with in the 1970s
+[34:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and contrast them with the Star Wars toy figurines that are being marketed
+[34:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to kids today, you see a dramatic shift.
+[34:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Or look at the body of GI Joe.
+[34:37] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: A study done in the late '90s, found that over the past fifty years
+[34:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the size of GI Joe's biceps, in real life equivalence
+[34:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: increased from 12.2 inches in 1964
+[34:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to 15.2 inches in 1974
+[34:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to 16.4 inches in 1994
+[34:50] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and up to 26.8 inches by 1998.
+[34:53] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: If you wanted a comparison to a real person
+[34:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the biceps of someone like the Rock are reportedly only about 20.0 inches.
+[34:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Meanwhile, women have been taking up less symbolic space.
+[35:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Whereas full-figured women like Marilyn Monroe and Jayne Mansfield
+[35:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: represented ideal female beauty in the 1950s
+[35:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: today that ideal has become much smaller, thinner, younger,
+[35:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: more girlish, and more waifish.
+[35:14] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Over the same time period, there's been a ratcheting up
+[35:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Today, the level of brutality is like a different world.
+[35:16] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of violence itself.
+[35:22] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In the films of the 1950s and 60s, a few punches was all it took
+[35:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to establish a man's tough-guy cred.
+[35:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We've gone from the comparatively orderly sport of boxing
+[35:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to today's number one fighting sport, the street-fighting viciousness
+[35:50] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of mixed martial arts and cage fighting.
+[35:53] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Ohhhh wow!
+[35:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Wake up kid, we are underway. This place is deafening!
+[36:07] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We've gone from iconic tough guys who armed themselves with pistols
+[36:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and the occasional machine gun in the 1940s
+[36:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to larger weaponry in the 1970s
+[36:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to the increasing militarization of these weapons in the 80s and 90s
+[36:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to the larger-than-life heavy-metal killing machines we have today.
+[36:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: You mustn't be afraid to dream a little bigger, darling.
+[36:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Say hello to my little friend!
+[36:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We've seen video game violence go from the benign aggressions of Pac Man
+[36:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Space Invaders, and Asteroids
+[36:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to the unimaginable and hyper-realistic bloodbaths of today's games.
+[37:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: have been waging a full-scale war on traditional manhood.
+[37:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: "And in a much more disturbing shift
+[37:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: we've seen porn culture go from the soft-core sexism of Hugh Heffner's brand
+[37:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of hedonistic masculinity in the 1950s
+[37:11] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to the hard-core misogyny, anger, aggression, and sexualized brutality
+[37:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of the men featured in the gonzo porn that is so popular with guys today.
+[37:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But despite this ratcheting up of violent masculinity
+[37:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: over the past few years we've been hearing exactly the opposite:
+[37:26] INTERVIEWEE_02: The whole culture's being feminized, in my opinion ...
+[37:27] INTERVIEWEE_02: not that men are too violent, but that they've gone soft.
+[37:38] INTERVIEWEE_02: There's a certain emasculation that's happening in our culture ...
+[37:40] INTERVIEWEE_02: Part of the problem is we've sort of feminized schools ...
+[37:43] INTERVIEWEE_02: I think she's right. It's 100% -- We're wussifying America.
+[37:46] INTERVIEWEE_02: ... Is this the wussification of America?
+[37:48] INTERVIEWEE_02: Yes, this is one more step in the wussification of America.
+[37:52] INTERVIEWEE_02: Is this the latest in the wussification of America? Right back.
+[37:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The heart of this argument is that men are in crisis because women
+[37:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: especially feminists and other forces of so-called political correctness
+[38:06] INTERVIEWEE_06: We've been so emasculated by a so-called women's movement
+[38:09] INTERVIEWEE_06: at this point even our strongest men are acting girlie.
+[38:12] INTERVIEWEE_20: The founding fathers were men, not wussies.
+[38:14] INTERVIEWEE_20: It's the wussification of America that's killin' us!
+[38:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Now there's no doubt we're in the throes of some kind of a crisis in masculinity.
+[38:22] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: There's rightfully been a lot of attention paid in recent years to how boys
+[38:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: are lagging behind girls in our schools
+[38:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: how men are experiencing heightened job insecurity and alienation
+[38:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in the global economy, and how more and more men seem to be lost
+[38:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and acting out violently and self-destructively.
+[38:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But rather than questioning whether it's our inability to move beyond
+[38:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the straightjacket of traditional masculinity that might be
+[38:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the source of this crisis, across the cultural and political landscape
+[38:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: there's been a growing movement to reclaim and reassert traditional manhood.
+[38:46] INTERVIEWEE_21: We need to toughen up and stand up for ourselves
+[38:48] INTERVIEWEE_21: and learn to be a lot tougher than yoga is gonna teach us to do all by ourselves.
+[38:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: From the recent avalanche of books and magazines celebrating
+[38:58] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: throwback modes of manhood
+[39:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to the wave of reality programs obsessed with the kind of manly
+[39:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: physical labor that in real reality has been disappearing
+[39:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: with America's manufacturing base over the past three or four decades...
+[39:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Eat, sleep,  carve -- It's what we do.
+[39:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Whatever happened to men?
+[39:14] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: To the never-ending barrage of hyper-masculine, sexist ads
+[39:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: full of men obsessed with proving their manhood...
+[39:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: So keep the reality TV and lady drinks, we're good.
+[39:22] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Dr. Pepper 10, it's not for women.
+[39:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ...and shot through with borderline hysteria about the possibility
+[39:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of being perceived as feminine"
+[39:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Ah, light beer, please.
+[39:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Sure. Do you care how it tastes?
+[39:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Nah. I don't care how it tastes.
+[39:34] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Ok, well, when you start caring
+[39:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: put down your purse and I'll give you a Miller Lite.
+[39:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It's a carry-all.
+[39:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: No, it's not.
+[39:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Man Up!
+[39:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: There was no clearer depiction of this backlash phenomenon
+[39:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: than the film "Fight Club."
+[39:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Like so many others, I had become a slave to the Ikea nesting instinct... .
+[39:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Yes, I'd like to order the Erika Pekkari dust ruffles.
+[39:58] UNKNOWN_03: Please hold...
+[39:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The movie portrayed the emasculation of young men by the consumer culture...
+[40:02] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We're still men!
+[40:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Yes, we're men, men is what we are.
+[40:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ...and offered up bare-knuckled violence as a way for men
+[40:11] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to reclaim their manhood.
+[40:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Regardless of whether we see this film as a glamorization or a satire
+[40:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of backlash masculinity
+[40:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: as backyard fight clubs have proliferated in the years since the film's release.
+[40:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We're witnessing a culture in retreat:
+[40:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: a narrative that tells men that the best way to respond to change is not to adapt
+[40:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: but to re-claim traditional masculine control and dominance
+[40:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: from the forces of feminization.
+[40:56] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And as it turns out, this is an old pattern in American history.
+[41:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: As the scholar Jane Tompkins has shown
+[41:02] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the western dime novels of the late 1800s and early 1900s
+[41:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that helped create the romantic myth of the "wild west
+[41:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: burnishing the idea of a real man as a rugged individualist
+[41:11] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: armed and ready to defend himself at a moment's notice
+[41:14] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: were themselves a direct response to women's challenges
+[41:16] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to men's dominance and control.
+[41:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: According to Tompkins, it's no coincidence that westerns
+[41:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: became popular at the exact moment the frontier was closing
+[41:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: men's work was moving inside factory walls
+[41:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and women were organizing a temperance movement to get men
+[41:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: out of bars and force them to take responsibility for their families
+[41:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and also beginning to agitate for their right to vote.
+[41:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The saloons and violence of the dime novels of the Old West
+[41:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: provided an imaginary refuge for men who were threatened
+[41:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: by a shifting economic landscape and the prospect of women's equality
+[41:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: a fantasy world that could help them shore up
+[41:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: their increasingly anxious masculinity.
+[41:50] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And you see these same foundational anxieties at the heart
+[41:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of yet another iconic example of traditional masculinity -- the Boy Scouts.
+[41:56] INTERVIEWEE_09: Boy Scouting is one of the few institutions
+[41:58] INTERVIEWEE_09: to balance the rather softening effect of our modern way of life.
+[42:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Which, for all its virtues as an organization, has made headlines
+[42:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in recent years for refusing to allow gay kids to become scouts.
+[42:08] INTERVIEWEE_22: A lot of people who don't want their kids to go camping
+[42:11] INTERVIEWEE_22: you know, out deep into the woods for days on end
+[42:13] INTERVIEWEE_22: with guys who are avowed, open gays.
+[42:16] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The boy scouts are looked to with nostalgia today as a throwback
+[42:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to simpler, more traditional times, untouched by change
+[42:22] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and the forces of equality. But here again, the past turns out
+[42:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to be more complicated than it seems.
+[42:26] INTERVIEWEE_23: I will do my best to do my duty to god and the king.
+[42:33] AUDIENCE CHANTING: 
+[42:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It turns out that Lord Baden Powell
+[42:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: a highly decorated officer in the British Army
+[42:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: founded the Boy Scouts as an organization
+[42:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of paramilitary socialization in 1908
+[42:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: for a very explicit reason:
+[42:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to counteract what he perceived as a decline in the manly virtues
+[42:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: due to the growth of urban industrial culture
+[42:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the increasing women's education and calls for women's suffrage
+[42:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and the emergence of homosexuality for the first time as a recognized category
+[43:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of human sexuality.
+[43:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In his influential book, "Rovering to Success, A Guide to Young Manhood,"
+[43:07] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Powell was quite explicit about this.
+[43:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Building on and borrowing from Baden Powell's ideas
+[43:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the Boy Scouts of America was founded in 1910 for the same reason:
+[43:34] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to reassert traditional ideas of masculinity in the face of social change.
+[43:38] INTERVIEWEE_09: The Scout program is designed to help our sons
+[43:41] INTERVIEWEE_09: cousins and younger brothers develop the initiative, the resourcefulness,
+[43:47] INTERVIEWEE_09: the character, the quick-thinking and the leadership,
+[43:50] INTERVIEWEE_09: they really need in this somewhat jittery, insecure world in which we live.
+[43:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Again and again, at key moments in American history,
+[43:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: you see men reacting to change in just this way
+[43:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: by retreating into a hyper-masculine fantasy world.
+[44:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: You see it in the rise of popular men's magazines of the 1940's
+[44:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: filled with stories about breathtaking manly adventures, sports and sex.
+[44:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: These magazines may look retro to us today
+[44:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: but what's important to remember is that they were just as retro in their own time.
+[44:16] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: As the lives of men grew more sedentary
+[44:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: during the consumer boom of the post-war years
+[44:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: as women moved into the workplace in unprecedented numbers
+[44:22] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and the women's movement gained traction
+[44:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: these magazines offered men a way to hit back at what Ralph Daigh
+[44:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the editorial director of True magazine
+[44:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: describes as "the perils of creeping equality."
+[44:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Men were turning to his magazine in unprecedented numbers
+[44:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Daigh explained to a group of men in his speech
+[44:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In other words, these hyper-masculine fantasies and images
+[44:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: were explicitly designed to keep alive the traditional equation between masculinity
+[44:53] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: dominance and control, at a time of democratization and change ...
+[45:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ... And this backlash has only accelerated exponentially
+[45:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: since the 1960's, when the Civil Rights movement, the Women's Movement
+[45:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the Gay and Lesbian Equality movements and the anti-war movement
+[45:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: rose up to challenge traditional masculine authority like never before
+[45:16] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: especially the authority of straight white men.
+[45:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: These struggles unleashed a fierce cultural and political backlash
+[45:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that has sought to reassert the traditional order
+[45:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: by reasserting traditional manhood.
+[45:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: On the political front, no figure has been more important to this project
+[45:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of regressive, national re-masculinization than President Ronald Reagan.
+[45:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Reagan, a former Hollywood actor and Matinee idol
+[45:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: rose to political power opposing all the progressive gains of the 1960's and 70's.
+[45:50] INTERVIEWEE_24: The plain truth of the matter is this has to stop
+[45:52] INTERVIEWEE_24: and it has to stop like the day before day yesterday.
+[45:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: He led the fight against every major piece of Civil Rights legislation
+[45:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the Women's movement, the Gay and Lesbian Liberation movements
+[46:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and the student movement that opposed the war in Vietnam.
+[46:02] INTERVIEWEE_24: I was picketed a few days ago in California by some youngsters
+[46:05] INTERVIEWEE_24: that had signs that said, "Make love, not war."
+[46:08] INTERVIEWEE_24: Trouble is, they didn't look like they were capable of doing either.
+[46:11] UNKNOWN_04: 
+[46:13] UNKNOWN_04: The fella that was doing the talking had a haircut like Tarzan
+[46:15] UNKNOWN_04: and he walked like Jane, and smelled like Cheetah.
+[46:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And when he ran for president in 1980
+[46:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: he proved to be a master of political symbolism
+[46:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: tapping deep into the myth of the American cowboy
+[46:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: presenting himself as a throwback version of the strong, silent type
+[46:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: riding into town to rescue a country emasculated by the equality movements
+[46:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of the '60's , and the weak leadership of President Jimmy Carter.
+[46:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: John Wayne wasn't available
+[46:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Ronald Reagan was the next best thing.
+[46:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The manly image of rugged individualism Reagan mobilized
+[46:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to turn people against the government
+[46:50] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and eviscerate the social safety net in the 1980's
+[46:53] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: has been kept alive by his proud political heirs today.
+[46:59] INTERVIEWEE_25: One of the objectives of the feminazi's over the last 20, 25 years
+[47:05] INTERVIEWEE_25: has been to dominate the public education system
+[47:11] INTERVIEWEE_25: so as to remove the competitive nature of boys.
+[47:14] INTERVIEWEE_25: There's a crisis of young man-boy education in the schools.
+[47:18] INTERVIEWEE_25: And they did this on purpose:
+[47:20] INTERVIEWEE_25: to eliminate male competition in the workforce.
+[47:22] INTERVIEWEE_25: This is part of feminazi-grand-plan.
+[47:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Talk radio hosts like Rush Limbaugh wield huge influence
+[47:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in the American political culture, especially with white men
+[47:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who have been fleeing the Democratic Party in droves since the 1960s
+[47:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and voting Republican.
+[47:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And one of the primary ways he's achieved this success is by appealing
+[47:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to white men as victims of the feminist movement...
+[47:40] INTERVIEWEE_25: These kinds of women, who have been attacking testosterone
+[47:44] INTERVIEWEE_25: who have been attacking traditional male roles
+[47:47] INTERVIEWEE_25: to whom the idea of a "real guy" is some metrosexual.
+[47:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: To the older working and middle class white men who make up the bulk
+[47:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of Limbaugh's audience, the message is clear:
+[47:56] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the anxieties you're feeling have nothing to do with things like
+[47:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: structural economic change or corporate greed or rising inequality.
+[48:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Your problems are somehow the result of women and people of color
+[48:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and gay people and liberals of all types undermining the country's values
+[48:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and taking away your manhood.
+[48:11] INTERVIEWEE_25: "It's a bunch of metrosexuals. I mean, these are a bunch of guys
+[48:14] INTERVIEWEE_25: you wouldn't want one of them in a foxhole with you.
+[48:16] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Rush Limbaugh, like so many of his colleagues
+[48:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in the right-wing talk radio universe
+[48:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: may have dodged the draft in Vietnam by claiming that an "anal boil"
+[48:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: rendered him unfit for service
+[48:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and he may have lived for years in the liberal epicenter of New York City
+[48:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in an $11 million dollar penthouse apartment decorated
+[48:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: like a 16th century French chateau.
+[48:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But all that matters is that he talks tough and plays a real man on the radio.
+[48:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But Limbaugh is just the most public face of an increasingly toxic strain
+[48:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of masculine paranoia and victimization.
+[48:44] INTERVIEWEE_26: You think you're a tough guy? Well, have me back with a boxing ring in here
+[48:48] INTERVIEWEE_26: and I'll wear red, white and blue and you can wear your Jolly-Roger.
+[48:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Talk radio hosts like Alex Jones have become heroes to their largely white male
+[48:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: audiences by stoking fears of masculine dissolution...
+[48:58] INTERVIEWEE_26: The reason there's so many gay people now
+[49:00] INTERVIEWEE_26: is because it's a chemical warfare operation ...
+[49:01] INTERVIEWEE_26: I have the government documents, where they said they're going to
+[49:03] INTERVIEWEE_26: encourage homosexuality with chemicals so that people don't have children.
+[49:07] INTERVIEWEE_26: I even catch myself, Bob, drinking out of these estrogen-mimickers.
+[49:11] INTERVIEWEE_26: 'Cuz after you're done drinking your little juices
+[49:14] INTERVIEWEE_26: you're ready to go out and have a baby!
+[49:18] INTERVIEWEE_26: You're ready to put makeup on!
+[49:19] INTERVIEWEE_26: You're ready to wear a short skirt!
+[49:21] INTERVIEWEE_26: You're ready to go put together a garden of roses or something
+[49:26] INTERVIEWEE_26: you're ready to put lipstick on... I mean, look at this…
+[49:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And at the base of all of this is the belief the best way for men
+[49:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to restore their dwindling manhood and restore order
+[49:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: is through what the cultural historian Richard Slotkin has called
+[49:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the "frontier myth of regenerative violence."
+[49:41] INTERVIEWEE_26: Most people understand that guns make you safer
+[49:44] INTERVIEWEE_26: especially because society is degenerating.
+[49:46] INTERVIEWEE_26: There's going to be a lot of craziness going on
+[49:48] INTERVIEWEE_26: and so we need guns to protect ourselves.
+[49:50] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: What this shows is that a whole lot of men out there fear they're losing control
+[49:53] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and are convinced that violence might be the only way left
+[49:56] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: for them to protect what's theirs.
+[49:57] INTERVIEWEE_27: We're the most powerful nation in the world
+[49:57] INTERVIEWEE_27: and I think it's crazy
+[50:00] INTERVIEWEE_27: looking at all these armed Americans and our resolve in dealing with things
+[50:05] INTERVIEWEE_27: and how, despite all that, there's still people crossing our borders.
+[50:09] INTERVIEWEE_27: Why the hell are you people on the borders, not firing at these people
+[50:13] INTERVIEWEE_27: shooting 'em or dealing with 'em? That's the thing that gets me.
+[50:16] INTERVIEWEE_27: If I lived on a border and some brown man came running through my backyard
+[50:20] INTERVIEWEE_27: that looks like he didn't belong there, I'm gonna fire some traces at his ass.
+[50:24] INTERVIEWEE_27: So why aren't people doing that?
+[50:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The basic idea is that the best way to regain power and control
+[50:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: is through the barrel of a gun -- or as many guns as possible.
+[50:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: They're accurate, they're dependable.
+[50:37] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Yes, they are -- super dependable.
+[50:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: They are extremely well made.
+[50:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: You can carry plenty of them on your person at all times.
+[50:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: A recent study on gun ownership in America by the Institute of Medicine
+[50:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and the National Research Council made headlines when it found that there are
+[50:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: somewhere around 300 million guns in America
+[51:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: or roughly one gun per citizen,
+[51:02] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: as much as half of all the civilian-owned guns in the world.
+[51:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But what received less attention was that nearly two-thirds of these guns
+[51:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: are owned by just 20% of the population
+[51:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that older white men living in rural areas own most of these guns
+[51:14] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and the number one reason for owning guns has shifted over the past few years
+[51:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: from hunting and recreation to protection and self-defense.
+[51:20] INTERVIEWEE_28: Our leaders don't get it
+[51:24] INTERVIEWEE_28: and that's why you're going to need all the help you can get.
+[51:26] INTERVIEWEE_28: That's why you need to be prepared.
+[51:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: This white male paranoia and siege mentality
+[51:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: have fueled the increasingly aggressive effort to block
+[51:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: even the most sensible gun policies.
+[51:35] INTERVIEWEE_28: When the system is overwhelmed, and I mean the system on the entire planet,
+[51:40] INTERVIEWEE_28: somebody had better be prepared to protect their selves, their families
+[51:44] INTERVIEWEE_28: their neighborhoods and the freedom of all mankind.
+[51:49] INTERVIEWEE_28: Never let them take your second amendment right, ever.
+[51:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: This siege mentality has also fueled the rise of hate groups and militias
+[51:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: over the past quarter-century.
+[51:59] INTERVIEWEE_29: They're not branches of Al-Qaeda.
+[52:01] INTERVIEWEE_29: They're right-wing extremists with lots of guns and an axe to grind
+[52:04] INTERVIEWEE_29: against the U.S. government.
+[52:06] INTERVIEWEE_30: ... Listen people. Things are bad, things are real bad
+[52:13] INTERVIEWEE_30: and it's going to get a lot worse. So basically, you people need to wake up ...
+[52:19] INTERVIEWEE_30: Start buying some of these, see?
+[52:22] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Groups like these are often described as white supremacist hate groups
+[52:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: which they usually are.
+[52:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But they can also be seen as a kind of reactionary men's movement
+[52:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: an organized expression of white male anxiety and aggrieved entitlement
+[52:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that relies on violence as the preferred means of attaining its goals.
+[52:36] NEWS_CLIP_01: Recovery crews are still searching the waters around an island
+[52:39] NEWS_CLIP_01: where a gunman opened fire on young people attending a summer camp.
+[52:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In recent years, perhaps the most disgusting and morally bankrupt
+[52:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: expression of this kind of threatened entitlement
+[52:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: was the massacre of 77 people, including 69 teenagers
+[52:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: perpetrated by the Norwegian right-wing fanatic Anders Breivik
+[52:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: a former customer service representative who had been declared unfit
+[52:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: for service in the Norwegian Army.
+[52:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In his 1,500-page manifesto explaining his reasons for the attack
+[53:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Breivik ranted against Islam and multiculturalism
+[53:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: but he reserved special venom for feminism's role
+[53:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in emasculating Western men.
+[53:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: According to Breivik
+[53:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But this isn't just about extremists who stockpile weapons.
+[53:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: All too often, a similar logic is at work with a lot of the violence
+[53:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: committed by ordinary guys.
+[53:34] INTERVIEWEE_31: Can you open this, please?
+[53:35] INTERVIEWEE_32: Oh, sure.
+[53:38] INTERVIEWEE_32: Thank you very much.
+[53:40] INTERVIEWEE_32: So, you like the bitches out there in the fucking old Russia, there?
+[53:45] INTERVIEWEE_32: What?
+[53:46] INTERVIEWEE_32: Bitches in old Russia! Some fuckin' ho's baby!
+[53:50] INTERVIEWEE_32: Fuckin' girls, you fuck the shit out of 'em
+[53:54] INTERVIEWEE_32: and then you never call 'em again!
+[53:55] INTERVIEWEE_32: Why you don't call them?
+[53:56] INTERVIEWEE_32: Because they do not have a telephone, yes?
+[53:59] INTERVIEWEE_32: No, not 'cuz of that. They don't have my respect, you know what I mean?
+[54:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Sacha Baron Cohen, who has emerged as a kind of pop punk anthropologist
+[54:07] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: for the study of amped-up and violent American masculinity
+[54:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: has used a series of ingenious disguises to infiltrate male subcultures
+[54:14] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and chronicle the sexism, misogyny, homophobia, and violence
+[54:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that so many ordinary men use to form bonds with one another
+[54:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and prove they're real men.
+[54:22] INTERVIEWEE_09: You guys ready to see a little ass-kicking tonight?
+[54:25] UNKNOWN_05: 
+[54:26] UNKNOWN_05: Make some noise everybody, put your hands together and make some noise.
+[54:29] UNKNOWN_05: The host of the brand-new TV show "Straight Dave's
+[54:33] UNKNOWN_05: Man-Slamming Maxout." Give it up for Straight Dave!
+[54:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Cohen's tactics are ridiculous, funny, controversial,
+[54:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and maybe even questionable at times.
+[54:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But like all great satirists, all he's really done is hold up a mirror to us.
+[54:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And that's exactly why this stuff can be so uncomfortable to watch.
+[54:51] UNKNOWN_06: 
+[54:54] UNKNOWN_06: Are you ready for some man-slamming action?
+[54:58] UNKNOWN_06: Who's ready for an old-fashioned hetero-fest?
+[55:03] UNKNOWN_06: Let me hear you say, "Straight pride!"
+[55:06] UNKNOWN_07: Straight pride!
+[55:08] UNKNOWN_07: ...Straight pride!
+[55:10] UNKNOWN_07: Straight pride!
+[55:11] UNKNOWN_07: It's great to have an evening with straight people.
+[55:15] UNKNOWN_07: It's great not to have any fags here.
+[55:17] INTERVIEWEE_33: ...You're a faggot!
+[55:20] INTERVIEWEE_33: Who called me a faggot?
+[55:23] INTERVIEWEE_33: Whoever called me a faggot, come up here and I'll beat your ass!
+[55:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We're used to seeing the glamorization of hyper-masculine posturing.
+[55:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We're not nearly as used to thinking about the unglamorous, ugly
+[55:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: mean-spirited, and violent ways these images play out in the real world.
+[55:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Let him in.
+[55:37] UNKNOWN_08: 
+[55:39] UNKNOWN_08: Who wants to see me beat this fag's ass?
+[55:44] UNKNOWN_09: 
+[55:45] UNKNOWN_09: Who wants me to beat this... Ugh...
+[55:48] UNKNOWN_08: 
+[55:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We laugh at this kind of behavior when it's presented out of context
+[56:02] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and given a kind of mocking attention by someone like Sacha Baron Cohen.
+[56:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But the reality is that violence often has less to do with guys stepping out of line
+[56:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: than with guys toeing the line and conforming to cultural norms.
+[56:17] NEWS_CLIP_01: Two star high school football players in Steubenville, Ohio
+[56:20] NEWS_CLIP_01: have been found guilty of raping a West Virginia teenager...
+[56:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Take the Steubenville, Ohio case, where two adolescent boys
+[56:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: were convicted of raping a drunk and unconscious 16-year-old girl at a party.
+[56:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The boys were popular high school football players
+[56:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and a number of kids shared pictures and video on social media
+[56:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of the passed out girl during the course of the night.
+[56:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: One video in particular, made the night of the rape
+[56:50] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: by a group of guys in Steubenville
+[56:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: showed just how normalized this kind of sexism and misogyny have become
+[56:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in a lot of male peer cultures.
+[57:02] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: about manhood, the more likely they are to be homophobic.
+[57:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: For this guy and his friends, who had just witnessed or heard what had happened
+[57:05] NEWS_CLIP_01: Thousands of marchers hit the streets of New York to protest a string of attacks
+[57:07] NEWS_CLIP_01: and weren't even sure if the young woman was alive
+[57:09] NEWS_CLIP_01: the whole thing was an occasion to bond and get some laughs with their buddies.
+[57:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: As sick as this seems, this case is just another example
+[57:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of something that sexual assault researchers have been saying
+[57:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: for a long time. It doesn't matter  whether it's at a party in middle America
+[57:34] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: on a bus in New Delhi ...
+[57:36] NEWS_CLIP_01: In India, the young woman, gang-raped on a New Delhi bus, has died
+[57:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ... Or, even more brazenly in the public space of Tahrir Square in Cairo, Egypt
+[57:44] INTERVIEWEE_34: 
+[57:45] INTERVIEWEE_34: gang rape is often an expression of a twisted kind of group ritual
+[57:48] INTERVIEWEE_34: in male culture in which otherwise "regular" guys perform for
+[57:51] INTERVIEWEE_34: and bond with each other by dehumanizing and abusing women
+[57:55] INTERVIEWEE_34: all in order to prove to their friends that they're real men.
+[57:59] INTERVIEWEE_34: Other research has found that the more invested guys are in traditional ideas
+[58:09] INTERVIEWEE_34: on gay men, including a murder.
+[58:11] INTERVIEWEE_34: Marchers chanted and carried signs, in memory of 32-year-old Mark Carson
+[58:15] INTERVIEWEE_34: who was shot and killed over the weekend.
+[58:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The troubling rise in violent attacks on gay people demonstrates
+[58:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: how way too many men, of all racial and ethnic backgrounds,
+[58:22] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: take it upon themselves to serve as gender cops.
+[58:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Running through all of this is a stunning lack of empathy for anybody
+[58:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who isn't part of the boys club.
+[58:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: This lack of empathy was on full and disturbing display a few years back
+[58:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: when news broke that homeless people around the country were being
+[58:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: brutally attacked by groups of young men.
+[58:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Here again, the narrative was familiar.
+[58:40] INTERVIEWEE_35: Thomas, was that you in the video tape?
+[58:42] INTERVIEWEE_35: Why would you beat up homeless people?
+[58:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: A bunch of seemingly normal young men somehow convinced themselves
+[58:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: it would be a good idea, and a good time
+[58:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to go out and beat up defenseless homeless men.
+[58:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Chris had brought up a 2x4 with a nail through it
+[58:56] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and hit the guy in the top of the head with it.
+[58:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: With the nail?
+[59:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: With the nail.
+[59:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Why did you do all this?
+[59:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ...I guess for fun.
+[59:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: What became clear later in interviews with some of the young men
+[59:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who were convicted of murder for these attacks
+[59:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: was that the pain they inflicted on these men mattered a lot less at the time
+[59:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: than the importance of having fun with the boys and bonding with their friends.
+[59:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: When a 60 Minutes piece revealed that a lot of these cases were directly
+[59:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: connected to a video series called "Bumfights,"
+[59:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: one of the most shocking things, again, was just how normal and funny
+[59:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: it all seemed to the producer of these videos, when questioned by Ed Bradley.
+[59:37] INTERVIEWEE_36: We showed this to McPherson.
+[59:42] INTERVIEWEE_36: How do you defend that?
+[59:44] INTERVIEWEE_37: It's a skit.
+[59:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It was like he had no idea what all the fuss was about.
+[59:48] INTERVIEWEE_36: You're sneaking up on them while they're asleep and assaulting them.
+[59:51] INTERVIEWEE_36: It doesn't look like a skit.
+[59:52] INTERVIEWEE_36: It doesn't say, "Hey, this is staged, this is acted."
+[59:55] INTERVIEWEE_37: Oh no, no, no. I'm not saying it's staged.
+[59:58] INTERVIEWEE_37: I'm saying that just the way it's set up …
+[01:00:00] INTERVIEWEE_37: it's, I don't know...
+[01:00:03] INTERVIEWEE_37: I mean, the Bum Hunter is not an easy thing to defend but…
+[01:00:08] INTERVIEWEE_36: ...But you're defending it.
+[01:00:09] INTERVIEWEE_37: Well, I'm trying to. It's just hard to make sense of things
+[01:00:11] INTERVIEWEE_37: for the deaths of homeless people.
+[01:00:12] INTERVIEWEE_37: when they're just so absurd. I mean, it's just so absurd.
+[01:00:15] INTERVIEWEE_37: These guys tying up homeless people, you know
+[01:00:17] INTERVIEWEE_37: and we're trying to defend the notion that we're responsible
+[01:00:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: As easy as it is to vilify this one guy, and deservedly so
+[01:00:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: this producer made millions of dollars selling copies of these DVDs
+[01:00:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to a willing audience of young men.
+[01:00:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Bum fights!
+[01:00:34] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The key here with all of this
+[01:00:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: is that this isn't just about deviant individuals.
+[01:00:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It's about the much more disturbing possibility that our social norms
+[01:00:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: about manhood are implicated as well.
+[01:00:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And it's about how men too often turn to violence out of fear
+[01:00:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that they don't measure up to our rigid cultural codes of manhood.
+[01:00:50] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In his fascinating study of violence
+[01:00:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the psychiatrist James Gilligan interviewed hundreds of violent criminals
+[01:00:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in American prisons and found that the single most powerful reason
+[01:00:58] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: they turned to violence was because they felt shamed, humiliated
+[01:01:02] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: or disrespected as men.
+[01:01:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The more time I spent with him, Gilligan writes about one of the
+[01:01:07] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: hundreds of violent criminals he has interviewed over the course
+[01:01:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of his research, "The clearer it became that his character served as a defense
+[01:01:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: against the threat of being treated with scorn and disrespect
+[01:01:16] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of being perceived as a weakling, not a real man,
+[01:01:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: someone who could be laughed at."
+[01:01:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We may not hear about it much in mainstream coverage of violence
+[01:01:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: but again and again we've seen exactly this dynamic:
+[01:01:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: young men using violence to overcome the shame of not being seen
+[01:01:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and respected as real men.
+[01:01:31] NEWS_CLIP_03: 16-year-old Luke Woodham entered the commons area of Pearl High
+[01:01:34] NEWS_CLIP_03: and fired off several shots.
+[01:01:36] NEWS_CLIP_01: Woodham opened fire at Pearl High School, killing two students.
+[01:01:40] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Consider Luke Woodham, who carried out a school shooting
+[01:01:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in Pearl, Mississippi in the late 1990s.
+[01:01:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Woodham wrote a letter before he went on his rampage
+[01:01:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: explaining himself this way:
+[01:02:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Look at the Boston Marathon bombing.
+[01:02:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The mainstream discussion focused on the religious motivations of the bombers.
+[01:02:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But what was also clearly at work here also was the fact that the bombing
+[01:02:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: was masterminded by a young man in his twenties. a former boxer
+[01:02:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: whose life hadn't turned out like he had planned
+[01:02:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and who found in jihadist teachings a rationale for committing
+[01:02:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: an act of redemptive violence.
+[01:02:31] NEWS_CLIP_03: Just minutes after firing two fatal shots at the Virginia Tech dormitory on Monday
+[01:02:36] NEWS_CLIP_03: Cho Seung-Hui turned to his own dorm room and made the final preparations
+[01:02:40] NEWS_CLIP_03: to mail what appears to be a video confession.
+[01:02:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Or consider Seung-Hui Cho, who committed one of the worst mass shootings
+[01:02:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in American history when he went on a shooting spree
+[01:02:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: at Virginia Tech university in 2007, killing 32 people.
+[01:02:53] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Cho was a socially isolated, troubled young man
+[01:02:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: with a history of mental health problems
+[01:02:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who had clearly bought into a cultural narrative
+[01:02:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that says the way to reclaim manhood is through projecting an image
+[01:03:02] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of menace and toughness
+[01:03:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: instilling fear in others and using violence.
+[01:03:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Before he committed the Virginia Tech massacre
+[01:03:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: he wrote, produced, and starred in his own video
+[01:03:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: demonstrating how thoroughly he had bought into this Hollywood script.
+[01:03:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Cho isn't the only mass murderer whose violent actions
+[01:03:37] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: enabled him to rewrite the script of his life
+[01:03:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in order to place himself back in the manly starring role.
+[01:03:44] EYEWITNESS_01: All you hear is, like firecrackers... And then I looked out the window
+[01:03:49] EYEWITNESS_01: and there's a kid with a trench coat and a shotgun
+[01:03:52] EYEWITNESS_01: throwing pipe bombs in the parking lot.
+[01:03:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The Columbine killers, Eric Harris and Dylan Klebold, left behind written diaries
+[01:03:58] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that provide insight into how their murder of 12 classmates and a teacher
+[01:04:02] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: was part of a conscious strategy to settle scores.
+[01:04:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In his journal, Klebold writes that he and Harris will take revenge on society.
+[01:04:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And toward the end of his own journal, Harris writes
+[01:04:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Everyone is always making fun of me because of how I look,
+[01:04:14] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: how fucking weak I am and shit, well I will get you all back.
+[01:04:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I hate people, and they better fucking fear me if they know what's good for 'em.
+[01:04:22] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Nothing can excuse the pathetic and cowardly way men like these use violence
+[01:04:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and destroy the lives of innocent people, to make some kind of a statement.
+[01:04:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But we're kidding ourselves if we think these killings will stop
+[01:04:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: unless and until we identify and transform
+[01:04:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the larger cultural belief systems that underlie them.
+[01:04:39] NEWS_CLIP_03: From the mass shooting in Tucson aimed at former congresswoman Gabriel Giffords
+[01:04:43] NEWS_CLIP_03: to the Colorado movie theater massacre
+[01:04:45] NEWS_CLIP_03: killers in many recent mass killings suffered mental illness.
+[01:04:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Of course, there's no question that mental illness has
+[01:04:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: played a role in a lot of rampage killings and mass shootings.
+[01:04:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But what never seems to get discussed is why it is that somewhere around 98%
+[01:04:58] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of school shootings and rampage killings have been committed by men
+[01:05:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: even though there are plenty of young women who suffer from mental illness as well.
+[01:05:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: What this tells us is that violence can't be reduced to mental illness on its own.
+[01:05:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Especially since the vast majority of mentally ill people are not violent at all.
+[01:05:14] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The bottom line is that even young men who are mentally ill live and operate
+[01:05:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: within a culture that has normalized violent masculinity
+[01:05:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and defined manhood in exceedingly narrow ways.
+[01:05:30] NEWS_CLIP_03: It's been widely reported school-shooter Adam Lanza
+[01:05:32] NEWS_CLIP_03: suffered some kind of personality disorder.
+[01:05:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The Sandy Hook Elementary School shooter, Adam Lanza, may have been mentally ill
+[01:05:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: but he played out a familiar script.
+[01:05:41] INTERVIEWEE_06: He was bullied severely, brutally bullied, when he was in elementary school at Sandy Hook.
+[01:05:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: By all accounts he was a socially awkward boy who didn't fit in
+[01:05:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and appears to have been mercilessly bullied.
+[01:05:53] INTERVIEWEE_38: That's a clip of the video game "Call of Duty."
+[01:05:55] INTERVIEWEE_38: It's also the game that Adam Lanza used to play.
+[01:05:58] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: He spent countless hours playing war-themed video games.
+[01:06:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: He developed a revenge fantasy, secured firearms
+[01:06:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and then killed his own mother before carrying out
+[01:06:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: one of the most brutal and ruthless mass killings in American history.
+[01:06:11] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: He surely knew that slaughtering schoolchildren would send an unmistakable message
+[01:06:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to the world that he was in terrible pain.
+[01:06:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Rather than simply kill himself, he would make others suffer along with him
+[01:06:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and, in his own delusional and twisted way,
+[01:06:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: he would recapture the sense of respect that seemed to have eluded him his whole life.
+[01:06:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The children of Newtown -- like so many other innocent victims of men's violence
+[01:06:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: -- became theatrical props in the performance of an aggrieved, angry,
+[01:06:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and likely self-hating young man who absorbed all the wrong lessons
+[01:06:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: about what it means to be tough, strong man from the world around him.
+[01:06:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: As uncomfortable as it may be for us to think about
+[01:06:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Lanza as anything but an unhinged lunatic
+[01:06:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: we need to confront the larger day-to-day cultural belief system about manhood
+[01:06:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that's a normal part of young men's lives.
+[01:06:56] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Just take a look at the ad campaign the Bushmaster Firearms company
+[01:06:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ran prior to the Newtown massacre for the very AR-15-style semi-automatic rifle
+[01:07:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Lanza used during his killing spree.
+[01:07:10] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The takeaway from this isn't that ads like these made Adam Lanza violent.
+[01:07:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: That's way too reductive and simplistic.
+[01:07:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Individual ads, or movies, or video games, don't make guys go out and shoot people.
+[01:07:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The real takeaway is that we live in a culture that connects manhood to guns
+[01:07:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and a willingness to use violence at the deepest levels of men's identity
+[01:07:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: telling young men that violence, far from being the last resort for resolving disputes
+[01:07:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: is the first, and preferred, method of proving you're a man,
+[01:07:34] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: especially when you're feeling your masculinity is under attack.
+[01:07:37] NEWS_CLIP_03: The shooter was 36-year-old Andrew Engeldinger
+[01:07:40] NEWS_CLIP_03: an employee of the small company who had recently lost his job.
+[01:07:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And this isn't just about young men.
+[01:07:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Again and again we've seen the same thing with older men
+[01:07:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who commit mass shootings.
+[01:07:50] NEWS_CLIP_01: A troubled ex-husband is under arrest in a Southern California
+[01:07:52] NEWS_CLIP_01: hair salon shooting that left 8 people dead.
+[01:07:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In case after case, these men have faced grief
+[01:07:58] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: bitter disappointment and feelings of failure.
+[01:08:00] NEWS_CLIP_03: The shooter, Richard Farley, was obsessed with a female colleague.
+[01:08:04] NEWS_CLIP_03: He had also been laid off.
+[01:08:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: They are either chronically unemployed, have been left by their wives or girlfriends,
+[01:08:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: been fired from their jobs, or have suffered some other kind of serious blow
+[01:08:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to their self-worth as men.
+[01:08:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: What all of this amounts to is that our violence problem
+[01:08:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: seems to be a lot less about lone wolves and monsters
+[01:08:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who fail to conform to society's norms than it is about too many men
+[01:08:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in a sense, over-conforming to our norms and ideals of manhood
+[01:08:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: out of fear of not being seen as men.
+[01:08:29] CROWD JOSTLING, CHEERING: 
+[01:08:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: When we talk about men's violence and dominant ideals of violent masculinity
+[01:08:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: there's a temptation to frame things in terms of the damage men do to others.
+[01:08:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But we need to look also at the devastating harm these norms do to men themselves.
+[01:08:53] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: This is certainly true of gun violence.
+[01:08:56] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Every year in this country over 30,000 people are killed by guns,
+[01:08:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: something like 85 per day.
+[01:09:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The vast majority of these victims are men -- approximately 86 percent.
+[01:09:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But while we're used to thinking about gun violence
+[01:09:07] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in terms of mass shootings and urban crime
+[01:09:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: we really don't talk a lot about how most gun deaths
+[01:09:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: are the result of men and boys shooting themselves.
+[01:09:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Suicide -- which is really violence turned inward --
+[01:09:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: accounts for close to two-thirds of all gun deaths.
+[01:09:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The vast majority of people who kill themselves with a gun are men.
+[01:09:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And white men comprise over 80 percent of these firearm suicides.
+[01:09:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Violence doesn't just leave physical scars, it also leaves emotional scars.
+[01:09:32] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Look at the cost to African-American boys and young men of living in and around violence.
+[01:09:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Violence is the leading cause of death of African-American men between the ages of 15 and 30
+[01:09:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: but they also have much higher than average rates of depression, school dropout
+[01:09:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: mental health problems linked to perpetual stress, substance abuse.
+[01:09:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And just look at the terrible toll violence has taken on the psyches of men and women
+[01:09:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who serve in combat zones.
+[01:09:53] NEWS_CLIP_03: In the five years between 2006 and 2009, more than 1,100 members
+[01:09:53] NEWS_CLIP_03: of the armed services took their own lives.
+[01:10:01] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Something like half of the U.S. service members who have done tours
+[01:10:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in Iraq and Afghanistan have symptoms of PTSD.
+[01:10:07] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And we see the same thing when it comes to Vietnam.
+[01:10:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In addition to the 58,000 American men who lost their lives there,
+[01:10:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and the more than 300,000 who were wounded,
+[01:10:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: millions of men who came home from that war showed signs of trauma:
+[01:10:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: depression, flashbacks, alcohol and drug problems.
+[01:10:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: They also had to contend with a masculine ethos that told men to suck it up and deal with it.
+[01:10:25] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In fact, many more Vietnam veterans have committed suicide since the war ended
+[01:10:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: than were killed during the war itself.
+[01:10:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In her landmark study "Trauma and Recovery,"
+[01:10:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Judith Herman draws a powerful connection between the experience of male combat veterans
+[01:10:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and women who are the victims of domestic and sexual violence.
+[01:10:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The sources of the violence and their context might vary
+[01:10:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: but the unifying theme is that human beings -- young and old, women and men --
+[01:10:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: suffer when their physical and sexual boundaries are violated.
+[01:10:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But in the case of men, this pain gets compounded by a cultural belief system
+[01:10:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that equates manhood with invulnerability
+[01:10:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and ridicules and shames men who admit to being in emotional pain.
+[01:11:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In his classic work, "I Don't Want to Talk About It,"
+[01:11:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the therapist Terry Real identifies the widespread phenomenon
+[01:11:07] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of what he calls "covert depression," a condition that roughly three-quarters
+[01:11:11] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of American men suffer in silence out of fear of seeming like less than a real man.
+[01:11:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: For many of these men, childhood trauma and other experiences of violence play a role
+[01:11:18] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in this depression, which then can affect not only their ability
+[01:11:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to take care of themselves physically and emotionally
+[01:11:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: but also hinder their ability to sustain healthy relationships in adult life.
+[01:11:28] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Despite predictable arguments that equate
+[01:11:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: trying to understand or prevent violence with weakness
+[01:11:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: the bottom line is that we have to have the strength to ask these kinds of questions
+[01:11:36] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: if we want to move beyond the never-ending cycle of violence.
+[01:11:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And that starts with examining the dominant stories
+[01:11:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: we tell ourselves as a culture about manhood and violence
+[01:11:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and demanding more honest and accurate representations
+[01:11:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of the personal and societal consequences of violent masculinity.
+[01:11:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: In recent years, we've seen important examples of just this…
+[01:12:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: War movies like "Saving Private Ryan,"
+[01:12:02] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: showed not only the awe-inspiring courage of the men who stormed the beaches in Normandy
+[01:12:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and fought totalitarianism during World War II.
+[01:12:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The film also captured the panic, anxiety, and sheer terror
+[01:12:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: of the young men who experienced that war.
+[01:12:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: There's too many locks, I can't do it, I can't get it off,
+[01:12:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I'm sorry, okay. You understand, I'm sorry.
+[01:12:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: More recently, the Hurt Locker explored another devastating effect of battlefield trauma…
+[01:12:25] INTERVIEWEE_39: Get down, now!
+[01:12:27] EXPLOSIONS: 
+[01:12:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ...showing how the intensity and violence of war make it difficult for many veterans
+[01:12:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: to adjust back to civilian life.
+[01:12:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And we saw the same kind of honest and tragic portrayal of dominant masculinity
+[01:12:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in the film "The Wrestler,"
+[01:12:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: starring Mickey Rourke as an over-the-hill professional wrestler
+[01:12:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: whose body was ravaged by physical injury
+[01:12:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and who was so emotionally damaged by violence that he couldn't imagine
+[01:12:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: life outside the glamor of the arena.
+[01:12:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: My heart's still ticking...
+[01:12:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Yeah, but the doctor said…
+[01:13:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Listen, I know what I'm doing. The only place I get hurt is out there.
+[01:13:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: The world don't give a shit about me.
+[01:13:09] ANNOUNCER AND CHEERING CROWD IN BACKGROUND: 
+[01:13:13] ANNOUNCER AND CHEERING CROWD IN BACKGROUND: You hear them? This is where I belong.
+[01:13:19] ANNOUNCER AND CHEERING CROWD IN BACKGROUND: I gotta go.
+[01:13:24] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Similarly, intensely realistic shows like HBO's "The Wire,"
+[01:13:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: have refused to glamorize urban street life and violent crime
+[01:13:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: directly confronting the costs young men of color too often pay for their investment
+[01:13:34] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in the idea that respect comes only at the business end of a Glock.
+[01:13:38] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: You're wetting your fucking pants like you're a little boy. Be a man!
+[01:13:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Stand up like a mother fucking man!
+[01:13:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: You're my niggas, yo.
+[01:13:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: You said you was a fucking man, stand up straight.
+[01:13:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It's us, man.
+[01:13:56] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Do it, Goddamn it!
+[01:13:57] UNKNOWN_02: 
+[01:14:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And we've seen emotionally complexshows like "The Sopranos,"
+[01:14:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: which centered on brutal mob boss Tony Soprano
+[01:14:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: a ruthless killer who intimidated everyone around him...
+[01:14:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Why don't you just calm down? -- I'm perfectly calm.
+[01:14:11] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We can talk about whatever's bothering you.
+[01:14:14] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Tony, this is crazy!
+[01:14:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ...but also portrayed him as a deeply troubled man who had recurring panic attacks
+[01:14:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and who had to battle his own anxiety and self-doubt
+[01:14:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: when he turned to a woman therapist for help.
+[01:14:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Whatever happened to Gary Cooper, the strong silent type?
+[01:14:29] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: That was an American.
+[01:14:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: He wasn't in touch with his feelings, he just did what he had to do.
+[01:14:33] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: See what they didn't know was that once they got Gary Cooper in touch with his feelings
+[01:14:37] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: that they wouldn't be able to shut him up!
+[01:14:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And then it's dysfunction-this" and "dysfunction-that" and "dysfunction vaffancul!"
+[01:14:42] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And then there's Good Will Hunting, which catapulted Matt Damon to fame
+[01:14:45] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: with Damon playing the role of an intellectually gifted working-class tough guy
+[01:14:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who relieves the trauma of his abusive childhood by hardening himself to the world
+[01:14:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and fighting anyone who challenges him...
+[01:14:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Carmine, it's me, Will. Remember? We went to Kindergarten together…
+[01:14:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: ...and who then, with the support of a woman who loves him and a therapist he comes to trust
+[01:15:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: finds the courage to battle through his defenses
+[01:15:05] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: look inside himself and let go of his bottled-up rage.
+[01:15:09] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It's not your fault.
+[01:15:11] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: I know.
+[01:15:12] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It's not your fault.
+[01:15:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Alright.
+[01:15:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It's not your fault.
+[01:15:19] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It's not your fault.
+[01:15:21] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Don't fuck with me...
+[01:15:26] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It's not your fault.
+[01:15:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Don't fuck with me, alright! Don't fuck with me, Sean, not you…
+[01:15:30] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: It's not your fault.
+[01:15:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: This is an incredibly powerful illustration of the kind of courage
+[01:15:41] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: it takes for men to break through the defensive shield of the tough guise
+[01:15:44] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and become better men.
+[01:15:48] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: After the Newtown massacre, there was a lot of tough-guy talk
+[01:15:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: about how the cure for our violence problem is yet more violence.
+[01:15:54] ADVOCATE_PROGUN_02: The only thing that stops a bad guy with a gun is a good guy with a gun.
+[01:16:02] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But there were other men who spoke in the wake of Newtown as well.
+[01:16:04] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Men like Neil Heslin, whose six-year-old son,  Jesse
+[01:16:07] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: was among the 20 children gunned down that tragic day.
+[01:16:10] BEREAVED_ADVOCATE_REFORM_01: He was my son, he was my buddy, he was my best friend.
+[01:16:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: What was so important about his testimony
+[01:16:15] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: was that he went beyond expressing grief for his son
+[01:16:17] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and directly challenged the culture of violence.
+[01:16:20] BEREAVED_ADVOCATE_REFORM_01: We're not living in the Wild West. We're not a third-world nation.
+[01:16:25] BEREAVED_ADVOCATE_REFORM_01: We have the strongest military in the world.
+[01:16:28] BEREAVED_ADVOCATE_REFORM_01: We don't need to defend our homes with weapons like that.
+[01:16:37] BEREAVED_ADVOCATE_REFORM_01: I just hope that everybody in this room, as I've said before, can support change.
+[01:16:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: This was an act of courage in a culture that so often romanticizes violent masculinity
+[01:16:47] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and silences the voices of men who don't buy into these myths.
+[01:16:51] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Too often, we define masculine strength by who can blow away the most people,
+[01:16:55] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who can flex the most muscle,
+[01:16:57] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who can impose their will and inflict the most damage.
+[01:16:59] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: But this cheapens the real definition of strength and toughness.
+[01:17:03] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We respect the toughness of firefighters who rush into burning buildings
+[01:17:06] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: when others are rushing out
+[01:17:08] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: police officers and other first responders who put their lives on the line
+[01:17:11] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and our men and women in the armed services who show courage under fire
+[01:17:13] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: not because they're out to prove something, but because they steer themselves
+[01:17:16] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: in the face of danger and face down their fears in service to others.
+[01:17:20] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: For the same reason, we should respect the toughness and strength of men
+[01:17:23] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who challenge the myth that being a real man requires putting up a false front
+[01:17:27] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: disrespecting others, and engaging in violent and self-destructive behavior.
+[01:17:31] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: We should respect all the men out there who aren't threatened by women's equality
+[01:17:35] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who have the confidence to listen to women, learn from them, and grow in the process.
+[01:17:39] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Who refuse to engage in homophobic abuse and bullying to prove they're one of the guys;
+[01:17:43] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: who show empathy for others rather than joining in or remaining silent
+[01:17:46] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: when other guys prop themselves up at the expense of others
+[01:17:49] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and who meet change and difference with a willingness to make change
+[01:17:52] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: and a difference, themselves.
+[01:17:54] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: Strength is about adapting to change
+[01:17:56] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: not about retreating from it and lashing back with violence out of fear.
+[01:18:00] NARRATOR_INTERVIEWER_ADVOCATE_REFORM_PROFESSIONAL_01: And it's high time we had a definition of manhood capable of meeting that challenge.

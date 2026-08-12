@@ -1,0 +1,25 @@
+# Large/raw data - not tracked
+raw_audio/
+delete/
+raw_transcripts/in_progress
+input/
+output/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Transcripts / intermediate data (uncomment any of these if you don't want
+# them in the repo either - large or frequently-regenerated files are
+# usually better left out of git)
+# transcripts/
+# transcripts_labeled/
+# input/
+# output/
+# visualizations/
+
+# Environment / secrets
+.env

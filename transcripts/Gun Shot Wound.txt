@@ -1,0 +1,583 @@
+[00:12] SPEAKER_07: Most of us think we understand what happens when you shoot somebody.
+[00:17] SPEAKER_07: And I had no idea until I started working here, the devastation that is wrought by such a small piece of metal.
+[00:25] SPEAKER_07: And I've seen the smallest caliber bullet destroy flesh and bones and dreams.
+[00:35] SPEAKER_09: Too many of our young people are either dying or going to jail.
+[00:41] SPEAKER_08: Society, whole society is under this delusion that it's okay.
+[00:52] SPEAKER_09: for 33,000 innocent citizens to die for absolutely no reason.
+[01:00] SPEAKER_09: I've seen assassinations and I've seen mass shootings and dead children.
+[01:09] SPEAKER_02: but it's the mass shootings, which are terrible, don't get me wrong, but it's those mass shootings that really do get all of the attention.
+[01:20] SPEAKER_02: And I think the rub for the trauma surgeon in a large city is that this is what we're seeing all the time.
+[01:28] SPEAKER_02: And where is that outrage?
+[01:33] SPEAKER_10: This is a public health crisis.
+[01:42] UNKNOWN_SPEAKER: I don't know.
+[01:58] SPEAKER_09: When it comes to gunshot victims, I'm very proud of this trauma center.
+[02:02] SPEAKER_09: I mean, literally, if you watch us, we tilt the hospital up on its side and try to pour lifeblood into a dying gunshot victim.
+[02:12] SPEAKER_09: I mean, it's a remarkable thing to watch in terms of society trying to save a life.
+[02:17] SPEAKER_21: Stay with me.
+[02:18] SPEAKER_21: Stay with me.
+[02:21] SPEAKER_17: Jacoby Medical Center Emergency Department.
+[02:22] SPEAKER_17: Go ahead.
+[02:23] SPEAKER_21: This is Empress EMS.
+[02:24] SPEAKER_21: I got a 34-year-old male.
+[02:26] SPEAKER_21: Multiple GSWs, 90 over 12 respirations at 35.
+[02:30] SPEAKER_21: ETA is four minutes out.
+[02:38] SPEAKER_17: This is the adult DD.
+[02:39] SPEAKER_17: We have a level one trauma coming in.
+[02:41] SPEAKER_17: We have a 34-year-old male with multiple gunshot wounds.
+[02:45] SPEAKER_17: Blood pressure is 80 over 40.
+[02:47] SPEAKER_17: Heart rate is 110.
+[02:49] SPEAKER_17: Trauma, please respond.
+[02:56] SPEAKER_16: Okay everyone, we have a pre-notification for a 34-year-old male with multiple GSWs to the neck and chest.
+[03:12] SPEAKER_16: The patient is hypotensive and tachycardic.
+[03:14] SPEAKER_16: Everyone please introduce yourselves.
+[03:17] SPEAKER_08: Mike, survey resident.
+[03:18] SPEAKER_08: Tar and blood runner and C-spine.
+[03:23] SPEAKER_16: I'm Heidi, primary nurse.
+[03:24] SPEAKER_16: Naomi, trauma team leader.
+[03:25] SPEAKER_16: I'm Brenda.
+[03:26] SPEAKER_16: Everyone knows their assigned roles.
+[03:29] SPEAKER_16: We have a plan for what we're going to do.
+[03:30] SPEAKER_16: We'll notify the operating room if we have to go upstairs.
+[03:33] SPEAKER_16: Patients, hypotensive.
+[03:34] SPEAKER_16: Can you get the Belmont ready to transfuse two units?
+[03:36] SPEAKER_09: Let's hear our vital signs.
+[03:38] SPEAKER_09: Check our anxiety.
+[03:39] SPEAKER_16: We have vitals 80 over 40, heart rate of 110.
+[03:42] SPEAKER_09: Mike, give us a breath sound.
+[03:43] SPEAKER_09: Mike, you going with sucks?
+[03:45] SPEAKER_08: I have no sounds on the left side.
+[03:46] SPEAKER_03: I have no sounds on the right.
+[03:48] SPEAKER_12: Naomi, what am I looking at?
+[03:49] SPEAKER_16: Our chest x-ray shows that the patient has the resolution of the pneumothorax on the right side.
+[03:54] SPEAKER_12: So, we got a bullet?
+[03:55] SPEAKER_16: We don't see a bullet.
+[03:56] SPEAKER_12: Chop, chop.
+[03:57] SPEAKER_16: Go, go.
+[03:57] SPEAKER_16: Let's get ready to log roll the patient again.
+[03:59] SPEAKER_09: What's the status of the operating room?
+[04:00] SPEAKER_09: From the trauma surgeon's perspective, bullets were all about real estate.
+[04:03] SPEAKER_09: Location, location, location.
+[04:05] SPEAKER_16: Our pelvic x-ray shows that we have a projectile in the left pelvis.
+[04:08] SPEAKER_16: That means that our... All right, this is temperament.
+[04:10] SPEAKER_09: We're heading up for a neck exploration and immediately exploratory laparotomy.
+[04:13] SPEAKER_09: Let's make sure that all of our lines are secure.
+[04:17] SPEAKER_16: I want to shoot one more x-ray of the neck before we go to see if there's any further...
+[04:20] SPEAKER_09: Negative.
+[04:21] SPEAKER_09: Negative.
+[04:21] SPEAKER_09: Let's go.
+[04:22] SPEAKER_16: Okay.
+[04:22] SPEAKER_09: Checklist complete.
+[04:23] SPEAKER_09: Let's roll.
+[04:23] SPEAKER_09: All right.
+[04:24] SPEAKER_08: Let's take them off the bed and clear the way.
+[04:28] SPEAKER_09: One of the reasons why we don't have 50,000 dead or 60,000 dead in America is that we have organized a wonderful trauma system.
+[04:38] SPEAKER_09: And we've been honing it for years.
+[04:42] SPEAKER_12: All right, everybody, I just want to thank you guys all for participating in today's simulation.
+[04:45] SPEAKER_12: It's obviously an ongoing effort to keep on practicing, taking care of these really sick patients.
+[04:50] SPEAKER_12: I just want to go over a proper brief on exactly what happened in the scenario and how you guys all thought you guys went.
+[04:58] SPEAKER_09: The first layer is you have to have a trauma system, you have to have an EMS system.
+[05:02] SPEAKER_09: So things have to be in place in terms of the medicine long before someone takes a bullet.
+[05:07] SPEAKER_09: The more of this we do, the better will we be in the real world.
+[05:12] SPEAKER_18: Whatever walks into the door, we're all gonna band together and we're all gonna get it done.
+[05:24] SPEAKER_09: In 2009, I was working late.
+[05:29] SPEAKER_09: It was the evening.
+[05:32] SPEAKER_09: And a call came over the radio that we had a 92-year-old woman that had been shot.
+[05:37] SPEAKER_09: It was a level one activation.
+[05:39] SPEAKER_09: She was on the way to our trauma center.
+[05:43] SPEAKER_09: And she comes in.
+[05:44] SPEAKER_09: She was this really elegant elderly woman.
+[05:48] SPEAKER_09: You know, she was your grandmother.
+[05:52] SPEAKER_09: And the story is that she was home in her living room.
+[05:57] SPEAKER_09: Gang members were having a fight.
+[06:00] SPEAKER_09: And a stray bullet had gone through her living room or bedroom window as she was preparing dinner.
+[06:08] SPEAKER_09: So I began the operation.
+[06:12] SPEAKER_09: And, you know, as predicted, the bullet had come across the midline and it had injured everything that's important for life.
+[06:22] SPEAKER_09: But we tried.
+[06:22] SPEAKER_09: We dumped the hospital into her, blood and people, and we tried.
+[06:33] SPEAKER_09: So it's done, you know.
+[06:36] SPEAKER_09: Her lifeblood is poured out all over the floor and all over me, and her heart stops, and we try to get her back, and I look up at the clock and pronounce her dead.
+[06:50] SPEAKER_09: And then I lose it.
+[06:53] SPEAKER_09: I just sat down right there, covered in her blood, and I started to cry.
+[06:57] SPEAKER_09: Man, did I cry.
+[07:00] SPEAKER_09: Never happened to me before.
+[07:01] SPEAKER_09: And Sadie Mitchell was just...
+[07:05] SPEAKER_09: I don't know, it was just too much.
+[07:06] SPEAKER_09: It just said to me that this country had an illness that maybe we were just never gonna get better from.
+[07:14] SPEAKER_09: It just epitomized how messed up this thing was, this scourge of gun violence.
+[07:35] SPEAKER_07: Temple has the dubious distinction of treating the most gunshot victims in the state of Pennsylvania.
+[07:50] SPEAKER_06: What's this?
+[07:51] SPEAKER_02: Were you shot before ever, sir?
+[07:56] SPEAKER_08: A year ago, yes.
+[08:01] SPEAKER_02: In the trauma bay, there are no good guys or bad guys.
+[08:05] SPEAKER_02: They're all patients that have sustained gunshot wounds that we need to take care of.
+[08:11] SPEAKER_02: And over the years, there's no doubt that every patient that hits the trauma bay has somebody that loves them.
+[08:18] SPEAKER_02: So I never pass any judgment.
+[08:21] SPEAKER_02: I never want to know anything at all about the circumstances of the shooting.
+[08:25] SPEAKER_02: Not at all.
+[08:28] SPEAKER_02: I quickly look at the patient and look at the heart rate.
+[08:31] SPEAKER_02: Heart rate can tell you everything.
+[08:33] SPEAKER_02: And a good trauma surgeon will tell you that the color of a patient's feet can tell you everything.
+[08:39] SPEAKER_02: Because if they're really pale, then that's a terrible prognostic indicator.
+[08:45] SPEAKER_02: That means that they're bleeding terribly.
+[08:52] SPEAKER_02: I think one of the biggest misunderstandings in kind of the lay non-medical population is, did you remove the bullet?
+[09:03] SPEAKER_02: You know, really what our jobs are is to fix all the damage that the bullets do.
+[09:10] SPEAKER_02: You know, whether it's stop the bleeding, whether it's take out the organs.
+[09:15] SPEAKER_02: It's the fixing of those organs.
+[09:18] SPEAKER_02: It's not necessarily looking for the bullets and removing them.
+[09:22] SPEAKER_02: It's just trying to catch up to what, you know, the destruction that the bullets have done.
+[09:32] SPEAKER_02: And what we have seen over the years from 1993 to 2019 is that the caliber of the bullet is so much larger and the kinetic energy and the destruction that these bullets can do are so great.
+[09:49] SPEAKER_02: And, you know, patients aren't shot just once or twice or three times.
+[09:53] SPEAKER_02: You know, they're shot like 10 and 11 and 12 times and more.
+[09:58] SPEAKER_08: What's the meeting total?
+[10:03] SPEAKER_02: When you're in the operating room, particularly with a gunshot victim, and they have a multitude of injuries, it can really be a slugfest.
+[10:16] SPEAKER_02: That's how I feel in the operating room.
+[10:19] SPEAKER_02: You know, God, you know, way to go.
+[10:21] SPEAKER_02: You're a good trauma surgeon.
+[10:22] SPEAKER_02: The devil, you suck.
+[10:24] SPEAKER_02: You call yourself a trauma surgeon.
+[10:26] SPEAKER_02: What are you doing here?
+[10:27] SPEAKER_02: And I had really struggled for all those years to understand what that was all about.
+[10:33] SPEAKER_02: And that's exactly what it is.
+[10:35] SPEAKER_02: God and the devil on your shoulder.
+[10:51] SPEAKER_02: So we just finished the case, but we have another gunshot wound that's coming.
+[10:57] SPEAKER_02: Being brought in by police.
+[11:00] SPEAKER_02: We're done.
+[11:01] SPEAKER_11: Yep, we did good.
+[11:02] SPEAKER_02: We've got another gunshot wound coming.
+[11:04] SPEAKER_08: All right.
+[11:06] SPEAKER_02: He's going to CAT scan first.
+[11:09] SPEAKER_02: Not yet.
+[11:09] SPEAKER_08: We don't know yet.
+[11:11] SPEAKER_08: We don't...
+[11:12] SPEAKER_08: Okay, let's go.
+[11:19] SPEAKER_08: Okay.
+[11:24] SPEAKER_02: Shot.
+[11:26] SPEAKER_02: Two times in the right chest and once in the right neck, and the BBs are where he's shot.
+[11:34] SPEAKER_08: It looks like they've gotten shot.
+[11:36] SPEAKER_10: You know, pieces of shrapnel in there.
+[11:38] SPEAKER_02: Yeah, and the jugular is okay?
+[11:40] SPEAKER_10: Yeah.
+[11:40] SPEAKER_10: But yeah, the floor of his mouth doesn't look so.
+[11:44] SPEAKER_10: And there's shrapnel extending all the way up to his tongue.
+[11:46] SPEAKER_10: Okay.
+[11:47] SPEAKER_02: So... Is anything lodged in the palate or anything like that?
+[11:51] SPEAKER_10: Yeah, I mean, that's what, like, these little tiny guys.
+[11:53] SPEAKER_02: Yeah, but nothing larger?
+[11:54] SPEAKER_10: But nothing larger.
+[11:55] SPEAKER_10: I mean, I suspect it's... Was it...
+[11:58] SPEAKER_10: Like a buckshot or something?
+[11:59] SPEAKER_02: No, it was a big bullet.
+[12:00] SPEAKER_02: Oh, it was a big bullet.
+[12:01] SPEAKER_02: He has a big wound in the right neck.
+[12:03] SPEAKER_02: It's a large caliber.
+[12:04] SPEAKER_02: We have one hole.
+[12:05] SPEAKER_03: Right.
+[12:05] SPEAKER_03: And we're looking for a bullet.
+[12:07] SPEAKER_03: I think that's in his tongue.
+[12:11] SPEAKER_02: He was shot two times in his right thigh, two times in his right chest.
+[12:17] SPEAKER_02: It looks like both of those injuries were relatively superficial in that we don't think that there was any bones broken in the right thigh or any arteries or veins injured.
+[12:26] SPEAKER_02: In the right chest, we don't think that the bullets entered the chest, so we don't think that the lung was injured.
+[12:33] SPEAKER_02: He was also shot in the right neck, and the bullet looks like it may have lodged in his tongue.
+[12:41] SPEAKER_02: It's always very ironic because we sometimes say that these patients are lucky.
+[12:47] SPEAKER_02: I don't know how you could think that a patient that gets shot one, two, three, four, five times with a bullet in his neck, in his tongue is lucky, but that's what we say, that he's lucky.
+[13:02] SPEAKER_02: In the moment, it's all about taking care of the patient and the focus needs to be intense and you can't be distracted by anything.
+[13:11] SPEAKER_02: And then when the moment passes, you need to be distracted by everything because you can't walk away not feeling that what you've just participated in in some way is so wrong.
+[13:25] SPEAKER_02: You don't want to be taking care of patients who've suffered gunshot wounds.
+[13:31] SPEAKER_07: My name is Scott Charles.
+[13:32] SPEAKER_07: I'm the Trauma Outreach Coordinator, and I work with victims of gun violence, and that's essentially all I do.
+[13:37] SPEAKER_07: Out of curiosity, do any of you know somebody who's been shot with a show of hands?
+[13:41] SPEAKER_07: How many of you know somebody who's been shot?
+[13:44] SPEAKER_07: Do any of you live with somebody who's been shot?
+[13:47] SPEAKER_07: Okay.
+[13:48] SPEAKER_02: So the reason why Scott and I wanted to create a program like Cradle to Grave was we felt that we needed to do more, like preventing these patients from coming in.
+[14:00] SPEAKER_02: We saw it as an education in that who knows better what bullets do to bodies than those that work in a hospital.
+[14:08] SPEAKER_07: My job is not to freak you out, but we are going to have a candid conversation about gun violence.
+[14:13] SPEAKER_07: Is that cool?
+[14:14] SPEAKER_02: And we thought it was our responsibility to do that.
+[14:17] SPEAKER_02: If we weren't talking, then the students were seeing what was happening in movies or video games or TV, and that was not real at all.
+[14:27] SPEAKER_07: The goal of Cradle to Grave was to really humanize the experience of gun violence, to de-glamorize it in many ways.
+[14:39] SPEAKER_07: I want to introduce you to Dr. Amy Goldberg, who is the chair of surgery here.
+[14:45] SPEAKER_07: And so she's going to walk us through what she and her colleagues do in this space when she ends up with a gunshot victim.
+[14:51] SPEAKER_07: And we're going to talk about Lamont and all the things that were done in an effort to save his life.
+[14:56] SPEAKER_07: Lamont is gonna have a bullet wound right here.
+[14:59] SPEAKER_07: He's gonna have a bullet wound right there.
+[15:01] SPEAKER_07: He's gonna have a bullet wound right there.
+[15:02] SPEAKER_02: When Lamont came in, as Scott said, the first thing that we did was to make sure that we take off all of his clothes and everything so we can identify where the injuries are and we can start thinking about what has been injured.
+[15:13] SPEAKER_02: And when we first evaluate him, he's not breathing at all.
+[15:16] SPEAKER_02: And the first thing that we needed to do was...
+[15:19] SPEAKER_02: put a breathing tube in his mouth so that we were able to breathe for him.
+[15:23] SPEAKER_07: This issue of gun violence isn't really as much about living or dying as much as it is about suffering.
+[15:29] SPEAKER_07: And we find that, particularly when you talk about one of the things that leads to so much of the violence, the sense of being disrespected, the sense of shame that lies at the heart of so much of the violence that we see.
+[15:39] SPEAKER_07: The kids, after seeing the realities of being shot, or more importantly, pulling the trigger,
+[15:48] SPEAKER_07: they see violence as a less reasonable reaction to being disrespected.
+[15:52] SPEAKER_02: And what we did was we used our knife and we made an incision in his left chest where the heart is.
+[16:02] SPEAKER_07: Cradle to Grave is not a scared straight program.
+[16:04] SPEAKER_07: There's, you know, nobody raises their voices.
+[16:07] SPEAKER_07: It's just narrating a story that is sad, but it is unfortunately too often a reality of growing up in a city like Philadelphia.
+[16:16] SPEAKER_07: Since 2002, approximately 25,000 people have been shot in the city of Philadelphia.
+[16:21] SPEAKER_07: The number one weapon of choice is the nine millimeter.
+[16:25] SPEAKER_07: Somebody was shot every six and a half hours last year in Philadelphia.
+[16:31] SPEAKER_07: That 80% of people who get shot in Philadelphia actually survive being shot.
+[16:37] SPEAKER_07: Gun violence is contagious.
+[16:39] SPEAKER_07: It's like a disease.
+[16:41] SPEAKER_07: When somebody gets infected with it, it doesn't stay with them, they pass it along, right?
+[16:47] SPEAKER_07: One of the goals is to really spell out the consequences of being a victim of gunshot injury and talk about the debilitating injuries that they suffer.
+[16:58] SPEAKER_07: Among those are amputations or the fact that we see so many young men who are paralyzed as a result of a shooting.
+[17:08] SPEAKER_02: It is good that 80% of our gunshot victims live.
+[17:15] SPEAKER_02: And if you don't dive down into what that statement really means, then you kind of just move on.
+[17:22] SPEAKER_02: But it's kind of what are they living with and how are they living?
+[17:27] SPEAKER_02: So they're young.
+[17:29] SPEAKER_02: They have their whole lives ahead of them.
+[17:33] SPEAKER_02: And the wounds can be really devastating.
+[17:38] SPEAKER_02: from traumatic brain injury to paralyzed, from the neck down, where they know they're paralyzed and they can't move their arms and they can't move their legs, and they're 20-something years old.
+[18:05] SPEAKER_22: I have a nonprofit in honor of my brother, Dante, who was murdered in 2008.
+[18:10] SPEAKER_22: And we work with individuals who have been impacted by gun violence.
+[18:16] SPEAKER_22: The majority of the people in the support group are individuals who have been shot.
+[18:20] SPEAKER_22: So they're gun violence survivors, and they are paralyzed.
+[18:26] SPEAKER_22: What's up, Leon?
+[18:26] SPEAKER_22: How are you?
+[18:29] SPEAKER_22: How has everyone been doing mentally, physically, emotionally?
+[18:33] SPEAKER_22: Mo, I know you were struggling a little bit from your operation.
+[18:36] SPEAKER_22: How you doing?
+[18:37] SPEAKER_20: I couldn't move.
+[18:38] SPEAKER_20: The only thing I could do was stay on my back.
+[18:41] SPEAKER_08: And I couldn't do weight shifts and stuff like I normally do.
+[18:46] SPEAKER_22: People who have been shot and paralyzed go through quite a bit.
+[18:50] SPEAKER_22: A lot of them...
+[18:52] SPEAKER_22: fight harder than they ever fought before.
+[18:54] SPEAKER_22: So getting shot was easy because now trying to find housing, trying to get employment, trying to just do the basic things like driving your car is a challenge.
+[19:05] SPEAKER_13: You know, when I'm single, I always have a wheelchair.
+[19:07] SPEAKER_13: You know, it's one of those things like it's just always there.
+[19:11] SPEAKER_13: You know, for all of us, quite honestly,
+[19:14] SPEAKER_13: You know, the last thing we do is get out of a wheelchair.
+[19:17] SPEAKER_13: And the first thing we do when we get up is kind of get into a wheelchair.
+[19:20] SPEAKER_13: So it's always a constant in relations to our new lives.
+[19:25] SPEAKER_22: But they oftentimes are forgotten about.
+[19:26] SPEAKER_22: So that group, that population of people, I always say they lived for a reason and they have a story.
+[19:33] SPEAKER_22: And it's our responsibility and our duty to make sure that people hear it.
+[19:39] SPEAKER_05: Well, back in August the 3rd of 2013, I was a victim of domestic violence, which the gentleman that I was with had shot me in the back.
+[19:49] SPEAKER_05: And when I got shot, I felt that I had no movement down here, so I knew I was going to be paralyzed.
+[19:55] SPEAKER_05: And what saved me was that I had crawled underneath my car because he still was shooting.
+[20:02] SPEAKER_05: Only one bullet hit me in the back.
+[20:04] SPEAKER_20: Oh, my child.
+[20:08] SPEAKER_20: Oh, it's Louie.
+[20:09] SPEAKER_05: First and foremost, it changed the life of my daughter.
+[20:12] SPEAKER_05: She was just going inside of high school, and now I'm a single parent.
+[20:17] SPEAKER_05: So now it's like her whole world changed as well.
+[20:22] SPEAKER_05: So that was more stress and just hardship on my mind.
+[20:27] SPEAKER_05: My mom's house, she had to make her downstairs area into an apartment kind of for me.
+[20:34] SPEAKER_05: Rails and lifts for her front porch.
+[20:39] SPEAKER_05: So that was hard.
+[20:40] SPEAKER_05: I know it was hard on my mama because this was something different.
+[20:45] SPEAKER_05: Everything changed.
+[20:46] SPEAKER_05: I really honestly say everything changed.
+[20:49] SPEAKER_05: And I was in a sunken place, which is depression for me, for about three years that I could not get out of.
+[21:01] SPEAKER_22: I think the biggest obstacles that the individuals in our group who are paralyzed face is really the mental struggle with paralysis and being paralyzed.
+[21:11] SPEAKER_22: I think physically they're strong enough to get through it.
+[21:14] SPEAKER_22: I think mentally they struggle.
+[21:22] SPEAKER_13: When I was eight years old, I had just got off of punishment.
+[21:25] SPEAKER_13: I was an adventurous child.
+[21:30] SPEAKER_13: We decided to buy some firecrackers.
+[21:35] SPEAKER_13: I guess the guy who lived next door didn't like the sound of the firecrackers going off or something on that line.
+[21:42] SPEAKER_13: and he had pulled out a sawed-off shotgun.
+[21:44] SPEAKER_13: I thought I was running one way, but the reality of it is I was running a different direction, and the last thing I heard was the shot go off, and I loosely heard myself scream.
+[21:54] SPEAKER_13: And then from there, I don't remember anything, and that was kind of what happened.
+[22:02] SPEAKER_13: I wasn't supposed to survive because of the amount of damage.
+[22:05] SPEAKER_13: Even to this day, I still have some of the buckshot in my body from the shotgun.
+[22:14] SPEAKER_13: I remember, you know, when the doctor asked if I could feel my legs.
+[22:19] SPEAKER_13: And I had some feeling, and he asked what I thought, and I thought that he had taken my legs off and replaced them.
+[22:25] SPEAKER_13: You know, all that child stuff.
+[22:30] SPEAKER_13: Don't know why I'm even crying about it right now, but...
+[22:36] SPEAKER_13: But that's what I remember.
+[22:44] SPEAKER_13: I got into street photography by happenstance, to be honest, which is kind of like one of the easiest things to kind of do.
+[22:50] SPEAKER_13: I guess you don't have to rely on anybody.
+[22:51] SPEAKER_13: You just go.
+[22:52] SPEAKER_13: I thought that if I was really good, no one would care about the wheelchair.
+[22:59] SPEAKER_13: But the reality of my situation is that I can't have one without the other.
+[23:02] SPEAKER_13: And it's the very thing that has defined my image and what I see and why I see what I see.
+[23:07] SPEAKER_14: Let me switch the lenses.
+[23:08] SPEAKER_14: Let me get one more.
+[23:11] SPEAKER_22: I think people always are stereotypical about why people from urban communities or people of color are gunned down.
+[23:18] SPEAKER_22: And they always kind of answer the question, well, maybe they did some things to get shot or killed.
+[23:25] SPEAKER_22: And that's not true in every case, in every situation.
+[23:29] SPEAKER_22: I think it's the access to guns.
+[23:31] SPEAKER_22: And it's like getting bubble gum.
+[23:35] SPEAKER_22: It's easier to get a gun now than it is a driver's license.
+[23:38] SPEAKER_22: And I think that's the problem.
+[23:46] SPEAKER_05: hard-working single mom just did everything that I knew I was doing correctly to better myself and my daughter's future, and I got shot.
+[23:56] SPEAKER_05: So it ain't about, oh, because you live in an urban community that this is what happens.
+[24:00] SPEAKER_05: No, it happens to the innocent, too, in these kind of communities.
+[24:05] SPEAKER_13: All the time we hear about these things, about people's rights, and it's like, but at what point in time does your idea of what this right is infringe on my right to live?
+[24:16] SPEAKER_13: My life has changed because of this, because of how easy it is.
+[24:22] SPEAKER_13: I worry I may never be married.
+[24:24] SPEAKER_13: I may never have children.
+[24:26] SPEAKER_13: These are things that are taken from me, that I've lost.
+[24:32] SPEAKER_13: Things happen, and if you're not a responsible gun owner, listen, you shouldn't have one, period.
+[24:38] SPEAKER_22: So I think we have to do a better job as society at educating young people, educating our communities on how to handle conflicts so that it doesn't result in an end in a gun.
+[25:02] SPEAKER_10: Here in Baltimore, we have young men dying every day from firearm injury.
+[25:09] SPEAKER_10: And those stories often go untold.
+[25:21] SPEAKER_10: Here at Hopkins, 80% of our patients come within a five mile radius.
+[25:30] SPEAKER_10: When Brendan arrived to the trauma bay, he was nearly dead.
+[25:34] SPEAKER_10: His blood pressure was 50.
+[25:38] SPEAKER_10: During the initial operation, his heart actually stopped multiple times.
+[25:43] SPEAKER_10: So this is as close as you can get to dying without dying.
+[25:55] SPEAKER_10: One of the things that we had to do was reconstruct his chest because we had to not just open up his chest but take down a certain muscle called the diaphragm that helps with breathing in order to get access to some of the very difficult areas he was bleeding in.
+[26:15] SPEAKER_10: When you look at how complex it is delivering care to these really critically injured patients, specifically Brendan who was shot over 13 times and had injuries in almost every cavity in his body, he went to the operating room over 15 times with not just myself, but a multidisciplinary group of surgeons.
+[26:39] SPEAKER_10: And it's that type of care that allows us
+[26:43] SPEAKER_10: to bring these patients from nearly being dead to now being able to work with physical therapy and hopefully make it out of this hospital.
+[27:00] SPEAKER_10: At the age of 17, my life really changed.
+[27:03] SPEAKER_10: It's almost like my second birthday.
+[27:06] SPEAKER_10: where I went from being a healthy high school student to someone that was nearly killed after being shot in the throat with a .38 caliber bullet.
+[27:21] SPEAKER_10: The night I was shot, it was after the first high school football game of the year.
+[27:29] SPEAKER_10: After the game, like typical high school students, we were hanging out.
+[27:33] SPEAKER_10: We were actually at a playground that was close to an elementary school.
+[27:39] SPEAKER_10: And a fight had broken out that we had nothing to do with.
+[27:43] SPEAKER_10: And a guy pulled out a gun and started firing to the crowd.
+[27:50] SPEAKER_10: And I remember distinctly that night the flashes of light.
+[27:55] SPEAKER_10: Everything kind of went into slow motion.
+[28:00] SPEAKER_10: So as I was being transported to the hospital, it was a very kind of surreal experience because I felt like I was watching myself as everything took place.
+[28:15] SPEAKER_10: And I couldn't lie flat because I was choking on my own blood because of my injury.
+[28:23] SPEAKER_10: That experience profoundly changed who I was as a person.
+[28:29] SPEAKER_10: And I remember distinctly, it was a couple months after I left the hospital, and I was standing in the bathroom, I was looking at the mirror, and I had these beet red scars all up and down my neck.
+[28:48] SPEAKER_10: And I had a tracheostomy tube at the time.
+[28:51] SPEAKER_10: And what I didn't realize is my father was standing in the doorway.
+[28:59] SPEAKER_10: And I think he saw the look of devastation in my eyes and he walked in and he said, I know what happened to you is horrible, but you really have two options.
+[29:18] SPEAKER_10: The first is you feel sorry for yourself.
+[29:23] SPEAKER_10: But the second is you take this horrible experience and you turn it around and you try to impact the lives of other people.
+[29:34] SPEAKER_10: And so it was really that moment that inspired me to go into medicine, inspired me to become a trauma surgeon,
+[29:47] SPEAKER_10: What could be more gratifying than being able to give someone else that same second chance that I received?
+[29:57] SPEAKER_08: Hey there.
+[29:59] SPEAKER_10: How you doing?
+[29:59] SPEAKER_11: How's it going?
+[30:00] SPEAKER_11: It's good to see you, Brendan.
+[30:01] SPEAKER_11: How you doing?
+[30:02] SPEAKER_10: Good.
+[30:03] SPEAKER_11: Hey, how are you?
+[30:04] SPEAKER_11: Good, good, good.
+[30:06] SPEAKER_11: How you doing?
+[30:06] SPEAKER_11: How you feeling?
+[30:07] SPEAKER_19: Great.
+[30:08] SPEAKER_11: Yeah?
+[30:08] SPEAKER_19: Yeah.
+[30:09] SPEAKER_11: It's good to see you finally in rehab, huh?
+[30:12] SPEAKER_19: Yeah, thanks to you, man.
+[30:15] SPEAKER_11: Team effort for sure.
+[30:16] SPEAKER_11: Right, right.
+[30:17] SPEAKER_11: It's amazing to think about where you were and how critical you were and just to see you sitting here in this chair and just talking to me is unbelievable.
+[30:29] SPEAKER_11: Yes.
+[30:30] SPEAKER_11: I think there was 20, 21 entry and exit wounds.
+[30:34] SPEAKER_11: And I think I got five bullets still in my back, four or five.
+[30:39] SPEAKER_11: The only thing you can do is now
+[30:41] SPEAKER_11: you know, try to take that horrible incident and turn it into something positive.
+[30:47] SPEAKER_11: Right, right.
+[30:48] SPEAKER_11: And I think, you know, everyone here knows how much, you know, your family knows how much you care about them and how much you love them.
+[30:54] SPEAKER_11: And obviously, I have no doubt that you're going to try to do everything you can to ensure that you're there for them as well.
+[31:02] SPEAKER_11: Yes.
+[31:03] SPEAKER_11: But first, we got to get you back.
+[31:05] SPEAKER_11: Right.
+[31:05] SPEAKER_11: Back to baseline, huh?
+[31:06] SPEAKER_11: Yeah.
+[31:14] SPEAKER_10: If the human toll of gun violence is not enough, there's also an economic burden that exists.
+[31:23] SPEAKER_10: There are some estimates that look at the total economic burden to be over $220 billion.
+[31:37] SPEAKER_10: In November of 2018, the NRA came out with a communication that essentially said that doctors have no business being part of the solution of firearm-related injury and death in America.
+[31:55] SPEAKER_10: And they essentially used the phrase that we should stay in our lane.
+[32:12] SPEAKER_10: And I was just incensed that an individual, an organization, would think that we as healthcare professionals, the people that are literally on the front lines of caring for these patients day in and day out, have no business in being part of the solution.
+[32:38] SPEAKER_10: And so that's why I ended up starting the handle, This Is Our Lane.
+[32:51] SPEAKER_10: And that initially caught a lot of attention and went viral.
+[32:56] SPEAKER_10: And what I started noticing is there's so many clinicians, not just doctors, clinicians from all walks of life that are wanting to have a voice on this issue.
+[34:00] SPEAKER_03: The Bronx is the borough of New York City with the highest rates of people living below the federal poverty line, the highest rates of children living below the federal poverty line, and one of the boroughs of New York City with the highest rates of immigrant population.
+[34:15] SPEAKER_03: The majority of our neighborhoods comprise different public housing projects within our neighborhoods.
+[34:23] SPEAKER_14: This is probably one of the most diverse communities in Bronx.
+[34:27] SPEAKER_14: Matter of fact, probably in New York City.
+[34:30] SPEAKER_14: We have Albanians, we have African-Americans, we have the West Indians, we have the Hispanics, the Italians.
+[34:38] SPEAKER_14: You name it, we have it.
+[34:41] SPEAKER_14: Stand Up the Violence is based on the Cure Violence model.
+[34:45] SPEAKER_15: We're anti-gun violence.
+[34:49] SPEAKER_15: We want to put the common back in unity to make this a stronger community.
+[34:54] SPEAKER_09: So this program was to try to provide culturally syntonic, culturally appropriate
+[35:01] SPEAKER_09: people to speak to these kids.
+[35:04] SPEAKER_09: And of course, I say kids because gun violence is a disease of the young, right?
+[35:10] SPEAKER_09: If you look at who I'm taking care of, who me and my colleagues are taking care of here at Jacobi, it's young people.
+[35:17] SPEAKER_09: It's squarely in their 20s, by and large.
+[35:22] SPEAKER_09: So who's going to talk to them?
+[35:23] SPEAKER_09: Who's going to have street cred with them?
+[35:25] SPEAKER_09: So people that have lived their life and have gotten out.
+[35:33] SPEAKER_09: So we had to hire former gang members and former criminals.
+[35:41] SPEAKER_19: I was incarcerated at a young age.
+[35:43] SPEAKER_19: I grew up in foster care.
+[35:45] SPEAKER_19: You know, I had a hard life growing up.
+[35:48] SPEAKER_09: I did a lot of time.
+[35:52] SPEAKER_19: When I became an actual victim, it just let me know that this is not something that I like, not something that I want anybody else to go through.
+[36:00] SPEAKER_19: And if I could change it, why not do it?
+[36:07] SPEAKER_08: Yo, what's up, bro?
+[36:12] SPEAKER_03: Whenever a person comes in as a victim of violent trauma, they're in the hospital, they're not around their friends, they're not around their family, they're just here getting their medical treatment.
+[36:24] SPEAKER_03: So it really is a golden moment for intervention.
+[36:28] SPEAKER_03: Because they're sitting there in a hospital bed, they're healing from their injuries, they're getting medical care, and they're just thinking.
+[36:34] SPEAKER_03: They're thinking about what happened, they're thinking about who did it to them, and they're probably thinking about what they're going to do to get back to them.
+[36:40] SPEAKER_19: That's the whole thing.
+[36:41] SPEAKER_19: We do deal with violence like it's a disease.
+[36:44] SPEAKER_19: So basically it spreads from the perpetrator to the victim, and then the victim becomes the perpetrator.
+[36:51] SPEAKER_03: If I go in there and talk to people about retaliation alone, you know, I'm a guy going in there with a stethoscope around my neck and a doctor, so they don't view me as somebody they can identify with.
+[36:59] SPEAKER_03: They're like, sure, okay, yeah, you're going to tell me not to think about retaliation.
+[37:02] SPEAKER_03: But somebody who comes in, who looks like you, who talks like you, who's from your same neighborhood, who's been through the same thing you've been through, that information and that counseling carries a lot more weight and has more of a potential to influence your behavior.
+[37:19] SPEAKER_03: Those patients that we also intervened in had a 60% less likelihood of coming back with a re-injury compared to those patients that we did not see.
+[37:30] SPEAKER_19: I guess I just know how to engage with people in the community because I come from the community.
+[37:38] SPEAKER_19: You know, I want the streets to be safe.
+[37:39] SPEAKER_19: I want my kids to grow up as well.
+[37:47] SPEAKER_23: So what we do at SUV is stop the shootings and homicides in the community.
+[37:51] SPEAKER_23: The way we do it is by mediations and reaching the highest risk individuals in the community that's most likely to shoot someone or be shot.
+[38:01] SPEAKER_23: So what we do, what we're doing now is we walk around the campus community, get a pulse on what's going on out here, that people know that we're out.
+[38:08] SPEAKER_08: Tasha, what's up, boo?
+[38:10] SPEAKER_08: I know why you didn't want to see me.
+[38:12] SPEAKER_01: Every time there's a shooting, we're out here making sure there's no retaliation for that shooting, making sure we mediate any beefs that might get out of hand.
+[38:27] SPEAKER_01: And, you know, it's a tough job.
+[38:29] SPEAKER_01: It's a very tough job because these kids have to trust you.
+[38:31] SPEAKER_01: This community has to trust you.
+[38:32] SPEAKER_01: Your parents has to trust you.
+[38:35] SPEAKER_01: We work with some of the most hardened criminals in the streets.
+[38:40] SPEAKER_23: Any day we go through with somebody that didn't shoot somebody, that's a good day.
+[38:44] SPEAKER_23: And that's what the team has been able to do.
+[38:45] SPEAKER_23: They're very successful at what they do.
+[38:48] SPEAKER_23: We use each other's strengths.
+[38:49] SPEAKER_23: We correct each other when we need to, and we get the job done.
+[39:03] SPEAKER_20: Yeah, say the same, true trials and great tribulations.
+[39:09] SPEAKER_08: Say that God grant us awesome tribulation.
+[39:12] SPEAKER_08: We say free, free the earth to the whole nation.
+[39:16] SPEAKER_08: From Genesis to the Revelation.
+[39:21] SPEAKER_08: Walk with God, person by your side.
+[39:26] SPEAKER_08: You will never, never, never, never, never, never, never, never.
+[39:32] SPEAKER_15: This is what it's about.
+[39:34] SPEAKER_15: Our community.
+[39:35] SPEAKER_15: Music over violence.
+[39:36] SPEAKER_15: And when we can bring a community together like this, we are better together.
+[39:40] SPEAKER_15: Not everybody is trying to kill everybody, but we have to show that love for one another.
+[39:44] SPEAKER_15: Yeah.
+[39:46] SPEAKER_13: Without further ado, I just want to bring up Pastor Gordon just to give a few words.
+[39:50] SPEAKER_13: Pastor, let's give it up for Pastor Gordon.
+[39:54] SPEAKER_15: Let me just drop this on you in one minute.
+[39:56] SPEAKER_15: And I know y'all hear preachers say one minute, that's like two hours.
+[39:58] SPEAKER_15: So give me one minute.
+[39:59] SPEAKER_15: One minute.
+[40:00] SPEAKER_15: The leading cause of death in our African American community for our young males between the ages of 14 and 25 is gun violence.
+[40:10] SPEAKER_15: It's the second leading cause of death in that same age bracket and that demographic of our Hispanic.
+[40:17] SPEAKER_15: No longer can we stand by, but it's time for us to stand up to the violence.
+[40:21] SPEAKER_15: It's time for us to take back our communities.
+[40:24] SPEAKER_15: Put the guns down.
+[40:25] SPEAKER_15: One shot fired is one shot too many.
+[40:27] SPEAKER_15: God bless you.
+[40:39] SPEAKER_08: Yeah, 54, they just came over, and with shots fired, so, here they are.
+[40:44] SPEAKER_08: Charlie, yeah, this is what comes over, it's a 34, we've got a person shot, out.
+[40:49] SPEAKER_08: 20, Charlie, to the 6, Freeman, and West Farm Road, 20, Charlie.
+[41:00] SPEAKER_03: So the individuals came in.
+[41:02] SPEAKER_03: There was two 17- and 21-year-old young men that came in from our target area who were dead on arrival.
+[41:08] SPEAKER_03: So they came in in cardiac arrest.
+[41:10] SPEAKER_03: And they were not able to do anything for them, actually, by the time they got here, because they were already far gone.
+[41:16] SPEAKER_03: And they died pretty probably instantaneously.
+[41:19] SPEAKER_00: Tomorrow, I don't know if you can go through the logistics of it, but we're going to be starting right where the shooting or the response the police came to.
+[41:27] SPEAKER_00: And then we're going to go around.
+[41:29] SPEAKER_00: just the housing area, doing our thing, our chants, and then ending back on White Plains.
+[41:36] SPEAKER_03: We had gone 183 days, a lot of shooting, and we were getting quite proud of ourselves.
+[41:41] SPEAKER_03: And you should be, well, should be, because you guys have been doing a fantastic job.
+[41:45] SPEAKER_03: But every once in a while, things like this will happen, and it's no one's fault.
+[41:49] SPEAKER_03: Nobody did anything wrong.
+[41:52] SPEAKER_24: There was a lot of grieving out there, but just seeing my friends crying and stuff like that, I felt it too.
+[41:57] SPEAKER_24: So it is personal for me.
+[41:59] SPEAKER_24: And yeah, so we all feeling it.
+[42:07] SPEAKER_03: So whenever a shooting happens in one of our target areas, one of the biggest things we do is we do something called a shooting response.
+[42:15] SPEAKER_03: And what that is, is the SUV team goes out to the exact location of where the shooting happened.
+[42:22] SPEAKER_03: And this is just really a way to kind of showcase to the community that a shooting happened here, and it's a big deal, and it's not normal.
+[42:34] SPEAKER_15: Two young men were shot and killed in this community right here.
+[42:37] SPEAKER_15: And so tonight, we have gathered here as a community to let this community know that we stand with you.
+[42:43] SPEAKER_15: Where there is hate tonight, we've come in the spirit of love.
+[42:46] SPEAKER_15: Where there is confusion tonight, we come in the spirit of peace.
+[42:51] SPEAKER_15: Guns down.
+[42:51] SPEAKER_15: Lines up.
+[42:52] SPEAKER_15: Guns down.
+[42:53] SPEAKER_15: Lines up.
+[42:54] SPEAKER_15: We stand in peace.
+[42:55] SPEAKER_15: In our streets.
+[42:56] SPEAKER_15: We stand in peace.
+[42:57] SPEAKER_15: In our streets.
+[43:00] SPEAKER_15: As I said, there's no words for a parent that loses a child except pain.
+[43:04] SPEAKER_15: So we're praying for this family tonight.
+[43:06] SPEAKER_15: We're going to hear from the mother at this time, Sheree.
+[43:09] SPEAKER_04: Hello.
+[43:10] SPEAKER_04: I'm not going to say too much because my heart is broken.
+[43:16] SPEAKER_04: Buddha was the love of my life.
+[43:20] SPEAKER_04: I was honored to be his mother.
+[43:23] SPEAKER_04: I can't say too much more because my heart hurts a lot.
+[43:27] SPEAKER_04: Thank you all for being here.
+[43:28] SPEAKER_04: I love you all.
+[43:33] SPEAKER_04: I've been living in this neighborhood for 20 plus years and every year I see candles from kids being killed.
+[43:40] SPEAKER_04: Kids.
+[43:41] SPEAKER_04: And it hurts.
+[43:42] SPEAKER_04: It really, really hurts.
+[43:44] SPEAKER_04: And unfortunately this time this is my kid.
+[43:48] SPEAKER_04: It's no words for that.
+[43:50] SPEAKER_04: It's just no parent deserves to bury their child.
+[43:52] SPEAKER_06: You know, he's 17.
+[43:54] SPEAKER_06: He's 17 years old.
+[43:56] SPEAKER_06: 17.
+[43:57] SPEAKER_06: You know, his life is gone.
+[44:02] SPEAKER_06: And... My heart is broken.
+[44:04] SPEAKER_08: That's the only thing I can tell you.
+[44:07] SPEAKER_06: My heart is really and truly broken.
+[44:09] SPEAKER_06: You know, I've...
+[44:18] SPEAKER_06: I helped raise him, him and his brother.
+[44:23] SPEAKER_06: Arnel, everybody called him Buddha, which was the nickname that I gave him when he was born, you know, because he was such a chubby little baby.
+[44:34] SPEAKER_06: But my love for that boy, it's like I gave birth to him myself.
+[44:44] SPEAKER_06: And that's how much I loved him.
+[44:51] SPEAKER_20: That day, that day, I got a knock at the door.
+[44:57] SPEAKER_20: You know, he did what he did, normally would do throughout his day.
+[45:02] SPEAKER_20: I was doing what I normally did.
+[45:04] SPEAKER_20: And then that day came, I got the knock at the door.
+[45:07] SPEAKER_20: And that was it.
+[45:09] SPEAKER_20: That was it for that day.
+[45:11] SPEAKER_20: That was it.
+[45:13] SPEAKER_20: That was it.
+[45:36] SPEAKER_09: But sometimes a suture and a scalpel is a poor match for the lethality of a bullet.
+[45:47] SPEAKER_09: And sometimes we can't fix it.
+[45:49] SPEAKER_09: And it is, as I say, the worst day of a trauma surgeon's life is when he has to go out to a mom and say, your son's never coming back to you.
+[46:00] SPEAKER_09: You know, you have to use the word.
+[46:01] SPEAKER_09: They teach you that in medical school.
+[46:03] SPEAKER_09: You have to use the word.
+[46:04] SPEAKER_09: Your child has died.
+[46:06] SPEAKER_09: You need the finality and the thud because they have to hear you.
+[46:14] SPEAKER_03: My grandmother, who was from a small village in rural Mexico, in her infinite wisdom would always say, you know, when a woman loses a husband, they call her a widow.
+[46:23] SPEAKER_03: When a child loses a mother, they call him an orphan.
+[46:26] SPEAKER_03: But when a mother loses a child, there's just no name for that.
+[46:32] SPEAKER_03: And I think about that a lot because it's true.
+[46:34] SPEAKER_03: You remember every single face of every single mother who you've told that to.
+[46:40] SPEAKER_02: And I dread it.
+[46:42] SPEAKER_02: I absolutely dread it.
+[46:44] SPEAKER_02: In fact, I've told people that what will make me leave trauma surgery won't be the hours and the fatigue.
+[46:53] SPEAKER_02: It'll be that I just can't tell another family member that their loved one has died.
+[47:07] SPEAKER_18: As nurses, we need to create the space to have the difficult conversation about the patient that you took care of yesterday that you weren't able to save.
+[47:17] SPEAKER_18: We do have that emotional component about our jobs and how we feel and did I do well?
+[47:26] SPEAKER_18: Should I have done better?
+[47:27] SPEAKER_18: And a lot of us struggle with that.
+[47:32] SPEAKER_08: At the end of the day, firearms as we've come to embrace them in this country are at odds with human life.
+[48:04] SPEAKER_07: We're happy to talk about the great aspects of guns.
+[48:06] SPEAKER_07: We just are unwilling.
+[48:08] SPEAKER_07: Even those who are opposed to guns don't want to hear about what bullets actually do to bodies.
+[48:13] SPEAKER_07: And I think it's why we're kind of trapped in this kind of intractable debate right now.
+[48:21] SPEAKER_10: When you look at, for example, motor vehicle crashes, fatalities were high in the 60s and 70s.
+[48:29] SPEAKER_10: We didn't say, OK, let's get rid of cars.
+[48:32] SPEAKER_10: No, we came up with things like seat belts and airbags, and we tried to make roads safer.
+[48:41] SPEAKER_10: That's the same type of approach that we have to take with firearm injury and death in America.
+[48:53] SPEAKER_02: It's preventable.
+[48:55] SPEAKER_02: Just like lung cancer is preventable.
+[48:57] SPEAKER_02: Just like, you know, dying in a car accident is preventable.
+[49:00] SPEAKER_02: Just like hypertension, high blood pressure is preventable.
+[49:03] SPEAKER_02: It's preventable.
+[49:05] SPEAKER_15: Come take a walk with us today, community.
+[49:07] SPEAKER_15: We walk that our little children can walk in peace in the streets.
+[49:11] SPEAKER_15: Rules have no names on them.
+[49:12] SPEAKER_05: If you want change to be made, have a voice, speak on it.
+[49:16] SPEAKER_23: We want the gun violence to stop in our communities.
+[49:19] SPEAKER_05: These are the times that we need for you to speak loud and clear for everybody here.
+[49:24] SPEAKER_15: It can stop, and it starts with us.
+[49:27] SPEAKER_03: I think it's important for hospitals and trauma centers throughout the United States to think about incorporating programs like this that may be a little bit outside the box.
+[49:37] SPEAKER_03: It can be sometimes more powerful than what we can do within the hospital walls.
+[49:44] SPEAKER_10: For so many years, people have looked at this as a third rail issue, but no more.
+[49:50] SPEAKER_10: You know, we cannot keep ignoring the injuries and deaths that are happening in communities all across this country.

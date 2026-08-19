@@ -29,20 +29,30 @@ This project builds a pipeline that takes documentary films as input, produces c
 │ ├── WhisperX.ipynb # audio-to-transcript fallback pipeline
 │ ├── inspect_and_fix_raw_transcripts.ipynb # format inspection & normalization for non-WhisperX transcripts
 │ ├── speaker_classifier.ipynb # speaker category labeling
-│ └── approach_*.ipynb # one notebook per topic-modeling approach
+│ ├── time_window_bertopic.ipynb   # Approach 1: time-window chunking
+│ ├── turn_strict_bertopic.ipynb   # Approach 2: speaker-turn chunking
+│ └── approach_*.ipynb # other chunking strategy notebooks are for further exploration, but not yet completed
 ├── raw_transcripts/ # transcripts as obtained from source, pre-normalization
 │ └── docx/ # original .docx files from Alexander Street
 ├── transcripts/ # fully normalized transcripts ([MM:SS] SPEAKER: text)
 ├── docx_to_txt.py # converts raw .docx transcripts to plain .txt
 ├── export_html.py # shared HTML viz generator, called from each approach notebook
-└── visualizations/ # HTML output, one file per approach
+└── visualizations/ # output, one HTML file + two JSON files per approach
+  ├── Time_Window_Bertopic.html
+  ├── Time_Window_Bertopic_shared_data.json      # per-chunk data, config-independent
+  ├── Time_Window_Bertopic_sweep_configs.json    # per-config topic assignments/labels/examples
+  ├── Turn_Strict_Bertopic.html
+  ├── Turn_Strict_Bertopic_shared_data.json
+  └── Turn_Strict_Bertopic_sweep_configs.json
 ```
 
 > Update this tree if folder names differ once everything's pushed — this reflects the current setup as of this writing.
 
+> `shared_data.json` holds chunk-level metadata once; `sweep_configs.json` holds one entry per HDBSCAN parameter combination (topic assignments, labels, and example quotes) — together these power the interactive parameter-sweep slider in each HTML file, without needing a live backend.
+
 ## Status
 
-This is an active, exploratory research project. The transcript-acquisition pipeline is working. Topic-modeling approaches are classified by chunking strategy; two are implemented so far (time-window and speaker-turn), with more planned — see [`docs/methodology.md`](docs/methodology.md).
+This is an active, exploratory research project. The transcript-acquisition pipeline is working. Topic-modeling approaches are classified by chunking strategy; two are implemented so far (time-window and speaker-turn), each run across a grid of HDBSCAN clustering settings rather than a single fixed configuration — see [`docs/methodology.md`](docs/methodology.md). More chunking approaches are planned.
 
 ## Setup & usage
 

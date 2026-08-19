@@ -42,7 +42,9 @@ None of this is meant to replace human judgment. The output of the topic modelin
 The visualizations below show the current results — each corresponds to a different chunking approach and can be explored interactively:
 
 - [Time-Window Approach](https://max-vonkahle.github.io/Gun-Violence-Documentary-Analysis/visualizations/Time_Window_Bertopic.html) — transcripts divided into fixed 60-second windows regardless of who is speaking
-- [Speaker-Turn Approach](https://max-vonkahle.github.io/Gun-Violence-Documentary-Analysis/visualizations/Turn_Script_Bertopic.html) — transcripts divided along speaker-turn boundaries
+- [Speaker-Turn Approach](https://max-vonkahle.github.io/Gun-Violence-Documentary-Analysis/visualizations/Turn_Strict_Bertopic.html) — transcripts divided along speaker-turn boundaries
+
+Each visualization also lets you adjust two clustering settings interactively (via sliders) to see how the number and granularity of topics found changes — there's no single "correct" setting, so this lets you explore that range yourself rather than seeing only one fixed result.
 
 ## Why this matters
 

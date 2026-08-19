@@ -694,6 +694,142 @@ def build_character_class_payload(
     }
 
 
+def _topic_assignment_probabilities(topic_model, topic_ids):
+    """Per-chunk probability of that chunk's OWN assigned topic, as a flat
+    array aligned to topic_ids. Handles both shapes BERTopic can hand back
+    for .probabilities_ (full (n_docs, n_topics) matrix, or an already-1D
+    per-doc array), and degrades to all-NaN if probabilities weren't
+    computed at all -- callers fall back to plain random sampling in that
+    case rather than erroring.
+    """
+    probs = getattr(topic_model, 'probabilities_', None)
+    if probs is None:
+        return np.full(len(topic_ids), np.nan)
+
+    probs = np.asarray(probs)
+    if probs.ndim == 1:
+        return probs
+
+    ordered_ids = sorted(t for t in set(topic_ids) if t != -1)
+    col_of = {t: i for i, t in enumerate(ordered_ids)}
+    out = np.full(len(topic_ids), np.nan)
+    for i, t in enumerate(topic_ids):
+        if t != -1 and t in col_of and col_of[t] < probs.shape[1]:
+            out[i] = probs[i, col_of[t]]
+    return out
+
+
+def build_theme_examples_payload(
+    results_df,
+    topic_model,
+    topic_info_lookup,
+    n_representative=3,
+    n_median=2,
+    n_borderline=3,
+    random_state=42,
+):
+    """Per-theme reading sample for the theme-detail view -- the thing a
+    non-technical collaborator actually needs to trust a theme is real:
+    real quotes, in context, not just keywords and a percentage.
+
+    Deliberately outputs ONLY reader-facing fields (quote text, film,
+    timestamp, speaker category). The stratification logic that CHOOSES
+    which quotes to show (representative / median-confidence / borderline)
+    is internal quality-control machinery, same idea as a spot-check
+    sample -- it decides which 7-8 quotes are worth showing, but no tier
+    label, confidence score, or reviewer note is exposed in the output.
+    That vetting stays on the analysis side, not the reading side.
+
+    Representative quotes come from BERTopic's own get_representative_docs
+    (closest to the topic's centroid -- the theme at its most confident).
+    Median and borderline quotes are chosen by assignment-probability
+    distance from the topic's own median/minimum, so the reading sample
+    naturally includes a look at the theme's edges, not just its core --
+    without ever surfacing why a given quote was picked.
+
+    Args:
+        results_df: one row per chunk; must have columns documentary,
+            start_time, end_time, category, topic_id, text_chunk (the same
+            shape every approach notebook already produces).
+        topic_model: fitted BERTopic model.
+        topic_info_lookup: dict topic_id -> human label, same one already
+            built in build_data_payload (topic_id -> new_labels override or
+            BERTopic's own Name).
+        n_representative, n_median, n_borderline: sample sizes per tier.
+        random_state: used only as a fallback when probabilities_ isn't
+            available (plain random sample per tier in that case).
+
+    Returns:
+        dict: topic_label (str) -> list of quote dicts, each with
+        text, documentary, start_time, end_time, category. Ordered
+        representative-first, but with no tier field on the record itself.
+    """
+    df = results_df.copy().reset_index(drop=True)
+    topic_ids = df['topic_id'].tolist()
+    df['assignment_prob'] = _topic_assignment_probabilities(topic_model, topic_ids)
+
+    examples_by_label = {}
+
+    for tid, label in topic_info_lookup.items():
+        topic_rows = df[df['topic_id'] == tid]
+        if topic_rows.empty:
+            continue
+
+        picked_idx = []
+
+        # ── representative: BERTopic's centroid-nearest docs ────────────
+        try:
+            rep_docs = topic_model.get_representative_docs(tid) or []
+        except Exception:
+            rep_docs = []
+        for doc_text in rep_docs[:n_representative]:
+            match = topic_rows[topic_rows['text_chunk'] == doc_text]
+            if not match.empty:
+                idx = match.index[0]
+                if idx not in picked_idx:
+                    picked_idx.append(idx)
+
+        # ── median-confidence ────────────────────────────────────────────
+        remaining = topic_rows[~topic_rows.index.isin(picked_idx)]
+        if remaining['assignment_prob'].notna().any():
+            med = remaining['assignment_prob'].median()
+            med_order = remaining.assign(
+                _d=(remaining['assignment_prob'] - med).abs()
+            ).sort_values('_d').index
+        else:
+            med_order = remaining.sample(
+                frac=1, random_state=random_state
+            ).index
+        for idx in med_order[:n_median]:
+            picked_idx.append(idx)
+
+        # ── borderline: lowest-confidence members of the topic ──────────
+        remaining = topic_rows[~topic_rows.index.isin(picked_idx)]
+        if remaining['assignment_prob'].notna().any():
+            border_order = remaining.sort_values('assignment_prob').index
+        else:
+            border_order = remaining.sample(
+                frac=1, random_state=random_state
+            ).index
+        for idx in border_order[:n_borderline]:
+            picked_idx.append(idx)
+
+        quotes = []
+        for idx in picked_idx:
+            r = df.loc[idx]
+            quotes.append({
+                'text': str(r['text_chunk']).strip(),
+                'documentary': r['documentary'],
+                'start_time': r.get('start_time', ''),
+                'end_time': r.get('end_time', ''),
+                'category': collapse_category(str(r['category'])),
+            })
+
+        examples_by_label[label] = quotes
+
+    return examples_by_label
+
+
 def shared_topics(df_clean, doc1, doc2, top_n=5):
     d1 = set(df_clean[df_clean.documentary == doc1]['topic_label'].unique())
     d2 = set(df_clean[df_clean.documentary == doc2]['topic_label'].unique())
@@ -740,6 +876,31 @@ def build_data_payload(results_df, topic_model, new_labels, embedding_model, emb
         if row['Topic'] != -1
     }
 
+    # ── 1a1. BERTopic's own original name, keyed by the FINAL label ────────
+    # topic_info_lookup above already collapses new_labels override + raw
+    # BERTopic Name into one final string, discarding whichever one lost --
+    # this keeps the raw BERTopic Name (e.g. '3_gun_violence_shooting')
+    # around too, so the page can show "BERTopic called this ..." next to
+    # the LLM's renamed label. Only populated where a rename actually
+    # happened (final label != raw Name) -- if new_labels didn't touch a
+    # topic, there's nothing to contrast and the frontend just omits the
+    # note for that theme.
+    theme_bertopic_names = {
+        new_labels.get(row['Topic'], row['Name']): row['Name']
+        for _, row in topic_model.get_topic_info().iterrows()
+        if row['Topic'] != -1 and row['Topic'] in new_labels
+        and new_labels[row['Topic']] != row['Name']
+    }
+
+    # ── 1a2. Theme reading samples (for the Theme Detail view) ─────────────
+    # Uses results_df as-is (topic_id column, pre-outlier-filter) since
+    # build_theme_examples_payload does its own filtering per topic_id.
+    theme_examples = build_theme_examples_payload(
+        results_df=results_df,
+        topic_model=topic_model,
+        topic_info_lookup=topic_info_lookup,
+    )
+
     # ── 1b. Semantic theme colors ───────────────────────────────────────────
     # Embed each topic's label with the same model used for clustering, reduce
     # to one dimension with PCA, then map that dimension onto a 0-320 degree
@@ -763,6 +924,25 @@ def build_data_payload(results_df, topic_model, new_labels, embedding_model, emb
     df_clean = results_df[results_df.topic_id != -1].copy()
     df_clean['topic_label'] = df_clean['topic_id'].map(topic_info_lookup)
     df_clean['coarse_category'] = df_clean['category'].apply(collapse_category)
+
+    # ── Outlier stats (corpus-wide) ─────────────────────────────────────────
+    # topic_id == -1 means HDBSCAN couldn't confidently assign that chunk to
+    # any topic -- these chunks are excluded from every visualization below
+    # (df_clean is what drives Theme Breadth, category breakdown, the pies,
+    # etc), so without reporting this number explicitly a viewer has no way
+    # to tell how much of the corpus isn't represented anywhere on the page.
+    n_total_chunks = len(results_df)
+    n_outlier_chunks = int((results_df['topic_id'] == -1).sum())
+    outlier_pct = round(100 * n_outlier_chunks / n_total_chunks, 1) if n_total_chunks else 0.0
+
+    # Per-film outlier counts, for the pie-chart "Outliers" wedge -- same
+    # denominator logic as doc_topics below (out of this film's OWN total
+    # chunk count, classified + outlier, so the wedge is a genuine share of
+    # the film, not inflated/deflated relative to the other slices).
+    outlier_counts_by_film = (
+        results_df[results_df['topic_id'] == -1]
+        .groupby('documentary').size().to_dict()
+    )
 
     presence = (
         df_clean.groupby(['documentary', 'topic_label'])
@@ -788,18 +968,24 @@ def build_data_payload(results_df, topic_model, new_labels, embedding_model, emb
     ]
 
     # ── 3. Per-doc top topics ───────────────────────────────────────────────
-    # Percentage is of this film's own classified (non-outlier) chunk count,
-    # so short and long films are comparable — a raw count would always
-    # favor longer films. Every theme at or above OTHER_THRESHOLD_PCT gets its
-    # own slice (no cap on how many — a film with 11 themes above the
-    # threshold shows 11 slices), and everything below that gets pooled into
-    # one 'Other' entry that still carries its own theme count and combined
-    # percentage (so hovering it reads e.g. "Other — 7 films, 4.2%" rather
-    # than being an opaque leftover with no detail behind it).
+    # Two parallel builds, sharing the same threshold-pooling logic, so the
+    # frontend can toggle between them: doc_topics (default) percentages are
+    # of this film's own CLASSIFIED chunk count only, matching how the page
+    # showed themes before outliers were tracked at all -- no Outliers
+    # wedge. doc_topics_with_outliers uses the film's TOTAL chunk count
+    # (classified + outlier) as the denominator instead, adds a genuine
+    # Outliers wedge, and every wedge across both sums to 100% of what the
+    # film actually contains rather than only 100% of its classified
+    # chunks. Every theme at or above OTHER_THRESHOLD_PCT gets its own
+    # slice (no cap on how many), and everything below that gets pooled
+    # into one 'Other' entry that still carries its own theme count and
+    # combined percentage.
     OTHER_THRESHOLD_PCT = 2.0
-    doc_topics = {}
-    for doc in presence.index:
-        doc_total = int((df_clean.documentary == doc).sum())
+
+    def build_doc_topic_rows(doc, include_outliers):
+        doc_classified = int((df_clean.documentary == doc).sum())
+        doc_outliers = int(outlier_counts_by_film.get(doc, 0))
+        doc_total = (doc_classified + doc_outliers) if include_outliers else doc_classified
         counts = (
             df_clean[df_clean.documentary == doc]
             .groupby('topic_label').size().sort_values(ascending=False)
@@ -821,7 +1007,17 @@ def build_data_payload(results_df, topic_model, new_labels, embedding_model, emb
                 "pct": round(100 * other_count / doc_total, 1) if doc_total else 0.0,
                 "n_themes": other_n_themes,
             })
-        doc_topics[doc] = rows
+        if include_outliers and doc_outliers > 0:
+            rows.append({
+                "label": "Outliers",
+                "count": doc_outliers,
+                "pct": round(100 * doc_outliers / doc_total, 1) if doc_total else 0.0,
+            })
+        return rows
+
+    doc_topics = {doc: build_doc_topic_rows(doc, include_outliers=False) for doc in presence.index}
+    doc_topics_with_outliers = {doc: build_doc_topic_rows(doc, include_outliers=True) for doc in presence.index}
+
 
     # ── 3b. Per-doc category breakdown ──────────────────────────────────────
     # Same shape as doc_topics, but grouped by coarse speaker category instead
@@ -958,6 +1154,40 @@ def build_data_payload(results_df, topic_model, new_labels, embedding_model, emb
         },
     }
 
+    # ── 7b. Speaker category breakdown, INCLUDING outliers ──────────────────
+    # Same shape as category_breakdown above, but built from the full
+    # results_df (not df_clean) with outlier rows tagged 'Outliers' in place
+    # of a real topic_label. An outlier chunk still has a real, known
+    # speaker category (outlier status is about topic assignment only, not
+    # who's speaking), so folding it in here -- unlike the theme-only pies
+    # -- is a legitimate, complete view: every one of that category's
+    # chunks accounted for, not just its classified ones. Powers the
+    # Who-Talks-About-What toggle on the frontend; category_breakdown above
+    # stays as the default (outliers hidden) view.
+    df_with_outliers = results_df.copy()
+    df_with_outliers['coarse_category'] = df_with_outliers['category'].apply(collapse_category)
+    df_with_outliers['topic_label'] = df_with_outliers['topic_id'].map(topic_info_lookup)
+    df_with_outliers.loc[df_with_outliers['topic_id'] == -1, 'topic_label'] = 'Outliers'
+
+    cat_topic_counts_full = pd.crosstab(df_with_outliers['coarse_category'], df_with_outliers['topic_label'])
+    cat_topic_pct_full = cat_topic_counts_full.div(cat_topic_counts_full.sum(axis=1), axis=0).mul(100).round(1)
+
+    category_breakdown_with_outliers = {
+        "categories": sorted(cat_topic_counts_full.index.tolist()),
+        "by_category": {
+            cat: sorted(
+                [
+                    {"label": topic, "count": int(cat_topic_counts_full.loc[cat, topic]),
+                     "pct": float(cat_topic_pct_full.loc[cat, topic])}
+                    for topic in cat_topic_counts_full.columns
+                    if cat_topic_counts_full.loc[cat, topic] > 0
+                ],
+                key=lambda x: -x["count"]
+            )
+            for cat in cat_topic_counts_full.index
+        },
+    }
+
     # ── 6b. Network Edges for Hybrid Map ────────────────────────────────────
     network_edges = [
         {"source": p["doc1"], "target": p["doc2"], "score": p["score"]}
@@ -968,6 +1198,7 @@ def build_data_payload(results_df, topic_model, new_labels, embedding_model, emb
     return {
         "docs": sorted(presence.index.tolist()),
         "doc_topics": doc_topics,
+        "doc_topics_with_outliers": doc_topics_with_outliers,
         "doc_categories": doc_categories,
         "topic_summary": topic_summary,
         "top_pairs": top_pairs_detail,
@@ -975,15 +1206,20 @@ def build_data_payload(results_df, topic_model, new_labels, embedding_model, emb
         "chunk_scatter": chunk_scatter,
         "character_class": character_class,
         "network_edges": network_edges,         # <-- Add this line
+        "theme_examples": theme_examples,
+        "theme_bertopic_names": theme_bertopic_names,
         "category_breakdown": category_breakdown,
+        "category_breakdown_with_outliers": category_breakdown_with_outliers,
         "theme_hue": theme_hue,
         "n_topics": int(len(topic_info_lookup)),
+        "n_outlier_chunks": n_outlier_chunks,
+        "outlier_pct": outlier_pct,
         "n_chunks": int(len(results_df)),
         "n_docs": int(len(presence.index)),
     }
 
 
-def render_html(data, d3_js, strategy_label='Time-Window, Speaker-Metadata'):
+def render_html(data, d3_js, strategy_label='Time-Window, Speaker-Metadata', notebook_name='documentary_connections'):
     """Pure string-templating step: takes the data payload and returns the
     full HTML document as a string. No file I/O here — see
     export_documentary_html() for the part that writes to disk.
@@ -1009,10 +1245,10 @@ def render_html(data, d3_js, strategy_label='Time-Window, Speaker-Metadata'):
     if data.get('character_class'):
         character_nav_link = '  <a href="#charactermap">Character Map</a>\n'
         character_section_html = """
-    <!-- 01F ALGORITHMIC CHARACTER-CLASS MAP -->
+    <!-- 05E ALGORITHMIC CHARACTER-CLASS MAP -->
     <section id="charactermap">
       <div class="section-header">
-        <span class="section-num">01F</span>
+        <span class="section-num">04E</span>
         <h2>Character Classes (Algorithmic)</h2>
       </div>
       <p class="section-desc">
@@ -1235,6 +1471,22 @@ __D3_INJECT__
 body {{ background: var(--bg); color: var(--text); font-family: var(--sans); font-size: 14px; line-height: 1.6; -webkit-font-smoothing: antialiased; }}
 a {{ color: inherit; text-decoration: none; }}
 
+.sweep-controls-sticky {{
+  position: sticky;
+  top: 48px; /* Docks directly under the 48px nav bar */
+  z-index: 95;
+  background: rgba(18, 18, 18, 0.95);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 10px 18px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 24px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}}
+
 nav {{
   position: sticky; top: 0; z-index: 100;
   background: var(--bg); border-bottom: 1px solid var(--border);
@@ -1259,7 +1511,11 @@ nav a:hover {{ color: var(--text); border-color: var(--red); }}
 .stat-label {{ font-family: var(--mono); font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); margin-top: 2px; }}
 
 main {{ max-width: 1360px; margin: 0 auto; padding: 0 56px 80px; }}
-section {{ margin-top: 64px; }}
+html {{ scroll-behavior: smooth; }}
+section {{
+  margin-top: 64px;
+  scroll-margin-top: 110px; /* Clears both the 48px nav and sticky slider bar */
+}}
 .section-header {{ display: flex; align-items: baseline; gap: 16px; margin-bottom: 28px; padding-bottom: 12px; border-bottom: 1px solid var(--border); }}
 .section-num {{ font-family: var(--mono); font-size: 10px; color: var(--red); letter-spacing: 0.1em; }}
 h2 {{ font-family: var(--serif); font-size: 24px; font-weight: 400; }}
@@ -1321,6 +1577,50 @@ input[type=range]::-webkit-slider-thumb {{
   width: 12px; height: 12px; background: var(--gold); border-radius: 50%; cursor: pointer;
 }}
 
+/* SWEEP EXPLORER */
+#sweep-explorer {{
+  margin-top: 48px;
+}}
+.sweep-controls {{
+  position: sticky;
+  top: 48px; /* Docks right beneath the 48px nav bar */
+  z-index: 90;
+  background: rgba(20, 20, 20, 0.95);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 12px 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 28px;
+  flex-wrap: wrap;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}}
+.sweep-slider-row {{
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}}
+.sweep-slider-row label {{
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  color: var(--text);
+}}
+.sweep-slider-row label span {{ color: var(--gold); font-weight: 500; }}
+.sweep-slider-row input[type=range] {{ width: 150px; }}
+.sweep-stats {{
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--muted);
+  line-height: 1.4;
+  margin-left: auto;
+}}
+.sweep-stats b {{ color: var(--gold); font-weight: 500; }}
+@media (max-width: 768px) {{
+  #sweep-explorer {{ padding-left: 20px; padding-right: 20px; }}
+}}
 /* PAIR CARDS */
 .pair-list {{ display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; align-items: start; }}
 .pair-card {{
@@ -1353,9 +1653,53 @@ input[type=range]::-webkit-slider-thumb {{
 
 /* THEME BREADTH */
 .breadth-list {{ display: flex; flex-direction: column; gap: 8px; }}
-.breadth-row {{ display: grid; grid-template-columns: 220px 1fr; gap: 12px; align-items: center; }}
+.breadth-row {{ display: grid; grid-template-columns: 220px 1fr; gap: 12px; align-items: center; cursor: pointer; padding: 4px; border-radius: 2px; transition: background 0.12s; }}
+.breadth-row:hover {{ background: var(--bg2); }}
+.breadth-row.expanded {{ background: var(--bg2); }}
 .breadth-label {{ font-size: 13px; color: var(--text); line-height: 1.3; }}
 .breadth-bar-track {{ height: 20px; background: var(--bg2); border-radius: 2px; overflow: hidden; }}
+.breadth-expand-btn {{
+  margin-top: 14px;
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  color: var(--gold);
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.05em;
+  padding: 8px 16px;
+  border-radius: 2px;
+  cursor: pointer;
+  width: fit-content;
+  transition: background 0.15s, color 0.15s;
+}}
+.breadth-expand-btn:hover {{
+  background: var(--bg3);
+  color: var(--text);
+}}
+
+/* Accordion panel: expands in place under the clicked row, no page jump */
+.breadth-panel {{
+  grid-column: 1 / -1; display: none; padding: 18px 20px; margin: 4px 0 8px;
+  background: var(--bg3); border-left: 2px solid var(--gold); border-radius: 2px;
+}}
+.breadth-panel.open {{ display: block; }}
+.breadth-bertopic-note {{
+  font-family: var(--mono); font-size: 10px; color: var(--muted); letter-spacing: 0.02em;
+  margin-bottom: 14px; line-height: 1.6;
+}}
+.breadth-bertopic-note code {{
+  background: var(--bg2); border: 1px solid var(--border); border-radius: 2px;
+  padding: 1px 6px; color: var(--gold); font-family: var(--mono);
+}}
+.breadth-panel-films {{ font-family: var(--mono); font-size: 11px; color: var(--muted); margin-bottom: 16px; letter-spacing: 0.02em; }}
+.breadth-panel-films strong {{ color: var(--text); font-weight: 500; }}
+.breadth-panel-quotes {{ display: flex; flex-direction: column; gap: 12px; }}
+.theme-quote-card {{ background: var(--bg2); border-radius: 3px; padding: 18px 22px; border-left: 3px solid var(--gold); }}
+.theme-quote-text {{ font-size: 14px; color: var(--text); line-height: 1.7; font-style: italic; }}
+.theme-quote-text::before {{ content: '\\201C'; color: var(--gold); font-family: var(--serif); }}
+.theme-quote-text::after {{ content: '\\201D'; color: var(--gold); font-family: var(--serif); }}
+.theme-quote-meta {{ font-family: var(--mono); font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-top: 10px; }}
+
 .breadth-bar-fill {{
   height: 100%; background: var(--gold); border-radius: 2px;
   display: flex; align-items: center; justify-content: flex-end; padding-right: 8px;
@@ -1379,13 +1723,77 @@ input[type=range]::-webkit-slider-thumb {{
 }}
 
 /* FILMS TOGGLE */
-.films-toggle {{ display: flex; border: 1px solid var(--border); border-radius: 2px; overflow: hidden; width: fit-content; margin-bottom: 20px; }}
+.films-controls {{
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}}
+.films-controls-divider {{
+  width: 1px;
+  align-self: stretch;
+  background: var(--border);
+}}
+.films-toggle {{
+  display: flex;
+  height: 30px;
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  overflow: hidden;
+  width: fit-content;
+  margin-bottom: 20px;
+}}
 .films-toggle-btn {{
-  font-family: var(--mono); font-size: 10px; letter-spacing: 0.06em; text-transform: uppercase;
-  background: var(--bg2); color: var(--muted); border: none; padding: 8px 16px; cursor: pointer;
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  background: var(--bg2);
+  color: var(--muted);
+  border: none;
+  padding: 0 16px;
+  cursor: pointer;
 }}
 .films-toggle-btn.active {{ background: var(--gold); color: var(--bg); }}
 .films-toggle-btn:not(.active):hover {{ background: var(--bg3); color: var(--text); }}
+
+.films-picker {{ position: relative; }}
+.films-picker-btn {{
+  display: flex; align-items: center; gap: 6px;
+  height: 30px; box-sizing: border-box;
+  font-family: var(--mono); font-size: 10px; letter-spacing: 0.06em; text-transform: uppercase;
+  background: var(--bg2); color: var(--muted); border: 1px solid var(--border); border-radius: 2px;
+  padding: 0 16px; cursor: pointer;
+}}
+.films-picker-btn:hover {{ background: var(--bg3); color: var(--text); }}
+.films-picker-btn::after {{
+  content: '▾'; font-size: 9px; color: var(--muted); margin-left: 2px;
+}}
+.films-picker-panel {{
+  display: none;
+  position: absolute; top: calc(100% + 6px); left: 0; z-index: 50;
+  width: 320px; max-height: 360px; overflow-y: auto;
+  background: var(--bg2); border: 1px solid var(--border); border-radius: 3px;
+  padding: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+}}
+.films-picker-panel.open {{ display: block; }}
+.films-picker-actions {{
+  display: flex; gap: 8px; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid var(--border);
+}}
+.films-picker-actions button {{
+  font-family: var(--mono); font-size: 9px; letter-spacing: 0.05em; text-transform: uppercase;
+  background: var(--bg3); color: var(--muted); border: 1px solid var(--border); border-radius: 2px;
+  padding: 5px 10px; cursor: pointer;
+}}
+.films-picker-actions button:hover {{ color: var(--text); }}
+.films-picker-item {{
+  display: flex; align-items: center; gap: 8px; padding: 5px 2px; font-size: 12px; cursor: pointer;
+}}
+.films-picker-item input {{ accent-color: var(--gold); cursor: pointer; }}
+.films-picker-item label {{ cursor: pointer; flex: 1; }}
+.films-picker-count {{ font-family: var(--mono); font-size: 9px; color: var(--muted); margin-left: 4px; }}
+
 
 /* DOC CARDS (pie charts) */
 .doc-grid {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1px; background: var(--border); border: 1px solid var(--border); }}
@@ -1428,13 +1836,13 @@ footer {{
 
 <nav>
   <span class="nav-brand">Theme Analysis</span>
-  <a href="#filmmap">Film Map</a>
-  <a href="#chunkmap">Chunk Map</a>
-{character_nav_link}
-  <a href="#pairs">Top Pairs</a>
   <a href="#breadth">Theme Breadth</a>
   <a href="#categories">Who Talks About What</a>
   <a href="#films">Films</a>
+  <a href="#filmmap-topic">Film Map</a>
+  <a href="#chunkmap">Chunk Map</a>
+{character_nav_link}
+  <a href="#pairs">Top Pairs</a>
 </nav>
 
 <div class="hero">
@@ -1445,17 +1853,118 @@ footer {{
   </div>
   <div class="stats-row">
     <div class="stat"><div class="stat-n">{data["n_docs"]}</div><div class="stat-label">Documentaries</div></div>
-    <div class="stat"><div class="stat-n">{data["n_topics"]}</div><div class="stat-label">Themes found</div></div>
     <div class="stat"><div class="stat-n">{data["n_chunks"]:,}</div><div class="stat-label">Segments</div></div>
   </div>
 </div>
 
 <main>
 
-    <!-- 01 FILM MAP — BY TOPIC -->
+  <!-- 00 SWEEP EXPLORER (The entire section or control wrapper sticks) -->
+  <div class="sweep-scope">
+  <section id="sweep-explorer" style="display:none;">
+    <div class="section-header">
+      <span class="section-num">00</span>
+      <h2>Explore Clustering Sensitivity</h2>
+    </div>
+    <p class="section-desc">
+      These two sliders control how the model decides what counts as a "theme."
+    </p>
+    <p class="section-desc">
+      <strong>Min Cluster Size</strong> sets how many transcript segments have to talk about
+      something similarly before it's treated as its own theme. Turn it up, and only big,
+      common themes survive — small or niche ones get folded into "unclassified." Turn it
+      down, and you'll see more themes, including smaller, more specific ones.
+    </p>
+    <p class="section-desc">
+      <strong>Min Samples</strong> controls how strict the model is about what belongs in a
+      theme. Turn it up, and only segments that closely match the core of a theme make the
+      cut — more segments get left out as unclassified, but the themes that remain are
+      tighter and more clearly defined. Turn it down, and the model is more lenient, pulling
+      in borderline segments — themes get broader and less pure, but fewer segments are left
+      unclassified.
+    </p>
+    <p class="section-desc">
+      Theme Breadth, Who Talks About What, Films &amp; Primary Themes, the Film Map (By Theme),
+      and Top Pairs below all update live as you move these sliders — so you can watch themes
+      merge, split, or disappear in real time.
+    </p>
+  </section>
+
+  <!-- This bar is what docks to the top -->
+  <div class="sweep-controls-sticky">
+    <div class="sweep-slider-row">
+      <label for="sweep-mcs">Min Cluster Size: <span id="sweep-mcs-val">—</span></label>
+      <input type="range" id="sweep-mcs" min="0" max="0" value="0" step="1">
+    </div>
+    <div class="sweep-slider-row">
+      <label for="sweep-ms">Min Samples: <span id="sweep-ms-val">—</span></label>
+      <input type="range" id="sweep-ms" min="0" max="0" value="0" step="1">
+    </div>
+    <div class="sweep-stats" id="sweep-stats"></div>
+  </div>
+
+  <!-- 01 THEME BREADTH -->
+  <section id="breadth">
+    <div class="section-header">
+      <span class="section-num">01</span>
+      <h2>Theme Breadth</h2>
+    </div>
+    <p class="section-desc" id="breadth-desc">How many of the {data["n_docs"]} films each theme appears in — corpus-wide reach, not depth within any one film. Click a theme to read real examples. <span id="breadth-outlier-stat">{data["outlier_pct"]}% of segments ({data["n_outlier_chunks"]:,})</span> didn't fit clearly into any theme and aren't shown below — the model would rather leave a segment unclassified than force it into a theme it doesn't really belong to.</p>
+    <div class="breadth-list" id="breadth-list"></div>
+  </section>
+
+  <!-- 02 CATEGORY x TOPIC -->
+  <section id="categories">
+    <div class="section-header">
+      <span class="section-num">02</span>
+      <h2>Who Talks About What</h2>
+    </div>
+    <p class="section-desc" id="categories-desc">Each row is a speaker category. The full bar is 100% of that category's classified segments — segment width is a theme's share within that category, so a long segment means that category leans heavily on that theme. Hover a segment for the theme and exact share.</p>
+    <div class="films-toggle" id="categories-outlier-toggle">
+      <button class="films-toggle-btn active" data-outliers="hide">Classified only</button>
+      <button class="films-toggle-btn" data-outliers="show">Include outliers</button>
+    </div>
+    <div class="cat-stack-list" id="cat-stack-list"></div>
+  </section>
+
+  <!-- 04 FILMS -->
+  <section id="films">
+    <div class="section-header">
+      <span class="section-num">03</span>
+      <h2>Films &amp; Primary <span id="films-mode-label">Themes</span></h2>
+    </div>
+    <p class="section-desc" id="films-desc">Top themes per film, sized by share of that film's own classified segments — so short and long films compare fairly.</p>
+    
+<div class="films-controls">
+      <div class="films-toggle" id="films-toggle">
+        <button class="films-toggle-btn active" data-mode="theme">By theme</button>
+        <button class="films-toggle-btn" data-mode="category">By speaker category</button>
+      </div>
+      <div class="films-toggle" id="films-outlier-toggle">
+        <button class="films-toggle-btn active" data-outliers="hide">Classified only</button>
+        <button class="films-toggle-btn" data-outliers="show">Include outliers</button>
+      </div>
+      <div class="films-controls-divider"></div>
+      <div class="films-picker">
+        <button class="films-picker-btn" id="films-picker-btn">Choose films <span class="films-picker-count" id="films-picker-count"></span></button>
+        <div class="films-picker-panel" id="films-picker-panel">
+          <div class="films-picker-actions">
+            <button type="button" id="films-picker-all">Select all</button>
+            <button type="button" id="films-picker-none">Clear</button>
+            <button type="button" id="films-picker-default">Reset to first 15</button>
+          </div>
+          <div id="films-picker-list"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="doc-grid" id="doc-grid"></div>
+  </section>
+
+    <!-- 05 FILM MAP — BY TOPIC -->
     <section id="filmmap-topic">
       <div class="section-header">
-        <span class="section-num">01</span>
+        <span class="section-num">04</span>
         <h2>Film Map — By Theme</h2>
       </div>
       <p class="section-desc">
@@ -1469,10 +1978,10 @@ footer {{
       </div>
     </section>
 
-    <!-- 01B FILM MAP — BY SPEAKER CATEGORY -->
+    <!-- 05B FILM MAP — BY SPEAKER CATEGORY -->
     <section id="filmmap-speaker">
       <div class="section-header">
-        <span class="section-num">01B</span>
+        <span class="section-num">04B</span>
         <h2>Film Map — By Speaker Category</h2>
       </div>
       <p class="section-desc">
@@ -1486,10 +1995,10 @@ footer {{
       </div>
     </section>
 
-    <!-- 01C FILM MAP — BY PRODUCTION & DISTRIBUTION -->
+    <!-- 05C FILM MAP — BY PRODUCTION & DISTRIBUTION -->
     <section id="filmmap-production">
       <div class="section-header">
-        <span class="section-num">01C</span>
+        <span class="section-num">04C</span>
         <h2>Film Map — By Production &amp; Distribution</h2>
       </div>
       <p class="section-desc">
@@ -1503,10 +2012,10 @@ footer {{
       </div>
     </section>
 
-    <!-- 01D CHUNK-LEVEL MAP -->
+    <!-- 05D CHUNK-LEVEL MAP -->
     <section id="chunkmap">
       <div class="section-header">
-        <span class="section-num">01D</span>
+        <span class="section-num">04D</span>
         <h2>Chunk-Level Map</h2>
       </div>
       <p class="section-desc">
@@ -1530,49 +2039,16 @@ footer {{
       </div>
     </section>
 {character_section_html}
-  <!-- 02 TOP PAIRS -->
+  <!-- 06 TOP PAIRS -->
   <section id="pairs">
     <div class="section-header">
-      <span class="section-num">02</span>
+      <span class="section-num">05</span>
       <h2>Strongest Connections</h2>
     </div>
     <p class="section-desc">Top 20 pairs ranked by cosine similarity, with the shared themes that drive each score.</p>
     <div class="pair-list" id="pair-list"></div>
   </section>
-
-  <!-- 03 THEME BREADTH -->
-  <section id="breadth">
-    <div class="section-header">
-      <span class="section-num">03</span>
-      <h2>Theme Breadth</h2>
-    </div>
-    <p class="section-desc">How many of the {data["n_docs"]} films each theme appears in — corpus-wide reach, not depth within any one film.</p>
-    <div class="breadth-list" id="breadth-list"></div>
-  </section>
-
-  <!-- 04 CATEGORY x TOPIC -->
-  <section id="categories">
-    <div class="section-header">
-      <span class="section-num">04</span>
-      <h2>Who Talks About What</h2>
-    </div>
-    <p class="section-desc">Each row is a speaker category. The full bar is 100% of that category's classified segments — segment width is a theme's share within that category, so a long segment means that category leans heavily on that theme. Hover a segment for the theme and exact share.</p>
-    <div class="cat-stack-list" id="cat-stack-list"></div>
-  </section>
-
-  <!-- 05 FILMS -->
-  <section id="films">
-    <div class="section-header">
-      <span class="section-num">05</span>
-      <h2>Films &amp; Primary <span id="films-mode-label">Themes</span></h2>
-    </div>
-    <p class="section-desc" id="films-desc">Top themes per film, sized by share of that film's own classified segments — so short and long films compare fairly.</p>
-    <div class="films-toggle" id="films-toggle">
-      <button class="films-toggle-btn active" data-mode="theme">By theme</button>
-      <button class="films-toggle-btn" data-mode="category">By speaker category</button>
-    </div>
-    <div class="doc-grid" id="doc-grid"></div>
-  </section>
+  </div>
 
 </main>
 
@@ -1597,6 +2073,265 @@ document.addEventListener('mousemove', moveTip);
 
 function cleanName(s) {{ return s.replace(/_Transcript$|_Transcript\\.docx$/, '').replace(/_/g, ' '); }}
 
+// ── SWEEP EXPLORER: fetch shared_data.json + sweep_configs.json, wire up
+// two sliders, and re-derive Theme Breadth / category breakdown / pies /
+// top pairs / the by-theme film map from whichever config is selected. If
+// either file is missing (e.g. the sweep was never run for this notebook),
+// SweepState.active stays false and every render function below falls
+// back to the static DATA fields exactly as before -- this feature is
+// fully optional and the page works without it.
+const OTHER_THRESHOLD_PCT = 2.0;
+const SweepState = {{ active: false, sharedData: null, configs: null, configKeys: [], mcsValues: [], msValues: [], current: null }};
+
+function topicLabelForChunk(topicIds, labels, i) {{
+  const t = topicIds[i];
+  if (t === -1) return 'Outliers';
+  return labels[String(t)] || `Topic ${{t}}`;
+}}
+
+function groupIndicesBy(chunks, keyFn) {{
+  const groups = {{}};
+  chunks.forEach((c, i) => {{
+    const k = keyFn(c, i);
+    if (!groups[k]) groups[k] = [];
+    groups[k].push(i);
+  }});
+  return groups;
+}}
+
+function sweepBuildDocTopicRows(doc, includeOutliers) {{
+  const {{ chunks }} = SweepState.sharedData;
+  const {{ topic_ids: topicIds, labels }} = SweepState.current;
+  const docIdx = [];
+  chunks.forEach((c, i) => {{ if (c.documentary === doc) docIdx.push(i); }});
+
+  const classifiedIdx = docIdx.filter(i => topicIds[i] !== -1);
+  const outlierIdx = docIdx.filter(i => topicIds[i] === -1);
+  const total = includeOutliers ? docIdx.length : classifiedIdx.length;
+
+  const counts = {{}};
+  classifiedIdx.forEach(i => {{
+    const label = topicLabelForChunk(topicIds, labels, i);
+    counts[label] = (counts[label] || 0) + 1;
+  }});
+  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+
+  const rows = [];
+  let otherCount = 0, otherN = 0;
+  sorted.forEach(([label, count]) => {{
+    const pct = total ? Math.round(1000 * count / total) / 10 : 0;
+    if (pct >= OTHER_THRESHOLD_PCT) rows.push({{ label, count, pct }});
+    else {{ otherCount += count; otherN += 1; }}
+  }});
+  if (otherCount > 0) {{
+    rows.push({{ label: 'Other', count: otherCount, pct: total ? Math.round(1000 * otherCount / total) / 10 : 0, n_themes: otherN }});
+  }}
+  if (includeOutliers && outlierIdx.length > 0) {{
+    rows.push({{ label: 'Outliers', count: outlierIdx.length, pct: total ? Math.round(1000 * outlierIdx.length / total) / 10 : 0 }});
+  }}
+  return rows;
+}}
+
+const JS_CATEGORY_PRIORITY = [
+  ['NARRATOR', 'NARRATOR'],
+  ['BEREAVED', 'BEREAVED'],
+  ['ADVOCATE_PROGUN', 'ADVOCATE_PROGUN'],
+  ['ADVOCATE_REFORM', 'ADVOCATE_REFORM'],
+  ['COMMUNITY_VOICE', 'COMMUNITY_VOICE'],
+  ['PROFESSIONAL', 'PROFESSIONAL'],
+  ['NEWS_CLIP', 'NEWS_CLIP'],
+  ['FAMILY_FRIEND', 'FAMILY_FRIEND'],
+];
+
+function jsCollapseCategory(raw) {{
+  const upper = String(raw || '').toUpperCase();
+  for (const [kw, bucket] of JS_CATEGORY_PRIORITY) {{
+    if (upper.includes(kw)) return bucket;
+  }}
+  return 'OTHER';
+}}
+
+function sweepBuildCategoryBreakdown(includeOutliers) {{
+  const {{ chunks }} = SweepState.sharedData;
+  const {{ topic_ids: topicIds, labels }} = SweepState.current;
+  const byCategory = groupIndicesBy(chunks, c => jsCollapseCategory(c.category));
+  const categories = Object.keys(byCategory).sort();
+
+  const byCat = {{}};
+  categories.forEach(cat => {{
+    const idx = byCategory[cat];
+    const relevant = includeOutliers ? idx : idx.filter(i => topicIds[i] !== -1);
+    const total = relevant.length;
+    const counts = {{}};
+    relevant.forEach(i => {{
+      const label = topicLabelForChunk(topicIds, labels, i);
+      counts[label] = (counts[label] || 0) + 1;
+    }});
+    byCat[cat] = Object.entries(counts)
+      .map(([label, count]) => ({{ label, count, pct: total ? Math.round(1000 * count / total) / 10 : 0 }}))
+      .sort((a, b) => b.count - a.count);
+  }});
+
+  return {{ categories, by_category: byCat }};
+}}
+
+function sweepBuildTopicSummary() {{
+  const {{ chunks }} = SweepState.sharedData;
+  const {{ topic_ids: topicIds, labels }} = SweepState.current;
+  const byLabel = {{}};
+  chunks.forEach((c, i) => {{
+    if (topicIds[i] === -1) return;
+    const label = topicLabelForChunk(topicIds, labels, i);
+    if (!byLabel[label]) byLabel[label] = new Set();
+    byLabel[label].add(c.documentary);
+  }});
+  return Object.entries(byLabel)
+    .map(([label, docSet]) => ({{ label, doc_count: docSet.size }}))
+    .sort((a, b) => b.doc_count - a.doc_count);
+}}
+
+function sweepBuildTopPairs(docs) {{
+  const {{ chunks }} = SweepState.sharedData;
+  const {{ topic_ids: topicIds, labels }} = SweepState.current;
+  const byDocLabels = {{}};
+  docs.forEach(doc => {{ byDocLabels[doc] = new Set(); }});
+  chunks.forEach((c, i) => {{
+    if (topicIds[i] === -1) return;
+    byDocLabels[c.documentary].add(topicLabelForChunk(topicIds, labels, i));
+  }});
+
+  const allLabels = Array.from(new Set(Object.values(byDocLabels).flatMap(s => Array.from(s)))).sort();
+  function cosine(a, b) {{
+    let dot = 0, na = 0, nb = 0;
+    allLabels.forEach(l => {{
+      const av = a.has(l) ? 1 : 0, bv = b.has(l) ? 1 : 0;
+      dot += av * bv; na += av * av; nb += bv * bv;
+    }});
+    if (na === 0 || nb === 0) return 0;
+    return dot / (Math.sqrt(na) * Math.sqrt(nb));
+  }}
+
+  const pairs = [];
+  for (let i = 0; i < docs.length; i++) {{
+    for (let j = i + 1; j < docs.length; j++) {{
+      const score = cosine(byDocLabels[docs[i]], byDocLabels[docs[j]]);
+      if (score > 0) {{
+        const shared = Array.from(byDocLabels[docs[i]]).filter(l => byDocLabels[docs[j]].has(l));
+        const sharedDetail = shared.map(label => {{
+          const c1 = Array.from(byDocLabels[docs[i]]).includes(label)
+            ? chunks.filter((c, ci) => c.documentary === docs[i] && topicLabelForChunk(topicIds, labels, ci) === label).length : 0;
+          const c2 = chunks.filter((c, ci) => c.documentary === docs[j] && topicLabelForChunk(topicIds, labels, ci) === label).length;
+          return {{ label, doc1_chunks: c1, doc2_chunks: c2, total: c1 + c2 }};
+        }}).sort((a, b) => b.total - a.total).slice(0, 5);
+        pairs.push({{ doc1: docs[i], doc2: docs[j], score: Math.round(score * 10000) / 10000, shared: sharedDetail }});
+      }}
+    }}
+  }}
+  pairs.sort((a, b) => b.score - a.score);
+  return pairs;
+}}
+
+function sweepBuildDominantThemePerFilm(docs) {{
+  const out = {{}};
+  docs.forEach(doc => {{
+    const rows = sweepBuildDocTopicRows(doc, false);
+    out[doc] = rows.length ? {{ theme: rows[0].label, pct: rows[0].pct }} : {{ theme: null, pct: 0 }};
+  }});
+  return out;
+}}
+
+// Re-renders every slider-aware section. Called once on initial config load
+// and again every time either slider moves.
+function rerenderSweepAwareSections() {{
+  // 1. Identify the topmost visible section currently in the user's viewport
+  const sections = Array.from(document.querySelectorAll('main section'));
+  const anchorSection = sections.find(s => s.getBoundingClientRect().bottom > 130) || document.body;
+  const initialTop = anchorSection.getBoundingClientRect().top;
+
+  // 2. Re-render all dynamic charts
+  if (typeof renderThemeBreadth === 'function') renderThemeBreadth();
+  if (typeof renderCategoryBreakdown === 'function') renderCategoryBreakdown();
+  if (typeof renderFilmsPies === 'function') renderFilmsPies();
+  if (typeof renderTopPairs === 'function') renderTopPairs();
+  if (typeof rerenderByThemeMap === 'function') rerenderByThemeMap();
+
+  // 3. Compensate for any height change above the active section
+  const delta = anchorSection.getBoundingClientRect().top - initialTop;
+  if (delta !== 0) {{
+    window.scrollBy(0, delta);
+  }}
+}}
+
+function updateSweepStatsPanel() {{
+  if (!SweepState.current) return;
+  const c = SweepState.current;
+  
+  // 1. Update toolbar summary
+  const el = document.getElementById('sweep-stats');
+  if (el) {{
+    el.innerHTML = `<b>${{c.n_topics}}</b> themes active &nbsp;·&nbsp; <b>${{c.outlier_pct}}%</b> unclassified (${{c.n_outliers.toLocaleString()}} segments)`;
+  }}
+
+  // 2. Update top hero stats cards live
+  const heroTopics = document.getElementById('hero-n-topics');
+  if (heroTopics) heroTopics.textContent = c.n_topics;
+
+  const heroOutliers = document.getElementById('hero-outlier-pct');
+  if (heroOutliers) heroOutliers.textContent = `${{c.outlier_pct}}%`;
+}}
+
+function selectSweepConfig(mcs, ms) {{
+  const key = `${{mcs}}_${{ms}}`;
+  if (!SweepState.configs[key]) return;
+  SweepState.current = SweepState.configs[key];
+  document.getElementById('sweep-mcs-val').textContent = mcs;
+  document.getElementById('sweep-ms-val').textContent = ms;
+  updateSweepStatsPanel();
+  rerenderSweepAwareSections();
+}}
+
+async function initSweepExplorer() {{
+  try {{
+    const [sharedResp, configsResp] = await Promise.all([
+      fetch('{notebook_name}_shared_data.json'),
+      fetch('{notebook_name}_sweep_configs.json'),
+    ]);
+    if (!sharedResp.ok || !configsResp.ok) return;  // files not present -- feature stays inactive
+
+    SweepState.sharedData = await sharedResp.json();
+    SweepState.configs = await configsResp.json();
+    SweepState.configKeys = Object.keys(SweepState.configs);
+    if (!SweepState.configKeys.length) return;
+
+    SweepState.mcsValues = Array.from(new Set(Object.values(SweepState.configs).map(c => c.min_cluster_size))).sort((a, b) => a - b);
+    SweepState.msValues = Array.from(new Set(Object.values(SweepState.configs).map(c => c.min_samples))).sort((a, b) => a - b);
+
+    const mcsSlider = document.getElementById('sweep-mcs');
+    const msSlider = document.getElementById('sweep-ms');
+    mcsSlider.min = 0; mcsSlider.max = SweepState.mcsValues.length - 1;
+    msSlider.min = 0; msSlider.max = SweepState.msValues.length - 1;
+
+    const defaultMcsIdx = SweepState.mcsValues.indexOf(10);
+    const defaultMsIdx = SweepState.msValues.indexOf(3);
+    mcsSlider.value = defaultMcsIdx !== -1 ? defaultMcsIdx : 0;
+    msSlider.value = defaultMsIdx !== -1 ? defaultMsIdx : 0;
+
+    function onSliderChange() {{
+      const mcs = SweepState.mcsValues[+mcsSlider.value];
+      const ms = SweepState.msValues[+msSlider.value];
+      selectSweepConfig(mcs, ms);
+    }}
+    mcsSlider.addEventListener('input', onSliderChange);
+    msSlider.addEventListener('input', onSliderChange);
+
+    SweepState.active = true;
+    document.getElementById('sweep-explorer').style.display = 'block';
+    onSliderChange();  // select initial (first) config and render
+  }} catch (err) {{
+    console.error('Sweep explorer failed to initialize (feature stays inactive):', err);
+  }}
+}}
+
 // ── GLOBAL THEME COLOR MAP ───────────────────────────────────────────────
 // One stable, muted color per theme, shared by every chart on the page
 // (pies, bars, tags) so the same theme always reads as the same color —
@@ -1608,15 +2343,42 @@ const THEME_COLOR = (function() {{
   const allThemes = (DATA.topic_summary || []).map(t => t.label).sort();
   const n = allThemes.length || 1;
   const semanticHue = DATA.theme_hue || {{}};
+  // Themes with nearby hues (common once you have 20-30 topics on a 0-320
+  // degree wheel) are hard to tell apart at one fixed saturation/lightness
+  // -- adjacent hues can end up only a few degrees apart, which is well
+  // under what's reliably distinguishable by eye. Cycling saturation/
+  // lightness through a small fixed set, keyed off each theme's sorted
+  // index, means two hue-neighbors are very likely to land on different
+  // S/L pairs too -- roughly an 8x average / 10x worst-case improvement in
+  // perceptual separation between hue-adjacent themes vs. a fixed (30%,
+  // 40%), while every variant still clears WCAG 3:1 contrast against the
+  // page's dark background.
+  const SL_VARIANTS = [[42, 46], [30, 58], [55, 38], [25, 62]];
   const map = {{}};
   allThemes.forEach((label, i) => {{
     const hue = semanticHue[label] !== undefined ? semanticHue[label] : Math.round((i / n) * 320);
-    map[label] = `hsl(${{hue}}, 30%, 40%)`;
+    const s = SL_VARIANTS[i % SL_VARIANTS.length][0];
+    const l = SL_VARIANTS[i % SL_VARIANTS.length][1];
+    map[label] = `hsl(${{hue}}, ${{s}}%, ${{l}}%)`;
   }});
   map['Other'] = 'hsl(0, 0%, 32%)';
+  map['Outliers'] = 'hsl(0, 0%, 20%)';
   return map;
 }})();
-function themeColor(label) {{ return THEME_COLOR[label] || '#888'; }}
+function themeColor(label) {{ 
+  if (!THEME_COLOR[label]) {{
+    let hash = 0;
+    for (let i = 0; i < label.length; i++) {{
+      hash = label.charCodeAt(i) + ((hash << 5) - hash);
+    }}
+    const hue = Math.abs(hash) % 320;
+    const SL_VARIANTS = [[42, 46], [30, 58], [55, 38], [25, 62]];
+    const s = SL_VARIANTS[Math.abs(hash) % SL_VARIANTS.length][0];
+    const l = SL_VARIANTS[Math.abs(hash) % SL_VARIANTS.length][1];
+    THEME_COLOR[label] = `hsl(${{hue}}, ${{s}}%, ${{l}}%)`;
+  }}
+  return THEME_COLOR[label]; 
+}}
 
 // ── SPEAKER CATEGORY COLOR MAP ───────────────────────────────────────────
 // Separate from THEME_COLOR since categories (8-9 fixed buckets) are a
@@ -1658,6 +2420,8 @@ function makeFilmMap(opts) {{
     const films = fsim.films;
 
     const svg = d3.select(svgEl);
+    svg.selectAll('*').remove(); // Clears previous grid and points before redrawing
+
     const container = svgEl.parentElement;
     const W = container.offsetWidth || 1100, H = 600;
     svg.attr('viewBox', `0 0 ${{W}} ${{H}}`);
@@ -1749,19 +2513,35 @@ function legendFromCounts(items, colorFn, maxShown) {{
 }}
 
 // ── 01: by theme ─────────────────────────────────────────────────────────
-makeFilmMap({{
-  svgId: 'filmmap-topic-svg',
-  legendId: 'filmmap-topic-legend',
-  sizeMetric: d => d.dominant_theme_pct,
-  colorFor: d => d.dominant_theme ? themeColor(d.dominant_theme) : themeColor('Other'),
-  tooltipFor: d => {{
-    const themeLine = d.dominant_theme
-      ? `Dominant theme: ${{d.dominant_theme}} (${{d.dominant_theme_pct}}%)`
-      : 'Dominant theme: —';
-    return `<b>${{cleanName(d.doc)}}</b><br>${{d.chunks}} segments<br>${{themeLine}}`;
-  }},
-  legendHtml: films => legendFromCounts(films.map(d => d.dominant_theme), themeColor, 12),
-}});
+function rerenderByThemeMap() {{
+  const fsim = DATA.film_similarity;
+  if (!fsim || !fsim.films) return;
+  if (SweepState.active && SweepState.current) {{
+    // Dot POSITIONS never change (they come from raw embeddings, computed
+    // once) -- only which theme is "dominant" per film and how dominant it
+    // is, both cheap to recompute from the live config.
+    const dominant = sweepBuildDominantThemePerFilm(DATA.docs);
+    fsim.films.forEach(f => {{
+      const d = dominant[f.doc];
+      f.dominant_theme = d ? d.theme : null;
+      f.dominant_theme_pct = d ? d.pct : 0.0;
+    }});
+  }}
+  makeFilmMap({{
+    svgId: 'filmmap-topic-svg',
+    legendId: 'filmmap-topic-legend',
+    sizeMetric: d => d.dominant_theme_pct,
+    colorFor: d => d.dominant_theme ? themeColor(d.dominant_theme) : themeColor('Other'),
+    tooltipFor: d => {{
+      const themeLine = d.dominant_theme
+        ? `Dominant theme: ${{d.dominant_theme}} (${{d.dominant_theme_pct}}%)`
+        : 'Dominant theme: —';
+      return `<b>${{cleanName(d.doc)}}</b><br>${{d.chunks}} segments<br>${{themeLine}}`;
+    }},
+    legendHtml: films => legendFromCounts(films.map(d => d.dominant_theme), themeColor, 12),
+  }});
+}}
+rerenderByThemeMap();
 
 // ── 01B: by speaker category ──────────────────────────────────────────────
 makeFilmMap({{
@@ -1924,10 +2704,16 @@ try {{
 }}
 {character_map_js}
 // ── TOP PAIRS (cards) ──────────────────────────────────────────────────────
-(function() {{
+function renderTopPairs() {{
   const list = document.getElementById('pair-list');
-  const maxScore = DATA.top_pairs[0]?.score || 1;
-  DATA.top_pairs.slice(0, 20).forEach(p => {{
+  if (!list) return;
+  const pairs = (SweepState.active && SweepState.current)
+    ? sweepBuildTopPairs(DATA.docs)
+    : DATA.top_pairs;
+
+  list.innerHTML = '';
+  const maxScore = pairs[0]?.score || 1;
+  pairs.slice(0, 20).forEach(p => {{
     const card = document.createElement('div'); card.className = 'pair-card';
     const pct = (p.score / maxScore * 100).toFixed(1);
     const tags = p.shared.slice(0, 4).map(s =>
@@ -1946,34 +2732,150 @@ try {{
       <div class="shared-tags">${{tags}}</div>`;
     list.appendChild(card);
   }});
-}})();
+}}
+renderTopPairs();
 
-// ── THEME BREADTH ──────────────────────────────────────────────────────────
-(function() {{
+// ── THEME BREADTH (inline accordion, full quote sample per theme) ──────────
+let breadthExpanded = false;
+
+function renderThemeBreadth() {{
   const list = document.getElementById('breadth-list');
-  const sorted = [...DATA.topic_summary].sort((a, b) => b.doc_count - a.doc_count);
+  if (!list) return;
+  const topicSummary = (SweepState.active && SweepState.current) ? sweepBuildTopicSummary() : DATA.topic_summary;
+  const sorted = [...topicSummary].sort((a, b) => b.doc_count - a.doc_count);
   const maxCount = sorted[0]?.doc_count || 1;
-  sorted.forEach(t => {{
+  const usingSweep = SweepState.active && SweepState.current;
+
+  // Sweep mode: examples/bertopic names live per-config, keyed by topic id,
+  // not by label -- build label->tid and label->quotes/rawName lookups once
+  // per render so the rest of this function can stay label-keyed either way.
+  let examples = DATA.theme_examples || {{}};
+  let bertopicNames = DATA.theme_bertopic_names || {{}};
+  if (usingSweep) {{
+    const c = SweepState.current;
+    const exampleTexts = (SweepState.sharedData && SweepState.sharedData.example_chunk_texts) || {{}};
+    const chunkMeta = (SweepState.sharedData && SweepState.sharedData.chunks) || [];
+    examples = {{}};
+    bertopicNames = {{}};
+    Object.keys(c.labels || {{}}).forEach(tid => {{
+      const label = c.labels[tid];
+      bertopicNames[label] = (c.bertopic_names || {{}})[tid];
+      const idxList = (c.example_indices || {{}})[tid] || [];
+      examples[label] = idxList
+        .filter(i => exampleTexts[String(i)] !== undefined && chunkMeta[i])
+        .map(i => {{
+          const meta = chunkMeta[i];
+          return {{
+            text: exampleTexts[String(i)],
+            documentary: meta.documentary,
+            start_time: meta.start_time,
+            end_time: meta.end_time,
+            category: meta.category,
+          }};
+        }});
+    }});
+  }}
+
+  const outlierStatEl = document.getElementById('breadth-outlier-stat');
+  if (outlierStatEl) {{
+    if (usingSweep) {{
+      const c = SweepState.current;
+      outlierStatEl.textContent = `${{c.outlier_pct}}% of segments (${{c.n_outliers.toLocaleString()}})`;
+    }} else {{
+      outlierStatEl.textContent = `{data["outlier_pct"]}% of segments ({data["n_outlier_chunks"]:,})`;
+    }}
+  }}
+
+  function escapeHtml(s) {{
+    return String(s).replace(/[&<>"']/g, c => ({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}}[c]));
+  }}
+
+  function quoteCardHtml(q) {{
+    const src = `${{cleanName(q.documentary)}} · ${{q.start_time}}\u2013${{q.end_time}} · ${{q.category}}`;
+    return `<div class="theme-quote-card">
+              <div class="theme-quote-text">${{escapeHtml(q.text)}}</div>
+              <div class="theme-quote-meta">${{escapeHtml(src)}}</div>
+            </div>`;
+  }}
+
+  // Cap at 30 unless the user has explicitly clicked expand
+  const LIMIT = 30;
+  const showAll = breadthExpanded || sorted.length <= LIMIT;
+  const visibleThemes = showAll ? sorted : sorted.slice(0, LIMIT);
+
+  list.innerHTML = '';
+  visibleThemes.forEach(t => {{
     const row = document.createElement('div'); row.className = 'breadth-row';
     const widthPct = (t.doc_count / maxCount * 100).toFixed(1);
+    const quotes = examples[t.label] || [];
+    const sampleFilmCount = new Set(quotes.map(q => q.documentary)).size;
+    const rawName = bertopicNames[t.label];
+
+    const bertopicNote = rawName
+      ? `<div class="breadth-bertopic-note">BERTopic originally named this <code>${{escapeHtml(rawName)}}</code> — renamed above for readability.</div>`
+      : '';
+    let filmsLine = '';
+    if (quotes.length) {{
+      filmsLine = `<div class="breadth-panel-films">Examples drawn from ${{sampleFilmCount}} of ${{t.doc_count}} film${{t.doc_count === 1 ? '' : 's'}} this theme appears in.</div>`;
+    }}
+
     row.innerHTML = `
       <div class="breadth-label">${{t.label}}</div>
       <div class="breadth-bar-track">
         <div class="breadth-bar-fill" style="width:${{widthPct}}%; background:${{themeColor(t.label)}}">
           <span>${{t.doc_count}} film${{t.doc_count === 1 ? '' : 's'}}</span>
         </div>
+      </div>
+      <div class="breadth-panel">
+        ${{bertopicNote}}
+        ${{filmsLine}}
+        <div class="breadth-panel-quotes">
+          ${{quotes.map(quoteCardHtml).join('') || '<p style="color:var(--muted);">No examples available for this theme.</p>'}}
+        </div>
       </div>`;
+
+    const panel = row.querySelector('.breadth-panel');
+
+    row.addEventListener('click', () => {{
+      const isOpen = panel.classList.contains('open');
+      list.querySelectorAll('.breadth-panel.open').forEach(p => p.classList.remove('open'));
+      list.querySelectorAll('.breadth-row.expanded').forEach(r => r.classList.remove('expanded'));
+      if (!isOpen) {{
+        panel.classList.add('open');
+        row.classList.add('expanded');
+      }}
+    }});
+
     list.appendChild(row);
   }});
-}})();
+
+  // Add toggle button if more than 30 themes exist
+  if (sorted.length > LIMIT) {{
+    const btn = document.createElement('button');
+    btn.className = 'breadth-expand-btn';
+    btn.textContent = breadthExpanded
+      ? `Show top 30 only`
+      : `Show all ${{sorted.length}} themes (+${{sorted.length - LIMIT}} more)`;
+    btn.addEventListener('click', () => {{
+      breadthExpanded = !breadthExpanded;
+      renderThemeBreadth();
+    }});
+    list.appendChild(btn);
+  }}
+}}
+renderThemeBreadth();
 
 // ── CATEGORY STACKED BARS ───────────────────────────────────────────────────
-(function() {{
-  const breakdown = DATA.category_breakdown;
+let catStackShowOutliers = false;
+function renderCategoryBreakdown() {{
+  const list = document.getElementById('cat-stack-list');
+  if (!list) return;
+  const breakdown = (SweepState.active && SweepState.current)
+    ? sweepBuildCategoryBreakdown(catStackShowOutliers)
+    : (catStackShowOutliers ? (DATA.category_breakdown_with_outliers || DATA.category_breakdown) : DATA.category_breakdown);
   if (!breakdown) return;
 
-  const list = document.getElementById('cat-stack-list');
-
+  list.innerHTML = '';
   breakdown.categories.forEach(cat => {{
     const themes = breakdown.by_category[cat] || [];
     const row = document.createElement('div'); row.className = 'cat-stack-row';
@@ -1999,116 +2901,263 @@ try {{
     }});
     seg.addEventListener('mouseleave', hideTip);
   }});
+}}
+
+(function() {{
+  const toggle = document.getElementById('categories-outlier-toggle');
+  const desc = document.getElementById('categories-desc');
+  if (toggle) {{
+    toggle.querySelectorAll('.films-toggle-btn').forEach(btn => {{
+      btn.addEventListener('click', () => {{
+        catStackShowOutliers = btn.dataset.outliers === 'show';
+        toggle.querySelectorAll('.films-toggle-btn').forEach(b => b.classList.toggle('active', b === btn));
+        if (desc) desc.textContent = catStackShowOutliers
+          ? "Each row is a speaker category. The full bar is 100% of that category's segments, including those that didn't fit clearly into any theme (shown as Outliers) — segment width is a share within that category. Hover a segment for the theme and exact share."
+          : "Each row is a speaker category. The full bar is 100% of that category's classified segments — segment width is a theme's share within that category, so a long segment means that category leans heavily on that theme. Hover a segment for the theme and exact share.";
+        renderCategoryBreakdown();
+      }});
+    }});
+  }}
+  renderCategoryBreakdown();
 }})();
 
 // ── FILMS — PIE CHARTS ──────────────────────────────────────────────────────
+let filmsPieMode = 'theme';
+let filmsPieShowOutliers = false;
+
+function filmsArcPath(startAngle, endAngle, r, cx, cy) {{
+  // angles in radians, 0 = top, clockwise
+  // A full 360° sweep (single category/theme at 100%) can't be drawn as one
+  // SVG arc command — its start and end points are identical, so the path
+  // is zero-length and invisible. Split it into two half-circle arcs instead.
+  const full = (endAngle - startAngle) >= Math.PI * 2 - 0.0001;
+  if (full) {{
+    const midAngle = startAngle + Math.PI;
+    const x1 = cx + r * Math.sin(startAngle), y1 = cy - r * Math.cos(startAngle);
+    const xm = cx + r * Math.sin(midAngle),   ym = cy - r * Math.cos(midAngle);
+    return `M${{cx}},${{cy}} L${{x1.toFixed(2)}},${{y1.toFixed(2)}} A${{r}},${{r}} 0 1 1 ${{xm.toFixed(2)}},${{ym.toFixed(2)}} A${{r}},${{r}} 0 1 1 ${{x1.toFixed(2)}},${{y1.toFixed(2)}} Z`;
+  }}
+  const x1 = cx + r * Math.sin(startAngle), y1 = cy - r * Math.cos(startAngle);
+  const x2 = cx + r * Math.sin(endAngle),   y2 = cy - r * Math.cos(endAngle);
+  const large = (endAngle - startAngle) > Math.PI ? 1 : 0;
+  return `M${{cx}},${{cy}} L${{x1.toFixed(2)}},${{y1.toFixed(2)}} A${{r}},${{r}} 0 ${{large}} 1 ${{x2.toFixed(2)}},${{y2.toFixed(2)}} Z`;
+}}
+
+function filmsSliceData(doc) {{
+  if (filmsPieMode === 'category') {{
+    // doc_categories is exhaustive (every chunk lands in a named bucket or
+    // OTHER) -- speaker is always known, so outlier status (which is about
+    // TOPIC assignment only) has nothing to add here, and it's config-
+    // independent, so the sweep sliders don't touch this mode at all.
+    return {{ items: DATA.doc_categories[doc] || [], color: categoryColor, unit: 'category' }};
+  }}
+  if (SweepState.active && SweepState.current) {{
+    return {{ items: sweepBuildDocTopicRows(doc, filmsPieShowOutliers), color: themeColor, unit: 'theme' }};
+  }}
+  // doc_topics / doc_topics_with_outliers already include a fully-formed
+  // 'Other' entry (with its own count/pct/n_themes) for whatever fell
+  // under the 2% threshold server-side -- nothing to synthesize here.
+  const source = filmsPieShowOutliers ? DATA.doc_topics_with_outliers : DATA.doc_topics;
+  return {{ items: (source && source[doc]) || [], color: themeColor, unit: 'theme' }};
+}}
+
+let filmsSelectedDocs = null; // Set of doc keys currently shown; built once DATA is available
+
+function filmsDefaultSelection() {{
+  return new Set(
+    [...DATA.docs]
+      .sort((a, b) => cleanName(a).localeCompare(cleanName(b)))
+      .slice(0, 15)
+  );
+}}
+
+function updateFilmsPickerCount() {{
+  const countEl = document.getElementById('films-picker-count');
+  if (countEl) countEl.textContent = `(${{filmsSelectedDocs.size}}/${{DATA.docs.length}})`;
+}}
+
+function renderFilmsPickerList() {{
+  const list = document.getElementById('films-picker-list');
+  if (!list) return;
+  list.innerHTML = '';
+  [...DATA.docs]
+    .sort((a, b) => cleanName(a).localeCompare(cleanName(b)))
+    .forEach((doc, i) => {{
+      const row = document.createElement('div'); row.className = 'films-picker-item';
+      const id = `films-pick-${{i}}`;
+      const cb = document.createElement('input');
+      cb.type = 'checkbox'; cb.id = id; cb.checked = filmsSelectedDocs.has(doc);
+      cb.addEventListener('change', () => {{
+        if (cb.checked) filmsSelectedDocs.add(doc); else filmsSelectedDocs.delete(doc);
+        updateFilmsPickerCount();
+        renderFilmsPies();
+      }});
+      const label = document.createElement('label'); label.htmlFor = id; label.textContent = cleanName(doc);
+      row.appendChild(cb); row.appendChild(label);
+      list.appendChild(row);
+    }});
+}}
+
+function renderFilmsPies() {{
+  const grid = document.getElementById('doc-grid');
+  if (!grid) return;
+  if (!filmsSelectedDocs) filmsSelectedDocs = filmsDefaultSelection();
+  const R = 84, CX = 84, CY = 84;
+
+  grid.innerHTML = '';
+  DATA.docs.filter(doc => filmsSelectedDocs.has(doc)).forEach(doc => {{
+    const {{ items, color, unit }} = filmsSliceData(doc);
+    // Total count of distinct things this film covers — slices shown
+    // individually, plus however many got pooled into Other (n_themes),
+    // so the center number reflects every theme/category present, not
+    // just how many wedges got drawn.
+    const otherEntry = items.find(s => s.label === 'Other');
+    const realCount = items.filter(s => s.label !== 'Other' && s.label !== 'Outliers').length + (otherEntry?.n_themes || 0);
+
+    const card = document.createElement('div'); card.className = 'doc-card';
+    const svgNS = 'http://www.w3.org/2000/svg';
+    const svg = document.createElementNS(svgNS, 'svg');
+    svg.setAttribute('viewBox', `0 0 ${{CX * 2}} ${{CY * 2}}`);
+
+    let angle = 0;
+    items.forEach(s => {{
+      const frac = Math.max(0, s.pct) / 100;
+      const sweep = frac * Math.PI * 2;
+      const path = document.createElementNS(svgNS, 'path');
+      path.setAttribute('d', filmsArcPath(angle, angle + sweep, R, CX, CY));
+      path.setAttribute('fill', color(s.label));
+      path.setAttribute('class', 'doc-pie-slice');
+      path.addEventListener('mouseenter', (e) => {{
+        let detail = '';
+        if (s.label === 'Other' && s.n_themes) {{
+          detail = `<br><span style="color:var(--muted)">${{s.n_themes}} theme${{s.n_themes === 1 ? '' : 's'}} under 2% each</span>`;
+        }} else if (s.label === 'Outliers') {{
+          detail = `<br><span style="color:var(--muted)">Didn't fit clearly into any theme</span>`;
+        }}
+        showTip(e, `<b>${{s.label}}</b><br><span style="color:${{color(s.label)}}">${{s.pct.toFixed(1)}}%</span>${{detail}}`);
+      }});
+      path.addEventListener('mouseleave', hideTip);
+      svg.appendChild(path);
+      angle += sweep;
+    }});
+
+    const wrap = document.createElement('div'); wrap.className = 'doc-pie-wrap';
+    wrap.appendChild(svg);
+    const center = document.createElement('div'); center.className = 'doc-pie-center';
+    const unitPlural = realCount === 1 ? unit : (unit === 'category' ? 'categories' : `${{unit}}s`);
+    center.innerHTML = `<div class="n">${{realCount}}</div><div class="label">${{unitPlural}}</div>`;
+    wrap.appendChild(center);
+
+    const name = document.createElement('div'); name.className = 'doc-name';
+    name.textContent = cleanName(doc);
+
+    card.appendChild(name);
+    card.appendChild(wrap);
+    grid.appendChild(card);
+  }});
+}}
+
 (function() {{
   const grid = document.getElementById('doc-grid');
   if (!grid) return;
 
-  const R = 84, CX = 84, CY = 84;
-  let mode = 'theme';
+  filmsSelectedDocs = filmsDefaultSelection();
+  renderFilmsPickerList();
+  updateFilmsPickerCount();
 
-  function arcPath(startAngle, endAngle, r, cx, cy) {{
-    // angles in radians, 0 = top, clockwise
-    // A full 360° sweep (single category/theme at 100%) can't be drawn as one
-    // SVG arc command — its start and end points are identical, so the path
-    // is zero-length and invisible. Split it into two half-circle arcs instead.
-    const full = (endAngle - startAngle) >= Math.PI * 2 - 0.0001;
-    if (full) {{
-      const midAngle = startAngle + Math.PI;
-      const x1 = cx + r * Math.sin(startAngle), y1 = cy - r * Math.cos(startAngle);
-      const xm = cx + r * Math.sin(midAngle),   ym = cy - r * Math.cos(midAngle);
-      return `M${{cx}},${{cy}} L${{x1.toFixed(2)}},${{y1.toFixed(2)}} A${{r}},${{r}} 0 1 1 ${{xm.toFixed(2)}},${{ym.toFixed(2)}} A${{r}},${{r}} 0 1 1 ${{x1.toFixed(2)}},${{y1.toFixed(2)}} Z`;
-    }}
-    const x1 = cx + r * Math.sin(startAngle), y1 = cy - r * Math.cos(startAngle);
-    const x2 = cx + r * Math.sin(endAngle),   y2 = cy - r * Math.cos(endAngle);
-    const large = (endAngle - startAngle) > Math.PI ? 1 : 0;
-    return `M${{cx}},${{cy}} L${{x1.toFixed(2)}},${{y1.toFixed(2)}} A${{r}},${{r}} 0 ${{large}} 1 ${{x2.toFixed(2)}},${{y2.toFixed(2)}} Z`;
-  }}
-
-  function sliceData(doc) {{
-    if (mode === 'category') {{
-      // doc_categories is exhaustive (every chunk lands in a named bucket or
-      // OTHER), so it always sums to ~100% already — no extra slice needed.
-      return {{ items: DATA.doc_categories[doc] || [], color: categoryColor, unit: 'category' }};
-    }}
-    // doc_topics already includes a fully-formed 'Other' entry (with its own
-    // count/pct/n_themes) for whatever fell under the 2% threshold server-side
-    // — nothing to synthesize here.
-    return {{ items: DATA.doc_topics[doc] || [], color: themeColor, unit: 'theme' }};
-  }}
-
-  function render() {{
-    grid.innerHTML = '';
-    DATA.docs.forEach(doc => {{
-      const {{ items, color, unit }} = sliceData(doc);
-      // Total count of distinct things this film covers — slices shown
-      // individually, plus however many got pooled into Other (n_themes),
-      // so the center number reflects every theme/category present, not
-      // just how many wedges got drawn.
-      const otherEntry = items.find(s => s.label === 'Other');
-      const realCount = items.filter(s => s.label !== 'Other').length + (otherEntry?.n_themes || 0);
-
-      const card = document.createElement('div'); card.className = 'doc-card';
-      const svgNS = 'http://www.w3.org/2000/svg';
-      const svg = document.createElementNS(svgNS, 'svg');
-      svg.setAttribute('viewBox', `0 0 ${{CX * 2}} ${{CY * 2}}`);
-
-      let angle = 0;
-      items.forEach(s => {{
-        const frac = Math.max(0, s.pct) / 100;
-        const sweep = frac * Math.PI * 2;
-        const path = document.createElementNS(svgNS, 'path');
-        path.setAttribute('d', arcPath(angle, angle + sweep, R, CX, CY));
-        path.setAttribute('fill', color(s.label));
-        path.setAttribute('class', 'doc-pie-slice');
-        path.addEventListener('mouseenter', (e) => {{
-          const detail = s.label === 'Other' && s.n_themes
-            ? `<br><span style="color:var(--muted)">${{s.n_themes}} theme${{s.n_themes === 1 ? '' : 's'}} under 2% each</span>`
-            : '';
-          showTip(e, `<b>${{s.label}}</b><br><span style="color:${{color(s.label)}}">${{s.pct.toFixed(1)}}%</span>${{detail}}`);
-        }});
-        path.addEventListener('mouseleave', hideTip);
-        svg.appendChild(path);
-        angle += sweep;
-      }});
-
-      const wrap = document.createElement('div'); wrap.className = 'doc-pie-wrap';
-      wrap.appendChild(svg);
-      const center = document.createElement('div'); center.className = 'doc-pie-center';
-      const unitPlural = realCount === 1 ? unit : (unit === 'category' ? 'categories' : `${{unit}}s`);
-      center.innerHTML = `<div class="n">${{realCount}}</div><div class="label">${{unitPlural}}</div>`;
-      wrap.appendChild(center);
-
-      const name = document.createElement('div'); name.className = 'doc-name';
-      name.textContent = cleanName(doc);
-
-      card.appendChild(name);
-      card.appendChild(wrap);
-      grid.appendChild(card);
+  const pickerBtn = document.getElementById('films-picker-btn');
+  const pickerPanel = document.getElementById('films-picker-panel');
+  if (pickerBtn && pickerPanel) {{
+    pickerBtn.addEventListener('click', (e) => {{
+      e.stopPropagation();
+      pickerPanel.classList.toggle('open');
+    }});
+    document.addEventListener('click', (e) => {{
+      if (!pickerPanel.contains(e.target) && e.target !== pickerBtn) {{
+        pickerPanel.classList.remove('open');
+      }}
     }});
   }}
+
+  const pickAll = document.getElementById('films-picker-all');
+  if (pickAll) pickAll.addEventListener('click', () => {{
+    filmsSelectedDocs = new Set(DATA.docs);
+    renderFilmsPickerList(); updateFilmsPickerCount(); renderFilmsPies();
+  }});
+
+  const pickNone = document.getElementById('films-picker-none');
+  if (pickNone) pickNone.addEventListener('click', () => {{
+    filmsSelectedDocs = new Set();
+    renderFilmsPickerList(); updateFilmsPickerCount(); renderFilmsPies();
+  }});
+
+  const pickDefault = document.getElementById('films-picker-default');
+  if (pickDefault) pickDefault.addEventListener('click', () => {{
+    filmsSelectedDocs = filmsDefaultSelection();
+    renderFilmsPickerList(); updateFilmsPickerCount(); renderFilmsPies();
+  }});
 
   const toggle = document.getElementById('films-toggle');
   const modeLabel = document.getElementById('films-mode-label');
   const desc = document.getElementById('films-desc');
+
+  function updateDesc() {{
+    if (!desc) return;
+    if (filmsPieMode === 'category') {{
+      desc.textContent = "Speaker-category share per film, by percent of that film's own classified segments.";
+    }} else if (filmsPieShowOutliers) {{
+      desc.textContent = "Top themes per film, sized by share of that film's total segments — including those that didn't fit clearly into any theme, shown as Outliers.";
+    }} else {{
+      desc.textContent = "Top themes per film, sized by share of that film's own classified segments — so short and long films compare fairly.";
+    }}
+  }}
+
   if (toggle) {{
     toggle.querySelectorAll('.films-toggle-btn').forEach(btn => {{
       btn.addEventListener('click', () => {{
-        mode = btn.dataset.mode;
+        filmsPieMode = btn.dataset.mode;
         toggle.querySelectorAll('.films-toggle-btn').forEach(b => b.classList.toggle('active', b === btn));
-        if (modeLabel) modeLabel.textContent = mode === 'category' ? 'Speaker Categories' : 'Themes';
-        if (desc) desc.textContent = mode === 'category'
-          ? "Speaker-category share per film, by percent of that film's own classified segments."
-          : "Top themes per film, sized by share of that film's own classified segments — so short and long films compare fairly.";
-        render();
+        if (modeLabel) modeLabel.textContent = filmsPieMode === 'category' ? 'Speaker Categories' : 'Themes';
+        const outlierToggleEl = document.getElementById('films-outlier-toggle');
+        if (outlierToggleEl) outlierToggleEl.style.display = filmsPieMode === 'category' ? 'none' : 'flex';
+        updateDesc();
+        renderFilmsPies();
       }});
     }});
   }}
 
-  render();
+  const outlierToggle = document.getElementById('films-outlier-toggle');
+  if (outlierToggle) {{
+    outlierToggle.querySelectorAll('.films-toggle-btn').forEach(btn => {{
+      btn.addEventListener('click', () => {{
+        filmsPieShowOutliers = btn.dataset.outliers === 'show';
+        outlierToggle.querySelectorAll('.films-toggle-btn').forEach(b => b.classList.toggle('active', b === btn));
+        updateDesc();
+        renderFilmsPies();
+      }});
+    }});
+  }}
+
+  renderFilmsPies();
 }})();
+
+// Kick off the sweep explorer last -- everything above has already rendered
+// its default (non-sweep) state, so if shared_data.json / sweep_configs.json
+// are missing or fail to load, the page is already fully correct with no
+// visible gap.
+initSweepExplorer();
+
+// ── SMOOTH IN-PAGE NAVIGATION (Prevents hash reloads & preserves sliders) ──
+document.querySelectorAll('nav a[href^="#"]').forEach(link => {{
+  link.addEventListener('click', e => {{
+    e.preventDefault();
+    const targetId = link.getAttribute('href').slice(1);
+    const targetEl = document.getElementById(targetId);
+    if (targetEl) {{
+      targetEl.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
+    }}
+  }});
+}});
 
 </script>
 </body>
@@ -2124,7 +3173,7 @@ def export_documentary_html(
     embedding_model,
     d3_js,
     notebook_name,
-    output_dir='visualizations',
+    output_dir='../visualizations',
     embeddings=None,
     strategy_label='Time-Window, Speaker-Metadata',
     chunks_are_single_speaker=False,
@@ -2188,7 +3237,7 @@ def export_documentary_html(
                                chunks_are_single_speaker=chunks_are_single_speaker,
                                production_type_map=production_type_map,
                                streaming_category_map=streaming_category_map)
-    html = render_html(data, d3_js, strategy_label=strategy_label)
+    html = render_html(data, d3_js, strategy_label=strategy_label, notebook_name=notebook_name)
 
     filename = f'{notebook_name}.html'
     os.makedirs(output_dir, exist_ok=True)
